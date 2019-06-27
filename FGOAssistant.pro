@@ -44,4 +44,5 @@ DISTFILES +=
 RESOURCES += \
     res.qrc
 
-RC_FILE = ico.rc
+RC_FILE = fgoass.rc
+#RC_FILE += version.rc
