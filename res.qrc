@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="Meilin">Resources/image/myapp.ico</file>
+        <file alias="AppICO">Resources/image/geshibeizhai.ico</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file alias="RowHeader">Resources/data/RowHeader.csv</file>
+        <file alias="RowHeader2">Resources/data/RowHeader2.csv</file>
+        <file alias="RowHeader3">Resources/data/RowHeader3.csv</file>
+        <file alias="Data">Resources/data/Data.csv</file>
+        <file alias="QP">Resources/data/QP.csv</file>
+        <file alias="New">Resources/data/New.fgh2</file>
+        <file alias="PlanShopData">Resources/data/PalnShopData.csv</file>
+        <file alias="PlanUnlimitedPoolData">Resources/data/PalnUPData.csv</file>
+        <file alias="PlanShopData2">Resources/data/PalnShopData2.csv</file>
+        <file alias="PlanUnlimitedPoolData2">Resources/data/PalnUPData2.csv</file>
+    </qresource>
+</RCC>

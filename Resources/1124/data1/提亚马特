@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-CN" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>提亚马特 - Mooncell - 玩家自由构筑的FGO中文Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"提亚马特","wgTitle":"提亚马特","wgCurRevisionId":106297,"wgRevisionId":106297,"wgArticleId":850,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["已复查的页面","英灵图鉴","山中虎铁","悠木碧","无法召唤"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"提亚马特","wgRelevantArticleId":850,"wgRequestId":"66e133ba2623ce78acad73ca","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlowThreadConfig":{"Avatar":"/extensions/Avatar/avatar.php?user=${username}","AnonymousAvatar":"/images/tx.jpg","CantPostNotice":"您没有权限发表评论，请查看站点关于评论的政策。"},"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","ext.gadget.GallerySlideShow":"ready","user.options":"loading","user.tokens":"loading","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0okd1b2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.smw.style","ext.smw.tooltips","ext.Tabber","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.collapsiblevector.collapsibleNav","ext.flowthread","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<link rel="alternate" type="application/rdf+xml" title="提亚马特" href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%AF%BC%E5%87%BARDF/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Mooncell (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fgo.wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"/>
+
+<script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?27f57f84c984a03441e21736633c0741";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script>
+<link href="https://lib.baomitu.com/font-awesome/5.0.8/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet">
+<meta name="theme-color" content="#3177b4">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script src="https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js"></script>
+
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-cn&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-提亚马特 rootpage-提亚马特 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="zh-CN" dir="ltr"><div class="mw-parser-output"><div id="scrollDiv">
+<ul>
+<li>您好～！欢迎来到Mooncell！如果您是第一次来到这里，可以点击这里<a href="/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95" title="特殊:用户登录">加入Mooncell</a>!</li>
+<li><b><span style="color:red;">如果您在Mooncell上发现某些内容错误/空缺，请勇于修正/添加！参与进来其实很容易！</span></b></li>
+<li>编辑页面前请先阅读<b><a href="/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="Mooncell:如何帮助我们完善网站">如何帮助我们完善网站</a>、<a href="/w/Mooncell:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81" title="Mooncell:常用代码">常用代码</a> 以及 <a href="/w/Mooncell:%E7%BC%96%E8%BE%91%E9%A1%BB%E7%9F%A5" title="Mooncell:编辑须知">编辑须知</a></b></li>
+<li>有任何意见、建议、求助都可以直接通过<a rel="nofollow" class="external text" href="https://call.fgo.wiki/?refid=17063">反馈渠道</a>、<a rel="nofollow" class="external text" href="https://jq.qq.com/?_wv=1027&amp;k=58xF1d4">编辑群</a>，或者直接在页面下方留言提出！</li>
+<li>欢迎有志向进行核查工作的御主！请参见<a href="/w/%E5%88%86%E7%B1%BB:%E6%9C%AA%E5%A4%8D%E6%9F%A5%E7%9A%84%E4%BB%8E%E8%80%85%E6%9D%A1%E7%9B%AE" title="分类:未复查的从者条目">需要核查的条目列表</a></li>
+<li>如希望帮助Mooncell发展，欢迎参与<a href="/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#.E9.99.A4.E4.BA.86.E8.B4.A1.E7.8C.AE.E5.86.85.E5.AE.B9.E5.A4.96.EF.BC.8C.E6.82.A8.E8.BF.98.E5.8F.AF.E4.BB.A5.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E6.9C.8D.E5.8A.A1.E5.99.A8.E8.B5.84.E6.BA.90" title="Mooncell:如何帮助我们完善网站">电池计划</a>及将本站加入广告白名单</li>
+<li>查看Mooncell的费用<a rel="nofollow" class="external text" href="https://shimo.im/sheet/pS23BQPrSUgOGVHN/">收支情况</a>，您的监督和关注有利于网站的透明及健康</li>
+<li>欢迎将Mooncell推荐给身边的其他玩家哦~</li>
+</ul>
+</div>
+</div></div></div><div class="mw-indicators mw-body-content">
+<div id="mw-indicator-Icon-CheckMark.png" class="mw-indicator"><a href="/w/%E5%88%86%E7%B1%BB:%E5%B7%B2%E5%A4%8D%E6%9F%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="这个页面中的全部内容已经过复查。最近一次复查是由梅林于2018-06-26完成的。"><img alt="已复查" src="/images/thumb/e/eb/Icon-CheckMark.png/24px-Icon-CheckMark.png" width="24" height="24" srcset="/images/e/eb/Icon-CheckMark.png 1.5x" /></a></div>
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="zh-CN">提亚马特</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">来自Mooncell</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="tl-idnav nomobile" style="display:block;margin:1px 1px 8px 1px; position:relative;left:50%; transform:translateX(-50%); width:600px; height:25px; font-size:16px; background:#85C1F7; border-radius:4px;">&#160;
+<div style="display:block;position:absolute;left:50%; bottom:0; transform:translateX(-50%); width:120px; height:25px; text-align:center; color:white; background:#4487DF; font-weight:bold;">&#160;<i class="fa-list fas" style="font-size:;color:;"></i>&#160;<a href="/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" title="英灵图鉴">英灵图鉴</a></div>
+<div style="display:block;position:absolute;left:12px; bottom:0; width:68px;overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><i class="fa-angle-left fas" style="font-size:;color:;"></i>&#160;<a href="/w/%E8%B1%B9%E4%BA%BA" title="豹人">No.148</a></div>
+<div style="display:block;position:absolute;left:86px; bottom:0; width:150px;overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E8%B1%B9%E4%BA%BA" title="豹人">豹人</a></div>
+<div style="display:block;position:absolute;right:12px; bottom:0; width:68px; text-align:right; overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E6%A2%85%E6%9E%97" title="梅林">No.150</a>&#160;<i class="fa-angle-right fas" style="font-size:;color:;"></i></div>
+<div style="display:block;position:absolute;right:86px; bottom:0; width:150px; text-align:right; overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E6%A2%85%E6%9E%97" title="梅林">梅林</a></div>
+</div>
+<div class="pathnav2 nodesktop" style="display:block; position:relative; height:24px; margin:1px 1px 8px 1px; padding:2px; background:rgba(0,0,0,0); border-radius:4px;">
+<div class="pathnav2-right" style="display:block; position:absolute; top:0; left:102px; max-width:60%; height:24px; background:#EBF7FE; border-radius:4px; font-size:16px; padding-left:14px; padding-right:14px; line-height:24px; overflow:hidden; text-overflow:ellipsis;white-space: nowrap;">提亚马特</div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 0;left:96px; width:10px; height:12px; background:#85C1F7; transform:skewX(30deg);"></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 12px; left:96px; width:10px; height:12px; background:#85C1F7; transform:skewX(-30deg);"></div>
+<div class="pathnav2-center" style="display:block; position:absolute; top:0; left:22px; width:68px; height:24px; background:#85C1F7; color:white; font-size:16px; padding-left:12px; line-height:24px;"><a href="/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" title="英灵图鉴">英灵图鉴</a></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 0;left:16px; width:10px; height:12px; background:#4487DF; transform:skewX(30deg);"></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 12px;;left:16px; width:10px; height:12px; background:#4487DF; transform:skewX(-30deg);"></div>
+<div class="pathnav2-leftbg" style="display:block; position:absolute; top:0; left:0; width:22px; height:24px; background:#4487DF; border-radius:4px;"></div>
+<p><a href="/w/%E9%A6%96%E9%A1%B5" title="首页"><i class="fa-home fas" style="font-size:16px;color:white;position: absolute; left:4px; top:4px;"></i></a>
+</p>
+</div> 
+<h2><span id="基础数值"></span><span class="mw-headline" id=".E5.9F.BA.E7.A1.80.E6.95.B0.E5.80.BC"><b>基础数值</b></span></h2>
+<table class="wikitable nomobile" style="text-align:center;width:100%;max-width:1000px;">
+<tbody><tr>
+<th colspan="6">提亚马特
+</th>
+<th rowspan="2"><a href="/w/%E6%96%87%E4%BB%B6:5%E6%98%9F.png" class="image"><img alt="5星.png" src="/images/thumb/c/c7/5%E6%98%9F.png/150px-5%E6%98%9F.png" width="150" height="39" srcset="/images/thumb/c/c7/5%E6%98%9F.png/225px-5%E6%98%9F.png 1.5x, /images/thumb/c/c7/5%E6%98%9F.png/300px-5%E6%98%9F.png 2x" /></a>
+</th></tr>
+<tr>
+<td colspan="6">ティアマト
+</td></tr>
+<tr>
+<td colspan="6">Tiamat
+</td>
+<th>No.149
+</th></tr>
+<tr>
+<th colspan="3">画师
+</th>
+<th colspan="3">声优
+</th>
+<th rowspan="22" width="300px"><a href="/w/%E6%96%87%E4%BB%B6:%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png" class="image"><img alt="提亚马特.png" src="/images/thumb/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png/285px-%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png" width="285" height="403" srcset="/images/thumb/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png/428px-%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png 1.5x, /images/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png 2x" /></a>
+</th></tr>
+<tr>
+<td colspan="3"><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E5.B1.B1.E4.B8.AD.E8.99.8E.E9.93.81" title="画师一览">山中虎铁</a>
+</td>
+<td colspan="3"><a href="/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#.E6.82.A0.E6.9C.A8.E7.A2.A7" title="声优一览">悠木碧</a>
+</td></tr>
+<tr>
+<th colspan="3">职阶
+</th>
+<th colspan="3">性别
+</th></tr>
+<tr>
+<td colspan="3">BeastII
+</td>
+<td colspan="3">女性(人形)/—(龙体)
+</td></tr>
+<tr>
+<th colspan="3">身高
+</th>
+<th colspan="3">体重
+</th></tr>
+<tr>
+<td colspan="3">160cm～7400万km<sup>2</sup>
+</td>
+<td colspan="3">??kg
+</td></tr>
+<tr>
+<th colspan="3">属性
+</th>
+<th colspan="3">隐藏属性
+</th></tr>
+<tr>
+<td colspan="3">混沌·恶(人形)/—(龙体)
+</td>
+<td colspan="3">兽
+</td></tr>
+<tr>
+<th width="90px">筋力
+</th>
+<th width="90px">耐久
+</th>
+<th width="90px">敏捷
+</th>
+<th width="90px">魔力
+</th>
+<th width="90px">幸运
+</th>
+<th width="90px">宝具
+</th></tr>
+<tr>
+<td>A+</td>
+<td>EX</td>
+<td>C</td>
+<td>A++</td>
+<td>EX</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="4">特性
+</th>
+<th>人型
+</th>
+<th>被EA特攻
+</th></tr>
+<tr>
+<td colspan="4"><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%B6%85%E5%B7%A8%E5%A4%A7" title="特性：超巨大">超巨大</a>(龙体)
+</td>
+<td><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E5%9E%8B#.E9.9D.9E.E4.BA.BA.E5.9E.8B.E4.BB.8E.E8.80.85" title="特性：人型">否</a>
+</td>
+<td><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A2%ABEA%E7%89%B9%E6%94%BB#.E4.B8.8D.E8.A2.AB.E7.89.B9.E6.94.BB.E7.9A.84.E4.BB.8E.E8.80.85" title="特性：被EA特攻">否</a>
+</td></tr>
+<tr>
+<th colspan="6">昵称
+</th></tr>
+<tr>
+<td colspan="6">提妈
+</td></tr></tbody></table>
+<table class="wikitable nodesktop" style="text-align:center;display:table;width:100%;white-space:normal;">
+<tbody><tr>
+<th colspan="6">提亚马特
+</th></tr>
+<tr>
+<td colspan="6">ティアマト
+</td></tr>
+<tr>
+<td colspan="6">Tiamat
+</td></tr>
+<tr>
+<td colspan="3">No.149
+</td>
+<td colspan="3"><a href="/w/%E6%96%87%E4%BB%B6:5%E6%98%9F.png" class="image"><img alt="5星.png" src="/images/thumb/c/c7/5%E6%98%9F.png/150px-5%E6%98%9F.png" width="150" height="39" srcset="/images/thumb/c/c7/5%E6%98%9F.png/225px-5%E6%98%9F.png 1.5x, /images/thumb/c/c7/5%E6%98%9F.png/300px-5%E6%98%9F.png 2x" /></a>
+</td></tr>
+<tr>
+<td colspan="6"><a href="/w/%E6%96%87%E4%BB%B6:%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png" class="image"><img alt="提亚马特.png" src="/images/thumb/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png/285px-%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png" width="285" height="403" srcset="/images/thumb/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png/428px-%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png 1.5x, /images/b/b5/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9.png 2x" /></a>
+</td></tr>
+<tr>
+<th colspan="3">画师
+</th>
+<th colspan="3">声优
+</th></tr>
+<tr>
+<td colspan="3"><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E5.B1.B1.E4.B8.AD.E8.99.8E.E9.93.81" title="画师一览">山中虎铁</a>
+</td>
+<td colspan="3"><a href="/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#.E6.82.A0.E6.9C.A8.E7.A2.A7" title="声优一览">悠木碧</a>
+</td></tr>
+<tr>
+<th colspan="3">职阶
+</th>
+<th colspan="3">性别
+</th></tr>
+<tr>
+<td colspan="3">BeastII
+</td>
+<td colspan="3">女性(人形)/—(龙体)
+</td></tr>
+<tr>
+<th colspan="3">身高
+</th>
+<th colspan="3">体重
+</th></tr>
+<tr>
+<td colspan="3">160cm～7400万km<sup>2</sup>
+</td>
+<td colspan="3">??kg
+</td></tr>
+<tr>
+<th colspan="3">属性
+</th>
+<th colspan="3">隐藏属性
+</th></tr>
+<tr>
+<td colspan="3">混沌·恶(人形)/—(龙体)
+</td>
+<td colspan="3">兽
+</td></tr>
+<tr>
+<th width="90px">筋力
+</th>
+<th width="90px">耐久
+</th>
+<th width="90px">敏捷
+</th>
+<th width="90px">魔力
+</th>
+<th width="90px">幸运
+</th>
+<th width="90px">宝具
+</th></tr>
+<tr>
+<td>A+</td>
+<td>EX</td>
+<td>C</td>
+<td>A++</td>
+<td>EX</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="6">特性
+</th></tr>
+<tr>
+<td colspan="6"><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%B6%85%E5%B7%A8%E5%A4%A7" title="特性：超巨大">超巨大</a>(龙体)
+</td></tr>
+<tr>
+<th colspan="2">人型
+</th>
+<th colspan="4">被「天地乖离开辟之星」特攻
+</th></tr>
+<tr>
+<td colspan="2"><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E5%9E%8B#.E9.9D.9E.E4.BA.BA.E5.9E.8B.E4.BB.8E.E8.80.85" title="特性：人型">否</a>
+</td>
+<td colspan="4"><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A2%ABEA%E7%89%B9%E6%94%BB#.E4.B8.8D.E8.A2.AB.E7.89.B9.E6.94.BB.E7.9A.84.E4.BB.8E.E8.80.85" title="特性：被EA特攻">否</a>
+</td></tr>
+<tr>
+<th colspan="6">昵称
+</th></tr>
+<tr>
+<td colspan="6">提妈
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span id="资料"></span><span class="mw-headline" id=".E8.B5.84.E6.96.99">资料</span></h2>
+<div id="tabber-9ac8cb04cf03efed88d0330b7957f3b6" class="tabber">
+			<div class="tabbertab" title="角色详情">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>角色详情
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>美索不达米亚神话中创世神之一。<br />
+诸神都是身为淡水的阿勃祖<br />
+与身为盐水的提亚马特生下的。<br />
+之后，身为孩子的诸神反叛原父阿勃祖，<br />
+获得了世界的支配权。<br />
+这时，提亚马特温和地容忍了孩子们的行为。<br />
+这充分证明了她对孩子们的爱多过对丈夫的爱。<br />
+<br />
+然而，诸神甚至开始逆反身为母亲的提亚马特。<br />
+提亚马特哀叹、疯狂，产下了作为自己新孩子的<br />
+十一魔兽，与诸神对决。<br />
+战斗的最后，提亚马特与十一魔兽被击败。<br />
+诸神将她的尸体一分为二，创造了天地，<br />
+传说这就是人界创世的仪式。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料1">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>身高／体重：160cm～7400万km2·？？kg<br />
+出处：古代美索不达米亚神话<br />
+地域：美索不达米亚<br />
+属性：混沌·恶　　　性别：女性<br />
+黑泥也是提亚马特身高的一部分。<br />
+只不过泥是虚数，所以重量无法计算。<br />
+与之相反，体积则是无限的。<br />
+也就是四次元口袋。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料2">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>创世后即被抛弃的母胎。<br />
+作为孕育生命的土壤被使用，<br />
+但当地球环境稳定，生态系统确立后，<br />
+就作为无用之物，被流放到虚数世界<br />
+（内侧世界。甚至不是平行世界，<br />
+没有生命的虚数空间）的『母亲之海』。<br />
+<br />
+……既然生态系统已经确立，<br />
+那会随机设计生命的她也就没有用了。<br />
+在生命体获得与这行星相符的知性过程中，<br />
+她根本就是个障碍。<br />
+之后，提亚马特一直在虚数世界中等待着<br />
+返回原来地球的机会。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料3">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>【职阶技能】 <br />
+<br />
+兽之权能：A<br />
+可以被称为对人类的技能。<br />
+英灵、神灵，无论为何，<br />
+对但凡从“母胎”中诞生的存在都能发挥特攻性能。<br />
+<br />
+这不仅限于BeastⅡ本体，<br />
+也会付与她诞下的所有魔兽。<br />
+<br />
+单独显现：B<br />
+能独立出现与现世的技能。<br />
+一旦显现，就能用七日时间夺取印度洋。<br />
+自显现之后，不眠不休地诞下魔物，将人类吞噬殆尽。<br />
+与之相反，由于BeastⅡ本体就是海洋，<br />
+所以不可能走上陆地。<br />
+扫荡人类就成为自己孩子魔兽们的任务了。<br />
+另外，该技能也表现了“已经存在于任何时空中”，<br />
+因此不仅运用时间旅行造成的时间悖论等攻击<br />
+对她无效，连各种即死系攻击也能被取消。<br />
+<br />
+自我改造：EX<br />
+利用黑色的生命之海重新替换自己的灵基。<br />
+从通常的灵基状态（命运之女）成长为<br />
+全长超过60米的龙体。<br />
+化为龙体的提亚马特<br />
+可以让阶级在A++以下的攻击无效化。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料4">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>生命之海：EX<br />
+BeastⅡ乃是孕育出生命的海洋本身。<br />
+通过循环地球创世记的真以太，<br />
+令这片海洋可以无限供给魔力。<br />
+对被囚禁于黑泥，陷入海中的人随机附加<br />
+自我改造、生态变化、生态融合、个体增殖等技能。<br />
+从海洋出现到地上时，必须与BeastⅡ完成<br />
+细胞级别的契约……也就是碱基契约（Amino Geass），<br />
+自动成为人类的敌人。<br />
+<br />
+Nega Genesis：A<br />
+与BeastⅥ拥有的『Nega Messiah』属于同类技能。<br />
+能颠覆现有进化论、地球创世预言等等的概念结界。<br />
+负有这个的BeastⅡ对从正确人类史中诞生的<br />
+从者的宝具有极强的耐性。<br />
+<br />
+怪力：A++<br />
+身为魔物的能力。能令自身筋力提升。<br />
+几乎可以说是最顶级的存在。身为黑泥之躯、龙体<br />
+显现的提亚马特的筋力就是巨人级的。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料5">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>提亚马特通过人理奠基的崩溃，以及圣杯的力量，<br />
+回到了这侧的世界，但是，<br />
+她处于深深的沉睡。<br />
+这是基于梅林魔术的问题暂且不提，<br />
+由于迦勒底的攻击，从沉睡中醒来，<br />
+服从本能，开始扫荡人类。<br />
+<br />
+虽说这是基于自己被无情抛弃的仇恨、憎恶、悲伤，<br />
+也是为了重新改变地球的生态系统，沉溺于<br />
+作为万物之母复归『喜悦』中的行为。<br />
+<br />
+基于以上本性，她的职阶才被确定了。<br />
+创世女神不过是虚伪之名。<br />
+这是被人类抛弃了的<br />
+最受人类史拒绝的大灾难。<br />
+<br />
+其名为BeastⅡ。<br />
+七个人类恶之一，拥有『回归』之理的兽。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div>
+			<div class="tabbertab" title="资料6">
+				<p class="mw-empty-elt"></p><table class="wikitable" style="text-align:center;width:825px;display:table;white-space:normal;">
+<tbody><tr>
+<th>解锁条件：通关「<a href="/w/%E7%AC%AC%E4%B8%83%E7%89%B9%E5%BC%82%E7%82%B9_%E7%BB%9D%E5%AF%B9%E9%AD%94%E5%85%BD%E6%88%98%E7%BA%BF_%E5%B7%B4%E6%AF%94%E4%BC%A6%E5%B0%BC%E4%BA%9A/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE#.E7.AC.AC19.E8.8A.82" title="第七特异点 绝对魔兽战线 巴比伦尼亚/关卡配置">起源之星，仰望天空</a>」后开放
+</th></tr>
+<tr>
+<td style="text-align:left;"><div class="poem">
+<p>无法确认近乎人格的存在。<br />
+是失去了理想，还是从一开始就没有理性，<br />
+这两者都可以说得通。<br />
+只将产子、养育、付出爱视为生存意义，<br />
+却因遭到否定，才决定向做出了<br />
+『你是无用之物』决议的人类发动战争。<br />
+在『若不驱除现人类，自己就会被杀』的<br />
+极为原始的系统驱使下行动。<br />
+<br />
+动机·对御主的态度<br />
+七十亿分之一。理所当然的抹杀对象。<br />
+对人类来说，BeastⅡ是可怕的侵略者（Invader），<br />
+但对BeastⅡ来说，人类才是外星人（Alien）。
+</p>
+</div>
+</td></tr></tbody></table><p class="mw-empty-elt"></p>
+			</div></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20181125100519
+Cache expiry: 86400
+Dynamic content: false
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.088 seconds
+Real time usage: 0.099 seconds
+Preprocessor visited node count: 857/1000000
+Preprocessor generated node count: 6285/1000000
+Post‐expand include size: 25424/2097152 bytes
+Template argument size: 12574/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 2/20
+Unstrip post‐expand size: 10569/5000000 bytes
+ExtLoops count: 0/300
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   75.915      1 -total
+ 39.63%   30.086      1 模板:基础数值(无法召唤)
+ 32.85%   24.938      1 模板:Pathnav2
+ 29.99%   22.768      1 模板:Pathnav2/core
+ 15.83%   12.020      1 模板:羁绊故事
+ 11.25%    8.540      1 模板:Review
+ 10.46%    7.937      1 模板:Top_icon
+  8.73%    6.630      1 模板:Pathnav2/svtprev
+  7.14%    5.423      1 模板:Pathnav2/svtnext
+  5.65%    4.292      4 模板:Fa
+-->
+</div>
+<!-- Saved in parser cache with key my_wiki-fate:pcache:idhash:850-0!canonical and timestamp 20181125100519 and revision id 106297
+ -->
+</div>					<div class="printfooter">
+						取自“<a dir="ltr" href="https://fgo.wiki/index.php?title=提亚马特&amp;oldid=106297">https://fgo.wiki/index.php?title=提亚马特&amp;oldid=106297</a>”					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/w/%E7%89%B9%E6%AE%8A:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="特殊:页面分类">分类</a>：<ul><li><a href="/w/%E5%88%86%E7%B1%BB:%E5%B1%B1%E4%B8%AD%E8%99%8E%E9%93%81" title="分类:山中虎铁">山中虎铁</a></li><li><a href="/w/%E5%88%86%E7%B1%BB:%E6%82%A0%E6%9C%A8%E7%A2%A7" title="分类:悠木碧">悠木碧</a></li><li><a href="/w/%E5%88%86%E7%B1%BB:%E6%97%A0%E6%B3%95%E5%8F%AC%E5%94%A4" title="分类:无法召唤">无法召唤</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：<ul><li><a href="/w/%E5%88%86%E7%B1%BB:%E5%B7%B2%E5%A4%8D%E6%9F%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="分类:已复查的页面">已复查的页面</a></li><li><a href="/w/%E5%88%86%E7%B1%BB:%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" title="分类:英灵图鉴">英灵图鉴</a></li></ul></div></div><div id='mw-data-after-content'>
+	<div id="rating-main">
+  <div class="moegirl_rating clearfix">
+    <div class="rating_title">为本页面评分:</div>
+    <div class="rating_body_disabled rating_main" >
+      <ul class="mr-rating-ul">
+        <li><a class="r-1" >1</a></li>
+        <li><a class="r-2" >2</a></li>
+        <li><a class="r-3" >3</a></li>
+        <li><a class="r-4" >4</a></li>
+        <li><a class="r-5" >5</a></li>
+      </ul>
+
+      <div class="rating_body_result" ></div>
+	  <div class="moegirl-rating-error-tip"></div>
+    </div>
+    <div class="rating_result" ><div class="result_icon loading" ></div><div class="result_text" ></div></div>
+  </div>
+</div>
+<script type="text/javascript" >
+window.RLQ = window.RLQ || [];
+window.RLQ.push(function(){
+	mw.loader.using( 'ext.MoegirlRating', function() {
+		new MoegirlRatingControl( '#rating-main', 850, '' ).init();
+	});
+});
+</script>
+</div>
+				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>导航菜单</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">个人工具</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" title="建议您创建一个账户并登录，但这不是强制的">创建账户</a></li><li id="pt-login"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">名字空间</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/w/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" title="查看内容页面[c]" accesskey="c">页面</a></span></li><li id="ca-talk" class="new"><span><a href="/index.php?title=%E8%AE%A8%E8%AE%BA:%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;action=edit&amp;redlink=1" rel="discussion" title="关于内容页面的讨论（页面不存在）[t]" accesskey="t">讨论</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>变种</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">视图</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/w/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9">阅读</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;action=edit" title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></span></li><li id="ca-history" class="collapsible"><span><a href="/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;action=history" title="本页面过去的版本[h]" accesskey="h">查看历史</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>更多</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">搜索</label>
+						</h3>
+						<form action="/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="搜索Mooncell" title="搜索Mooncell[f]" accesskey="f" id="searchInput"/><input type="hidden" value="特殊:搜索" name="title"/><input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/w/%E9%A6%96%E9%A1%B5"  title="访问首页"></a></div>
+						<div class="portal" role="navigation" id="p-" aria-labelledby="p--label">
+			<h3 id="p--label"></h3>
+			<div class="body">
+								<ul>
+					<li id="n-.E8.8B.B1.E7.81.B5.E5.9B.BE.E9.89.B4"><a href="/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4">英灵图鉴</a></li><li id="n-.E7.A4.BC.E8.A3.85.E5.9B.BE.E9.89.B4"><a href="/w/%E7%A4%BC%E8%A3%85%E5%9B%BE%E9%89%B4">礼装图鉴</a></li><li id="n-.E6.8C.87.E4.BB.A4.E7.BA.B9.E7.AB.A0.E5.9B.BE.E9.89.B4"><a href="/w/%E6%8C%87%E4%BB%A4%E7%BA%B9%E7%AB%A0%E5%9B%BE%E9%89%B4">指令纹章图鉴</a></li><li id="n-.E6.B8.B8.E6.88.8F.E6.95.B0.E6.8D.AE.E5.9F.BA.E7.A1.80"><a href="/w/%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80">游戏数据基础</a></li><li id="n-.E5.90.84.E7.B1.BB.E4.BF.A1.E6.81.AF.E6.B1.87.E6.80.BB"><a href="/w/%E5%88%86%E7%B1%BB:%E6%B1%87%E6%80%BB">各类信息汇总</a></li><li id="n-.E6.96.B0.E4.BA.BA.E5.BE.A1.E4.B8.BBQ.EF.BC.86A"><a href="/w/%E6%96%B0%E4%BA%BA%E5%BE%A1%E4%B8%BBQ%EF%BC%86A">新人御主Q＆A</a></li><li id="n-.E6.8A.BD.E5.8D.A1.E6.A8.A1.E6.8B.9F.E5.99.A8"><a href="/w/%E6%8A%BD%E5%8D%A1%E6%A8%A1%E6%8B%9F%E5%99%A8">抽卡模拟器</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-.E7.83.AD.E9.97.A8" aria-labelledby="p-.E7.83.AD.E9.97.A8-label">
+			<h3 id="p-.E7.83.AD.E9.97.A8-label">热门</h3>
+			<div class="body">
+								<ul>
+					<li id="n-.E5.B9.95.E9.97.B4.E7.89.A9.E8.AF.AD.E6.B4.BB.E5.8A.A8-.E7.AC.AC.E4.BA.8C.E5.BC.B9"><a href="/w/%E5%B9%95%E9%97%B4%E7%89%A9%E8%AF%AD%E6%B4%BB%E5%8A%A8/%E7%AC%AC2%E5%BC%B9">幕间物语活动 第二弹</a></li><li id="n-.E6.97.A5.E6.9C.8D.EF.BC.9A2.3.E5.BC.80.E5.B9.95.E5.89.8D.E5.A4.95"><a href="/w/%E7%AC%AC2%E9%83%A8_%E7%AC%AC3%E7%AB%A0%E3%80%8CLostbelt_No.3_%E4%BA%BA%E6%99%BA%E7%BB%9F%E5%90%88%E7%9C%9F%E5%9B%BD_SIN_%E7%BA%A2%E4%B9%8B%E6%9C%88%E4%B8%8B%E7%BE%8E%E4%BA%BA%E3%80%8D%E5%BC%80%E5%B9%95%E5%89%8D%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8">日服：2.3开幕前夕</a></li><li id="n-.E5.9B.BD.E6.9C.8D.EF.BC.9A.E5.A4.8D.E5.88.BB.E4.B8.87.E5.9C.A32017"><a href="/w/%E5%A4%8D%E5%88%BB%EF%BC%9AHalloween_Comeback%EF%BC%81_%E8%B6%85%E6%9E%81%E2%98%86%E5%A4%A7%E5%8D%97%E7%93%9C%E6%9D%91_%EF%BD%9E%E8%B8%8F%E4%B8%8A%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E2%80%A6%E2%80%A6%EF%BD%9E_%E8%BD%BB%E9%87%8F%E7%89%88">国服：复刻万圣2017</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-.E6.89.A9.E5.B1.95" aria-labelledby="p-.E6.89.A9.E5.B1.95-label">
+			<h3 id="p-.E6.89.A9.E5.B1.95-label">扩展</h3>
+			<div class="body">
+								<ul>
+					<li id="n-.E5.85.B3.E5.8D.A1.E9.85.8D.E7.BD.AE"><a href="/w/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE">关卡配置</a></li><li id="n-.E6.95.8C.E4.BA.BA.E4.B8.80.E8.A7.88"><a href="/w/%E6%95%8C%E4%BA%BA%E4%B8%80%E8%A7%88">敌人一览</a></li><li id="n-.E9.81.93.E5.85.B7.E4.B8.80.E8.A7.88"><a href="/w/%E9%81%93%E5%85%B7%E4%B8%80%E8%A7%88">道具一览</a></li><li id="n-.E6.8A.80.E8.83.BD.E4.B8.80.E8.A7.88"><a href="/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88">技能一览</a></li><li id="n-.E6.B4.BB.E5.8A.A8.E4.B8.80.E8.A7.88"><a href="/w/%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%A7%88">活动一览</a></li><li id="n-.E5.BE.A1.E4.B8.BB.E8.A3.85.E5.A4.87"><a href="/w/%E5%BE%A1%E4%B8%BB%E8%A3%85%E5%A4%87">御主装备</a></li><li id="n-.E7.8A.B6.E6.80.81.E4.B8.80.E8.A7.88"><a href="/w/%E7%8A%B6%E6%80%81%E4%B8%80%E8%A7%88">状态一览</a></li><li id="n-.E5.8D.A1.E6.B1.A0.E4.B8.80.E8.A7.88"><a href="/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88">卡池一览</a></li><li id="n-.E7.81.B5.E8.A1.A3.E4.B8.80.E8.A7.88"><a href="/w/%E7%81%B5%E8%A1%A3%E4%B8%80%E8%A7%88">灵衣一览</a></li><li id="n-.E9.9F.B3.E4.B9.90.E9.89.B4.E8.B5.8F"><a href="/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F">音乐鉴赏</a></li><li id="n-.E5.A3.B0.E4.BC.98.E4.B8.80.E8.A7.88"><a href="/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88">声优一览</a></li><li id="n-.E7.94.BB.E5.B8.88.E4.B8.80.E8.A7.88"><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88">画师一览</a></li><li id="n-.E7.99.BB.E5.9C.BA.E4.BA.BA.E7.89.A9"><a href="/w/%E7%99%BB%E5%9C%BA%E4%BA%BA%E7%89%A9">登场人物</a></li><li id="n-.E7.9B.B8.E5.85.B3.E6.95.B0.E6.8D.AE.E8.AE.A1.E7.AE.97.E5.99.A8"><a href="/w/%E8%AE%A1%E7%AE%97%E5%99%A8">相关数据计算器</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-.E8.B6.A3.E5.91.B3" aria-labelledby="p-.E8.B6.A3.E5.91.B3-label">
+			<h3 id="p-.E8.B6.A3.E5.91.B3-label">趣味</h3>
+			<div class="body">
+								<ul>
+					<li id="n-FGO.E7.9B.B8.E5.85.B3.E8.A1.A8.E6.83.85.E5.8C.85"><a href="/w/FGO%E7%9B%B8%E5%85%B3%E8%A1%A8%E6%83%85%E5%8C%85">FGO相关表情包</a></li><li id="n-FGO.E5.90.8D.E4.BA.BA.E5.BD.95"><a href="/w/FGO%E5%90%8D%E4%BA%BA%E5%BD%95">FGO名人录</a></li><li id="n-FGO.E9.BB.91.E8.AF.9D.C2.B7.E6.A2.97.C2.B7.E6.88.90.E5.8F.A5"><a href="/w/FGO%E9%BB%91%E8%AF%9D%C2%B7%E6%A2%97%C2%B7%E6%88%90%E5%8F%A5">FGO黑话·梗·成句</a></li><li id="n-.E6.B8.B8.E6.88.8F.E5.8D.AB.E6.98.9F.E4.B8.80.E8.A7.88"><a href="/w/%E6%B8%B8%E6%88%8F%E5%8D%AB%E6%98%9F%E4%B8%80%E8%A7%88">游戏卫星一览</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-.E5.B8.B8.E7.94.A8" aria-labelledby="p-.E5.B8.B8.E7.94.A8-label">
+			<h3 id="p-.E5.B8.B8.E7.94.A8-label">常用</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/w/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-recentchanges"><a href="/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/w/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li><li id="n-SE.RA.PH"><a href="/w/Mooncell:SE.RA.PH">SE.RA.PH</a></li><li id="n-.E6.A8.A1.E6.9D.BF.E4.B8.80.E8.A7.88"><a href="/w/%E5%88%86%E7%B1%BB:Mooncell%E6%A8%A1%E6%9D%BF">模板一览</a></li><li id="n-.E7.BC.96.E8.BE.91.E6.8C.87.E5.8D.97"><a href="/w/Mooncell:%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97">编辑指南</a></li><li id="n-contributionscores"><a href="/w/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E5%BE%97%E5%88%86">贡献分数</a></li><li id="n-.E9.A1.B5.E9.9D.A2.E9.93.BE.E6.8E.A5"><a href="//fgo.wiki/index.php?curid=850" rel="nofollow">页面链接</a></li><li id="n-.E5.A6.82.E4.BD.95.E6.94.AF.E6.8C.81.E6.88.91.E4.BB.AC"><a href="/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#.E9.99.A4.E4.BA.86.E8.B4.A1.E7.8C.AE.E5.86.85.E5.AE.B9.E5.A4.96.EF.BC.8C.E6.82.A8.E8.BF.98.E5.8F.AF.E4.BB.A5.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E6.9C.8D.E5.8A.A1.E5.99.A8.E8.B5.84.E6.BA.90">如何支持我们</a></li><li id="n-.E6.94.B6.E6.94.AF.E4.B8.80.E8.A7.88"><a href="https://shimo.im/sheet/pS23BQPrSUgOGVHN/" rel="nofollow">收支一览</a></li><li id="n-.E5.8F.8D.E9.A6.88.E6.B8.A0.E9.81.93"><a href="https://call.fgo.wiki/?refid=850" rel="nofollow">反馈渠道</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">工具</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/w/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" rel="nofollow" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/w/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">可打印版本</a></li><li id="t-permalink"><a href="/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;oldid=106297" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;action=info" title="关于此页面的更多信息">页面信息</a></li><li id="t-cite"><a href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;id=106297" title="关于如何引用本页的信息">引用本页</a></li><li id="t-smwbrowselink"><a href="/w/%E7%89%B9%E6%AE%8A:%E6%B5%8F%E8%A7%88/:%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9" rel="search">浏览属性</a></li>				</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> 本页面最后编辑于2018年9月23日 (星期日) 17:46。</li>
+								<li id="footer-info-copyright">本网站内使用的游戏图片、动画、音频、文本原文，用于更好的表现游戏资料，其版权属于TYPE-MOON/FGO PROJECT。<br>除非另有声明，网站其他内容采用<a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享</a>授权。</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="/w/Mooncell:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="Mooncell:隐私政策">隐私政策</a></li>
+								<li id="footer-places-about"><a href="/w/Mooncell:%E5%85%B3%E4%BA%8E" title="Mooncell:关于">关于Mooncell</a></li>
+								<li id="footer-places-disclaimer"><a href="/w/Mooncell:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="Mooncell:免责声明">免责声明</a></li>
+								<li id="footer-places-beian"><a href="/w/%E9%A6%96%E9%A1%B5" title="首页">粤ICP备18102655号-1</a></li>
+								<li id="footer-places-mobileview"><a href="//fgo.wiki/index.php?title=%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><img src="/resources/assets/licenses/cc-by-nc-sa.png" alt="知识共享署名-非商业性使用-相同方式共享" width="88" height="31"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="/extensions/SemanticMediaWiki/includes/../res/images/smw_button.png" alt="Powered by Semantic MediaWiki" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.088","walltime":"0.099","ppvisitednodes":{"value":857,"limit":1000000},"ppgeneratednodes":{"value":6285,"limit":1000000},"postexpandincludesize":{"value":25424,"limit":2097152},"templateargumentsize":{"value":12574,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":2,"limit":20},"unstrip-size":{"value":10569,"limit":5000000},"timingprofile":["100.00%   75.915      1 -total"," 39.63%   30.086      1 模板:基础数值(无法召唤)"," 32.85%   24.938      1 模板:Pathnav2"," 29.99%   22.768      1 模板:Pathnav2/core"," 15.83%   12.020      1 模板:羁绊故事"," 11.25%    8.540      1 模板:Review"," 10.46%    7.937      1 模板:Top_icon","  8.73%    6.630      1 模板:Pathnav2/svtprev","  7.14%    5.423      1 模板:Pathnav2/svtnext","  5.65%    4.292      4 模板:Fa"]},"cachereport":{"timestamp":"20181125100519","ttl":86400,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73});});</script>
+	</body>
+</html>

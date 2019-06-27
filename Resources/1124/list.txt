@@ -1,0 +1,1782 @@
+  * 编辑页面前请先阅读*如何帮助我们完善网站
+    <https://fgo.wiki/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6
+    %88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99>、常用代码
+    <https://fgo.wiki/w/Mooncell:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81>
+    以及 编辑须知
+    <https://fgo.wiki/w/Mooncell:%E7%BC%96%E8%BE%91%E9%A1%BB%E7%9F%A5>*
+  * 有任何意见、建议、求助都可以直接通过反馈渠道
+    <https://call.fgo.wiki/?refid=17063>、编辑群
+    <https://jq.qq.com/?_wv=1027&k=58xF1d4>，或者直接在页面下方留言提出！
+  * 欢迎有志向进行核查工作的御主！请参见需要核查的条目列表
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%9C%AA%E5%A4%8D%E6%9F%A5%E7%9A%84%E4%BB%8E%E8%80%85%E6%9D%A1%E7%9B%AE>
+  * 如希望帮助Mooncell发展，欢迎参与电池计划
+    <https://fgo.wiki/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6
+    %88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB
+    %99#.E9.99.A4.E4.BA.86.E8.B4.A1.E7.8C.AE.E5.86.85.E5.AE.B9.E5.A4.96.EF.BC.8C.E6.82.A8.E8.BF.98.E5.8F.AF.E4.BB.A5.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E6.9C.8D.E5.8A.A1.E5.99.A8.E8.B5.84.E6.BA.90>
+    及将本站加入广告白名单
+  * 查看Mooncell的费用收支情况 <https://shimo.im/sheet/pS23BQPrSUgOGVHN
+    />，您的监督和关注有利于网站的透明及健康
+  * 欢迎将Mooncell推荐给身边的其他玩家哦~
+  * 您好～！欢迎来到Mooncell！如果您是第一次来到这里，可以点击这里加入
+    Mooncell
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95>!
+  * *如果您在Mooncell上发现某些内容错误/空缺，请勇于修正/添加！参与进来
+    其实很容易！*
+
+
+  英灵图鉴
+
+来自Mooncell
+跳转至： 导航 <#mw-head>、 搜索 <#p-search>
+BB-notice-body.png
+前~辈~……Mooncell需要你的支持……
+请抽空了解一下我们的广告政策。
+//
+Tl-ad-normal-mask.png <https://fgo.wiki/w/Mooncell:%E5%B9%BF%E5%91%8A>
+
+BB-notice-hand.png
+下方可能显示第三方提供的广告。感谢您和赞助商对我们的支持。了解我们为何需
+要广告 <https://fgo.wiki/w/Mooncell:%E5%B9%BF%E5%91%8A>
+下方可能显示第三方提供的广告。了解我们为何需要广告
+<https://fgo.wiki/w/Mooncell:%E5%B9%BF%E5%91%8A>
+
+快捷方式^[?
+<https://fgo.wiki/w/Mooncell:%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F>]
+
+  * SVT <https://fgo.wiki/w/SVT>
+
+展开一般筛选[清空 <javascript:void(0);>]
+稀有度 全选
+清除
+0星
+1星
+2星
+3星
+4星
+5星
+配卡 全选
+清除
+三绿
+三蓝
+三红
+两蓝两红
+两绿两红
+两绿两蓝
+宝具 全选
+清除
+Quick
+Arts
+Buster
+全选
+清除
+单体
+全体
+辅助
+获取途径 全选
+清除
+圣晶石常驻
+剧情限定
+期间限定
+友情点召唤
+活动赠送
+通关报酬
+无法获得
+其他
+进度 全选
+清除
+国服已实装
+国服未实装
+54选一
+
+展开战斗特性筛选[清空 <javascript:void(0);>]
+性别 全选
+清除
+男性
+女性
+其他
+属性 全选
+清除
+秩序
+中立
+混沌
+全选
+清除
+善
+中庸
+恶
+其他
+全选
+清除
+天
+地
+人
+星
+兽
+其他特性 全选
+清除
+龙
+骑乘
+神性
+猛兽
+魔性
+王
+同时满足
+天地(拟似除外)
+罗马
+亚瑟
+阿尔托莉雅脸
+EA不特攻
+所爱之人
+反向筛选
+希腊神话男性
+人类威胁
+无特殊特性
+
+排序
+编号升序
+编号降序
+ATK升序
+ATK降序
+HP升序
+HP降序
+极简模式
+展开如需分享筛选结果，请点此复制链接 <javascript:void(0);>。
+https://fgo.wiki/w/SVT
+
+◀上一页 <javascript:void(0);> 每页 共225条 第 页 下一页▶
+<javascript:void(0);>
+No. 	头像 	姓名 	宝具 	职阶 	配卡 	属性 	获取途径 	满级ATK 	满级HP
+*225*
+<https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90(Caster)> 	酒吞
+童子 <https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90(Caster)>
+酒呑童子
+Shuten-Douji 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*地* 	*活动赠送* 	*9538* 	*11025*
+*224* 	<https://fgo.wiki/w/%E8%A5%BF%E6%89%98%E5%A5%88> 	西托奈
+<https://fgo.wiki/w/%E8%A5%BF%E6%89%98%E5%A5%88>
+シトナイ
+Shitonai 	
+*单体* 	<https://fgo.wiki/w/Alterego> 		*天* 	*剧情限定* 	*11668* 	*13965*
+*223*
+<https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3(Saber)>
+	迪尔姆德・奥迪那
+<https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3(Saber)>
+ディルムッド・オディナ
+Diarmuid Ua Duibhne 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻* 	*10048* 	*11362*
+*222*
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92XX> 	谜
+之女主角XX
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92XX>
+謎のヒロインXX
+Mysterious Heroine XX 	
+*单体* 	<https://fgo.wiki/w/Foreigner> 		*星* 	*期间限定* 	*9751* 	*11250*
+*221*
+<https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99(Saber)> 	女王梅
+芙 <https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99(Saber)>
+女王メイヴ
+Queen Medb 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*期间限定* 	*8017* 	*13609*
+*220* 	<https://fgo.wiki/w/BB(SSR)> 	BB <https://fgo.wiki/w/BB(SSR)>
+BB
+BB 	
+*全体* 	<https://fgo.wiki/w/MoonCancer> 		*地* 	*期间限定* 	*11182*
+*14812*
+*219* 	<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Alter)(Berserker)> 	贞德
+(Alter) <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Alter)(Berserker)>
+ジャンヌ・ダルク〔オルタ〕
+Jeanne d'Arc (Alter) 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*活动赠送* 	*10298* 	*9922*
+*218* 	<https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8(Assassin)> 	牛若
+丸 <https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8(Assassin)>
+牛若丸
+Ushiwakamaru 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*期间限定* 	*9456* 	*10580*
+*217*
+<https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)> 	茨木
+童子 <https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)>
+茨木童子
+Ibaraki-Douji 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*期间限定* 	*9133* 	*12354*
+*216* 	<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Archer)> 	贞德
+<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Archer)>
+ジャンヌ・ダルク
+Jeanne d'Arc 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*人* 	*期间限定* 	*10525* 	*15743*
+*215*
+<https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88%C2%B7%E4%B8%9D%E5%8D%A1%E8%92%82>
+	斯卡哈・丝卡蒂
+<https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88%C2%B7%E4%B8%9D%E5%8D%A1%E8%92%82>
+スカサハ=スカディ
+Scáthach-Skadi 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*天* 	*期间限定* 	*10753* 	*14406*
+*214* 	<https://fgo.wiki/w/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C> 	瓦尔基
+里 <https://fgo.wiki/w/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C>
+ワルキューレ
+Valkyrie 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*8037* 	*14025*
+*213* 	<https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%B2%81%E5%BE%B7> 	齐格鲁
+德 <https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%B2%81%E5%BE%B7>
+シグルド
+Sigurd 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*期间限定* 	*12465* 	*13975*
+*212* 	<https://fgo.wiki/w/%E6%8B%BF%E7%A0%B4%E4%BB%91> 	拿破仑
+<https://fgo.wiki/w/%E6%8B%BF%E7%A0%B4%E4%BB%91>
+ナポレオン
+Napoleon 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*星* 	*圣晶石常驻* 	*12033* 	*13097*
+*211* 	<https://fgo.wiki/w/%E5%9D%82%E6%9C%AC%E9%BE%99%E9%A9%AC> 	坂本龙
+马 <https://fgo.wiki/w/%E5%9D%82%E6%9C%AC%E9%BE%99%E9%A9%AC>
+坂本龍馬
+Sakamoto Ryouma 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*人* 	*活动赠送* 	*8555* 	*11880*
+*210* 	<https://fgo.wiki/w/%E5%86%88%E7%94%B0%E4%BB%A5%E8%97%8F> 	冈田以
+藏 <https://fgo.wiki/w/%E5%86%88%E7%94%B0%E4%BB%A5%E8%97%8F>
+岡田以蔵
+Okada Izou 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*期间限定* 	*6879* 	*8844*
+*209*
+<https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8(Alter)> 	冲田总
+司(Alter) <https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8(Alter)>
+沖田総司〔オルタ〕
+Okita Souji (Alter) 	
+*全体* 	<https://fgo.wiki/w/Alterego> 		*人* 	*期间限定* 	*12465* 	*12696*
+*208* 	<https://fgo.wiki/w/%E9%BD%90%E6%A0%BC> 	齐格
+<https://fgo.wiki/w/%E9%BD%90%E6%A0%BC>
+ジーク
+Sieg 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*活动赠送* 	*8394* 	*11288*
+*207* 	<https://fgo.wiki/w/%E5%96%80%E6%88%8E> 	喀戎
+<https://fgo.wiki/w/%E5%96%80%E6%88%8E>
+ケイローン
+Chiron 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*天* 	*圣晶石常驻* 	*9294* 	*12250*
+*206* 	<https://fgo.wiki/w/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF> 	阿喀琉
+斯 <https://fgo.wiki/w/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF>
+アキレウス
+Achilles 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*地* 	*圣晶石常驻* 	*11883* 	*13219*
+*205* 	<https://fgo.wiki/w/%E4%BC%8A%E5%87%A1%E9%9B%B7%E5%B8%9D> 	伊凡雷
+帝 <https://fgo.wiki/w/%E4%BC%8A%E5%87%A1%E9%9B%B7%E5%B8%9D>
+イヴァン雷帝
+Ivan the Terrible 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*期间限定* 	*11619* 	*13284*
+*204*
+<https://fgo.wiki/w/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C>
+	安东尼奥・萨列里
+<https://fgo.wiki/w/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C>
+アントニオ・サリエリ
+Antonio Salieri 	
+*全体* 	<https://fgo.wiki/w/Avenger> 		*地* 	*剧情限定* 	*8125* 	*7840*
+*203*
+<https://fgo.wiki/w/%E9%98%BF%E7%BB%B4%E6%96%AF%E5%B8%83%E9%9A%86> 	阿维
+斯布隆 <https://fgo.wiki/w/%E9%98%BF%E7%BB%B4%E6%96%AF%E5%B8%83%E9%9A%86>
+アヴィケブロン
+Avicebron 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6376* 	*9981*
+*202*
+<https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92(Alter)> 	阿塔兰
+忒(Alter) <https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92(Alter)>
+アタランテ〔オルタ〕
+Atalante (Alter) 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*9806*
+*10634*
+*201*
+<https://fgo.wiki/w/%E9%98%BF%E7%BA%B3%E6%96%AF%E5%A1%94%E8%A5%BF%E5%A8%85>
+	阿纳斯塔西娅
+<https://fgo.wiki/w/%E9%98%BF%E7%BA%B3%E6%96%AF%E5%A1%94%E8%A5%BF%E5%A8%85>
+アナスタシア
+Anastasia 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*10546* 	*14259*
+*200* 	<https://fgo.wiki/w/%E6%B5%85%E4%B8%8A%E8%97%A4%E4%B9%83> 	浅上藤
+乃 <https://fgo.wiki/w/%E6%B5%85%E4%B8%8A%E8%97%A4%E4%B9%83>
+浅上藤乃
+Asagami Fujino 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*期间限定* 	*10299* 	*11025*
+*199*
+<https://fgo.wiki/w/%E8%B5%9B%E7%B1%B3%E6%8B%89%E7%B1%B3%E6%96%AF> 	赛米
+拉米斯 <https://fgo.wiki/w/%E8%B5%9B%E7%B1%B3%E6%8B%89%E7%B1%B3%E6%96%AF>
+セミラミス
+Semiramis 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*期间限定* 	*11309* 	*13266*
+*198* 	<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B> 	葛饰北
+斋 <https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>
+葛飾北斎
+Katsushika Hokusai 	
+*全体* 	<https://fgo.wiki/w/Foreigner> 		*人* 	*期间限定* 	*12100* 	*13230*
+*197*
+<https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89%C2%B7the%C2%B7%E5%9C%A3(%E8%AF%9E)>
+	阿蒂拉・the・圣(诞)
+<https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89%C2%B7the%C2%B7%E5%9C%A3(%E8%AF%9E)>
+アルテラ・ザ・サン〔タ〕
+Altera the San(ta) 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*星* 	*活动赠送* 	*9759* 	*11637*
+*196*
+<https://fgo.wiki/w/%E5%9F%83%E5%88%97%E4%BB%80%E5%9F%BA%E4%BC%BD%E5%8B%92>
+	埃列什基伽勒
+<https://fgo.wiki/w/%E5%9F%83%E5%88%97%E4%BB%80%E5%9F%BA%E4%BC%BD%E5%8B%92>
+エレシュキガル
+Ereshkigal 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*期间限定* 	*10343* 	*16065*
+*195*
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF>
+	阿比盖尔・威廉姆斯
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF>
+アビゲイル・ウィリアムズ
+Abigail Williams 	
+*单体* 	<https://fgo.wiki/w/Foreigner> 		*地* 	*期间限定* 	*12100* 	*13770*
+*194*
+<https://fgo.wiki/w/%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster> 	
+米德拉什的Caster
+<https://fgo.wiki/w/%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster>
+ミドラーシュのキャスター
+Caster of Midrash 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*人* 	*剧情限定* 	*8629* 	*12127*
+*193* 	<https://fgo.wiki/w/%E5%93%AA%E5%90%92> 	哪吒
+<https://fgo.wiki/w/%E5%93%AA%E5%90%92>
+哪吒
+Nezha 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*9284* 	*12112*
+*192*
+<https://fgo.wiki/w/%E4%BF%84%E5%88%BB%E9%98%BF%E8%AF%BA%E6%96%AF%E7%9A%84Caster>
+	俄刻阿诺斯的Caster
+<https://fgo.wiki/w/%E4%BF%84%E5%88%BB%E9%98%BF%E8%AF%BA%E6%96%AF%E7%9A%84Caster>
+オケアノスのキャスター
+Caster of Okeanos 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*天* 	*圣晶石常驻* 	*8671* 	*12250*
+*191*
+<https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B0%8F%E4%BC%8A%E4%B8%BD%E2%85%A1%E5%8F%B7%E6%9C%BA>
+	机械小伊丽Ⅱ号机
+<https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B0%8F%E4%BC%8A%E4%B8%BD%E2%85%A1%E5%8F%B7%E6%9C%BA>
+メカエリチャンⅡ号機
+Mecha Eli-chan Ⅱ 	
+*单体* 	<https://fgo.wiki/w/Alterego> 		*人* 	*活动赠送* 	*9997* 	*10901*
+*190*
+<https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B0%8F%E4%BC%8A%E4%B8%BD> 	机械
+小伊丽 <https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E5%B0%8F%E4%BC%8A%E4%B8%BD>
+メカエリチャン
+Mecha Eli-chan 	
+*单体* 	<https://fgo.wiki/w/Alterego> 		*人* 	*活动赠送* 	*9997* 	*10901*
+*189* 	<https://fgo.wiki/w/%E5%88%91%E9%83%A8%E5%A7%AC> 	刑部姬
+<https://fgo.wiki/w/%E5%88%91%E9%83%A8%E5%A7%AC>
+刑部姫
+Osakabehime 	
+*辅助* 	<https://fgo.wiki/w/Assassin> 		*地* 	*圣晶石常驻* 	*10824*
+*13822*
+*188* 	<https://fgo.wiki/w/%E5%8A%A0%E8%97%A4%E6%AE%B5%E8%97%8F> 	加藤段
+藏 <https://fgo.wiki/w/%E5%8A%A0%E8%97%A4%E6%AE%B5%E8%97%8F>
+加藤段蔵
+Katou Danzou 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*剧情限定* 	*8935* 	*11055*
+*187*
+<https://fgo.wiki/w/%E6%9F%B3%E7%94%9F%E4%BD%86%E9%A9%AC%E5%AE%88%E5%AE%97%E7%9F%A9>
+	柳生但马守宗矩
+<https://fgo.wiki/w/%E6%9F%B3%E7%94%9F%E4%BD%86%E9%A9%AC%E5%AE%88%E5%AE%97%E7%9F%A9>
+柳生但馬守宗矩
+Yagyuu Dajimanokamimunenori 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*人* 	*剧情限定* 	*9999* 	*11135*
+*186*
+<https://fgo.wiki/w/%E5%AE%9D%E8%97%8F%E9%99%A2%E8%83%A4%E8%88%9C> 	宝藏
+院胤舜 <https://fgo.wiki/w/%E5%AE%9D%E8%97%8F%E9%99%A2%E8%83%A4%E8%88%9C>
+宝蔵院胤舜
+Houzouin Insyun 	
+*辅助* 	<https://fgo.wiki/w/Lancer> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6791* 	*9996*
+*185* 	<https://fgo.wiki/w/Assassin%20Paraiso> 	Assassin Paraiso
+<https://fgo.wiki/w/Assassin%20Paraiso>
+アサシン・パライソ
+Assassin Paraiso 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*圣晶石常驻* 	*8510* 	*11637*
+*184* 	<https://fgo.wiki/w/Archer%20Inferno> 	Archer Inferno
+<https://fgo.wiki/w/Archer%20Inferno>
+アーチャー・インフェルノ
+Archer Inferno 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*地* 	*圣晶石常驻* 	*9946* 	*10804*
+*183* 	<https://fgo.wiki/w/%E5%B8%95%E5%B0%94%E7%93%A6%E8%92%82> 	帕尔瓦
+蒂 <https://fgo.wiki/w/%E5%B8%95%E5%B0%94%E7%93%A6%E8%92%82>
+パールヴァティー
+Parvati 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*8127* 	*13253*
+*182*
+<https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94(Rider)> 	伊什塔
+尔 <https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94(Rider)>
+イシュタル
+Ishtar 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*天* 	*活动赠送* 	*9603* 	*10692*
+*181* 	<https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)> 	源赖光
+<https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)>
+源頼光
+Minamoto-no-Raikou 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*期间限定* 	*9168* 	*12112*
+*180*
+<https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA(Archer)>
+	海伦娜・布拉瓦茨基
+<https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA(Archer)>
+エレナ・ブラヴァツキー
+Helena Blavatsky 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*人* 	*期间限定* 	*9446* 	*11404*
+*179*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)(Rider)>
+	阿尔托莉雅・潘德拉贡(Alter)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)(Rider)>
+アルトリア・ペンドラゴン〔オルタ〕
+Altria Pendragon (Alter) 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*人* 	*期间限定* 	*10776* 	*14256*
+*178*
+<https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)> 	织
+田信长 <https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)>
+織田信長
+Oda Nobunaga 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*期间限定* 	*10146* 	*10023*
+*177*
+<https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D(Assassin)>
+	尼托克丽丝
+<https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D(Assassin)>
+ニトクリス
+Nitocris 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*天* 	*期间限定* 	*8812* 	*11518*
+*176*
+<https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6(Saber)>
+弗兰肯斯坦
+<https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6(Saber)>
+フランケンシュタイン
+Frankenstein 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*期间限定* 	*9353* 	*11993*
+*175*
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF(Caster)>
+	尼禄・克劳狄乌斯
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF(Caster)>
+ネロ・クラウディウス
+Nero Claudius 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*期间限定* 	*10857* 	*13685*
+*174* 	<https://fgo.wiki/w/%E4%BF%9D%E7%BD%97%C2%B7%E7%8F%AD%E6%89%AC>
+保罗・班扬 <https://fgo.wiki/w/%E4%BF%9D%E7%BD%97%C2%B7%E7%8F%AD%E6%89%AC>
+ポール・バニヤン
+Paul Bunyan 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*活动赠送* 	*6044* 	*6196*
+*173*
+<https://fgo.wiki/w/%E5%A4%8F%E6%B4%9B%E5%85%8B%C2%B7%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF>
+	夏洛克・福尔摩斯
+<https://fgo.wiki/w/%E5%A4%8F%E6%B4%9B%E5%85%8B%C2%B7%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF>
+シャーロック・ホームズ
+Sherlock Holmes 	
+*辅助* 	<https://fgo.wiki/w/Ruler> 		*星* 	*期间限定* 	*11495* 	*13365*
+*172* 	<https://fgo.wiki/w/%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider>
+反抗军的Rider <https://fgo.wiki/w/%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider>
+レジスタンスのライダー
+Rider of Resistance 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*剧情限定* 	*6552* 	*9600*
+*171*
+<https://fgo.wiki/w/%E9%BB%84%E9%87%91%E5%9B%BD%E7%9A%84Berserker> 	黄金
+国的Berserker
+<https://fgo.wiki/w/%E9%BB%84%E9%87%91%E5%9B%BD%E7%9A%84Berserker>
+エルドラドのバーサーカー
+Berserker of El Dorado 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*10502*
+*10175*
+*170*
+<https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin> 	不夜
+城的Assassin
+<https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin>
+不夜城のアサシン
+Assassin of Nightless City 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻* 	*8981* 	*10942*
+*169* 	<https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster>
+不夜城的Caster
+<https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster>
+不夜城のキャスター
+Caster of Nightless City 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*9212* 	*15846*
+*168* 	<https://fgo.wiki/w/Beast%E2%85%A2/R> 	BeastⅢ/R
+<https://fgo.wiki/w/Beast%E2%85%A2/R>
+ビーストⅢ／Ｒ
+BeastⅢ/R 		<https://fgo.wiki/w/Beast> 		*兽* 	*无法获得* 	*—* 	*—*
+*167*
+<https://fgo.wiki/w/%E6%9D%80%E7%94%9F%E9%99%A2%E7%A5%88%E8%8D%92> 	杀生
+院祈荒 <https://fgo.wiki/w/%E6%9D%80%E7%94%9F%E9%99%A2%E7%A5%88%E8%8D%92>
+殺生院キアラ
+Sessyoin Kiara 	
+*全体* 	<https://fgo.wiki/w/Alterego> 		*兽* 	*期间限定* 	*11668* 	*14606*
+*166* 	<https://fgo.wiki/w/BB> 	BB <https://fgo.wiki/w/BB>
+BB
+BB 	
+*单体* 	<https://fgo.wiki/w/MoonCancer> 		*人* 	*活动赠送* 	*8197* 	*13643*
+*165* 	<https://fgo.wiki/w/%E9%93%83%E9%B9%BF%E5%BE%A1%E5%89%8D> 	铃鹿御
+前 <https://fgo.wiki/w/%E9%93%83%E9%B9%BF%E5%BE%A1%E5%89%8D>
+鈴鹿御前
+Suzuka Gozen 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*天* 	*圣晶石常驻* 	*9544* 	*11753*
+*164* 	<https://fgo.wiki/w/Passionlip> 	Passionlip
+<https://fgo.wiki/w/Passionlip>
+パッションリップ
+Passionlip 	
+*全体* 	<https://fgo.wiki/w/Alterego> 		*地* 	*期间限定* 	*10299* 	*10901*
+*163* 	<https://fgo.wiki/w/Meltryllis> 	Meltryllis
+<https://fgo.wiki/w/Meltryllis>
+メルトリリス
+Meltryllis 	
+*单体* 	<https://fgo.wiki/w/Alterego> 		*地* 	*期间限定* 	*11692* 	*13402*
+*162* 	<https://fgo.wiki/w/%E8%8C%B6%E8%8C%B6> 	茶茶
+<https://fgo.wiki/w/%E8%8C%B6%E8%8C%B6>
+茶々
+Cha Cha 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*活动赠送* 	*8945* 	*11025*
+*161* 	<https://fgo.wiki/w/%E5%9C%9F%E6%96%B9%E5%B2%81%E4%B8%89> 	土方岁
+三 <https://fgo.wiki/w/%E5%9C%9F%E6%96%B9%E5%B2%81%E4%B8%89>
+土方歳三
+Hijikata Toshizou 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*期间限定* 	*12089* 	*12028*
+*160*
+<https://fgo.wiki/w/%E4%BA%9A%E7%91%9F%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Prototype)>
+	亚瑟・潘德拉贡(Prototype)
+<https://fgo.wiki/w/%E4%BA%9A%E7%91%9F%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Prototype)>
+アーサー・ペンドラゴン〔プロトタイプ〕
+Arthur Pendragon (Prototype) 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*期间限定* 	*12465* 	*13975*
+*159* 	<https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Assassin> 	新宿的
+Assassin <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Assassin>
+新宿のアサシン
+Assassin of Shinjuku 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻* 	*8661* 	*11637*
+*158* 	<https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Avenger> 	新宿的
+Avenger <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Avenger>
+新宿のアヴェンジャー
+Avenger of Shinjuku 	
+*单体* 	<https://fgo.wiki/w/Avenger> 		*地* 	*圣晶石常驻* 	*10628* 	*9949*
+*157* 	<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB(Alter)> 	卫宫(Alter)
+<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB(Alter)>
+エミヤ〔オルタ〕
+Emiya (Alter) 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*剧情限定* 	*8996* 	*12250*
+*156* 	<https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Archer> 	新宿的
+Archer <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Archer>
+新宿のアーチャー
+Archer of Shinjuku 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*期间限定* 	*11781* 	*13685*
+*155*
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X(Alter)>
+	谜之女主角X(Alter)
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X(Alter)>
+謎のヒロインＸ〔オルタ〕
+Mysterious Heroine X (Alter) 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*星* 	*期间限定* 	*11113* 	*14175*
+*154*
+<https://fgo.wiki/w/%E2%80%9C%E5%B1%B1%E4%B8%AD%E8%80%81%E4%BA%BA%E2%80%9D>
+	“山中老人”
+<https://fgo.wiki/w/%E2%80%9C%E5%B1%B1%E4%B8%AD%E8%80%81%E4%BA%BA%E2%80%9D>
+“山の翁”
+"Old Man of the Mountain" 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*期间限定* 	*11848* 	*13338*
+*153* 	<https://fgo.wiki/w/%E5%AE%AB%E6%9C%AC%E6%AD%A6%E8%97%8F> 	宫本武
+藏 <https://fgo.wiki/w/%E5%AE%AB%E6%9C%AC%E6%AD%A6%E8%97%8F>
+宮本武蔵
+Miyamoto Musashi 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*人* 	*期间限定* 	*12037* 	*13635*
+*152* 	<https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8(Caster)> 	所罗门
+<https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8(Caster)>
+ソロモン
+Solomon 		<https://fgo.wiki/w/Caster> 		*地* 	*无法获得* 	*—* 	*—*
+*151* 	<https://fgo.wiki/w/%E7%9B%96%E6%8F%90%E4%BA%9A> 	盖提亚
+<https://fgo.wiki/w/%E7%9B%96%E6%8F%90%E4%BA%9A>
+ゲーティア
+Goetia 		<https://fgo.wiki/w/Beast> 		*兽* 	*无法获得* 	*—* 	*—*
+*150* 	<https://fgo.wiki/w/%E6%A2%85%E6%9E%97> 	梅林
+<https://fgo.wiki/w/%E6%A2%85%E6%9E%97>
+マーリン
+Merlin 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*地* 	*期间限定* 	*10546* 	*14259*
+*149* 	<https://fgo.wiki/w/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9> 	提亚马
+特 <https://fgo.wiki/w/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9>
+ティアマト
+Tiamat 		<https://fgo.wiki/w/Beast> 		*兽* 	*无法获得* 	*—* 	*—*
+*148* 	<https://fgo.wiki/w/%E8%B1%B9%E4%BA%BA> 	豹人
+<https://fgo.wiki/w/%E8%B1%B9%E4%BA%BA>
+ジャガーマン
+Jaguar Man 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*通关报酬
+剧情限定* 	*7022* 	*9593*
+*147* 	<https://fgo.wiki/w/%E6%88%88%E8%80%B3%E5%B7%A5> 	戈耳工
+<https://fgo.wiki/w/%E6%88%88%E8%80%B3%E5%B7%A5>
+ゴルゴーン
+Gorgon 	
+*全体* 	<https://fgo.wiki/w/Avenger> 		*地* 	*剧情限定* 	*10706* 	*10197*
+*146* 	<https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E(Lancer)> 	美杜莎
+<https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E(Lancer)>
+メドゥーサ
+Medusa 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*圣晶石常驻* 	*8253* 	*13119*
+*145*
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80(Caster)>
+	吉尔伽美什
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80(Caster)>
+ギルガメッシュ
+Gilgamesh 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*8460* 	*12005*
+*144*
+<https://fgo.wiki/w/%E9%AD%81%E6%9C%AD%E5%B0%94%C2%B7%E7%A7%91%E4%BA%9A%E7%89%B9%E5%B0%94>
+	魁札尔・科亚特尔
+<https://fgo.wiki/w/%E9%AD%81%E6%9C%AD%E5%B0%94%C2%B7%E7%A7%91%E4%BA%9A%E7%89%B9%E5%B0%94>
+ケツァル・コアトル
+Quetzalcoatl 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*天* 	*剧情限定* 	*12001* 	*12960*
+*143* 	<https://fgo.wiki/w/%E6%81%A9%E5%A5%87%E9%83%BD> 	恩奇都
+<https://fgo.wiki/w/%E6%81%A9%E5%A5%87%E9%83%BD>
+エルキドゥ
+Enkidu 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*10780* 	*15300*
+*142* 	<https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94> 	伊什塔
+尔 <https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94>
+イシュタル
+Ishtar 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*天* 	*期间限定* 	*12252* 	*13965*
+*141*
+<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7%C2%B7Alter%C2%B7Santa%C2%B7Lily> 	贞
+德・Alter・Santa・Lily
+<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7%C2%B7Alter%C2%B7Santa%C2%B7Lily>
+ジャンヌ・ダルク・オルタ・サンタ・リリィ
+Jeanne d'Arc・Alter・Santa・Lily 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*人* 	*活动赠送* 	*9261* 	*11870*
+*140*
+<https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96(EXTRA)>
+弗拉德三世(EXTRA)
+<https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96(EXTRA)>
+ヴラド三世〔EXTRA〕
+Vlad III (EXTRA) 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*人* 	*圣晶石常驻* 	*8775* 	*13005*
+*139*
+<https://fgo.wiki/w/%E5%85%8B%E5%A8%84%E5%B7%B4%E7%89%B9%E6%8B%89> 	克娄
+巴特拉 <https://fgo.wiki/w/%E5%85%8B%E5%A8%84%E5%B7%B4%E7%89%B9%E6%8B%89>
+クレオパトラ
+Cleopatra 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*期间限定* 	*11088* 	*13402*
+*138*
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C(%E5%8B%87%E8%80%85)>
+	伊丽莎白・巴托里(勇者)
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C(%E5%8B%87%E8%80%85)>
+エリザベート・バートリー〔ブレイブ〕
+Elisabeth Báthory (Brave) 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*活动赠送* 	*9899* 	*11248*
+*137*
+<https://fgo.wiki/w/%E5%85%8B%E6%B4%9B%E4%BC%8A%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+	克洛伊・冯・爱因兹贝伦
+<https://fgo.wiki/w/%E5%85%8B%E6%B4%9B%E4%BC%8A%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+クロエ・フォン・アインツベルン
+Chloe von Einzbern 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*天* 	*活动赠送* 	*9845* 	*10914*
+*136*
+<https://fgo.wiki/w/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+	伊莉雅丝菲尔・冯・爱因兹贝伦
+<https://fgo.wiki/w/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+イリヤスフィール・フォン・アインツベルン
+Illyasviel von Einzbern 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*人* 	*期间限定* 	*10857* 	*13825*
+*135* 	<https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE(Ruler)> 	玛尔达
+<https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE(Ruler)>
+マルタ
+Martha 	
+*单体* 	<https://fgo.wiki/w/Ruler> 		*人* 	*期间限定* 	*9546* 	*11250*
+*134* 	<https://fgo.wiki/w/%E6%B8%85%E5%A7%AC(Lancer)> 	清姬
+<https://fgo.wiki/w/%E6%B8%85%E5%A7%AC(Lancer)>
+清姫
+Kiyohime 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*期间限定* 	*8936* 	*11870*
+*133* 	<https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)> 	斯卡
+哈 <https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)>
+スカサハ
+Scáthach 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*星* 	*活动赠送* 	*9049* 	*11168*
+*132*
+<https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7(Rider)> 	莫德雷
+德 <https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7(Rider)>
+モードレッド
+Mordred 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*地* 	*期间限定* 	*9212* 	*11400*
+*131*
+<https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7(Archer)>
+	安妮・伯妮＆玛莉・瑞德
+<https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7(Archer)>
+アン・ボニー＆メアリー・リード
+Anne Bonny & Mary Read 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*期间限定* 	*9446* 	*11521*
+*130*
+<https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9(Caster)>
+	玛丽・安托瓦内特
+<https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9(Caster)>
+マリー・アントワネット
+Marie Antoinette 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*期间限定* 	*9060* 	*11404*
+*129*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)>
+	阿尔托莉雅・潘德拉贡
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)>
+アルトリア・ペンドラゴン
+Altria Pendragon 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*地* 	*期间限定* 	*11276* 	*14553*
+*128* 	<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D(Lancer)> 	玉藻前
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D(Lancer)>
+玉藻の前
+Tamamo-no-Mae 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*期间限定* 	*10726* 	*15147*
+*127*
+<https://fgo.wiki/w/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87>
+	莱昂纳多・达・芬奇
+<https://fgo.wiki/w/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87>
+レオナルド・ダ・ヴィンチ
+Leonardo da Vinci 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*星* 	*期间限定* 	*10598* 	*14259*
+*126* 	<https://fgo.wiki/w/%E8%B4%9D%E5%BE%B7%E7%BB%B4%E5%B0%94> 	贝德维
+尔 <https://fgo.wiki/w/%E8%B4%9D%E5%BE%B7%E7%BB%B4%E5%B0%94>
+ベディヴィエール
+Bedwyr 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*星* 	*通关报酬
+剧情限定* 	*7627* 	*9595*
+*125* 	<https://fgo.wiki/w/%E4%BF%B5%E8%97%A4%E5%A4%AA> 	俵藤太
+<https://fgo.wiki/w/%E4%BF%B5%E8%97%A4%E5%A4%AA>
+俵藤太
+Tawara Touta 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7032* 	*9800*
+*124* 	<https://fgo.wiki/w/%E9%9D%99%E8%B0%A7%E5%93%88%E6%A1%91> 	静谧哈
+桑 <https://fgo.wiki/w/%E9%9D%99%E8%B0%A7%E5%93%88%E6%A1%91>
+静謐のハサン
+Hassan of the Serenity 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6636* 	*9310*
+*123* 	<https://fgo.wiki/w/%E9%AB%98%E6%96%87> 	高文
+<https://fgo.wiki/w/%E9%AB%98%E6%96%87>
+ガウェイン
+Gawain 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*剧情限定* 	*10173* 	*11419*
+*122* 	<https://fgo.wiki/w/%E5%B4%94%E6%96%AF%E5%9D%A6> 	崔斯坦
+<https://fgo.wiki/w/%E5%B4%94%E6%96%AF%E5%9D%A6>
+トリスタン
+Tristan 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*地* 	*剧情限定* 	*9735* 	*11637*
+*121*
+<https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9(Saber)> 	兰斯洛
+特 <https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9(Saber)>
+ランスロット
+Lancelot 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻* 	*9949* 	*11589*
+*120*
+<https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D> 	尼托
+克丽丝 <https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D>
+ニトクリス
+Nitocris 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*地* 	*圣晶石常驻* 	*9060* 	*11288*
+*119*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Lancer)>
+	阿尔托莉雅・潘德拉贡
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Lancer)>
+アルトリア・ペンドラゴン
+Altria Pendragon 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*剧情限定* 	*10995* 	*15606*
+*118*
+<https://fgo.wiki/w/%E5%A5%A5%E6%96%AF%E6%9B%BC%E7%8B%84%E6%96%AF> 	奥斯
+曼狄斯 <https://fgo.wiki/w/%E5%A5%A5%E6%96%AF%E6%9B%BC%E7%8B%84%E6%96%AF>
+オジマンディアス
+Ozymandias 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*天* 	*圣晶石常驻* 	*11971* 	*12830*
+*117*
+<https://fgo.wiki/w/%E9%A3%8E%E9%AD%94%E5%B0%8F%E5%A4%AA%E9%83%8E> 	风魔
+小太郎 <https://fgo.wiki/w/%E9%A3%8E%E9%AD%94%E5%B0%8F%E5%A4%AA%E9%83%8E>
+風魔小太郎
+Fuuma "Evil-wind" Kotarou 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7091* 	*8844*
+*116* 	<https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90> 	茨木童
+子 <https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90>
+茨木童子
+Ibaraki-Douji 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*9636*
+*10954*
+*115*
+<https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6(Rider)> 	坂田金
+时 <https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6(Rider)>
+坂田金時
+Sakata Kintoki 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*地* 	*活动赠送* 	*9819* 	*10800*
+*114* 	<https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89> 	源赖光
+<https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89>
+源頼光
+Minamoto-no-Raikou 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*天* 	*期间限定* 	*11556* 	*13500*
+*113* 	<https://fgo.wiki/w/%E7%8E%84%E5%A5%98%E4%B8%89%E8%97%8F> 	玄奘三
+藏 <https://fgo.wiki/w/%E7%8E%84%E5%A5%98%E4%B8%89%E8%97%8F>
+玄奘三蔵
+Xuanzang Sanzang 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*11658* 	*12965*
+*112* 	<https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90> 	酒吞童
+子 <https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90>
+酒呑童子
+Shuten-Douji 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*期间限定* 	*11993* 	*12825*
+*111*
+<https://fgo.wiki/w/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94(%E5%A4%A9%E4%B9%8B%E8%A1%A3)>
+	爱丽丝菲尔(天之衣)
+<https://fgo.wiki/w/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94(%E5%A4%A9%E4%B9%8B%E8%A1%A3)>
+アイリスフィール〔天の衣〕
+Irisviel (Dress of Heaven) 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*天* 	*活动赠送* 	*8237* 	*12476*
+*110* 	<https://fgo.wiki/w/%E7%99%BE%E8%B2%8C%E5%93%88%E6%A1%91> 	百貌哈
+桑 <https://fgo.wiki/w/%E7%99%BE%E8%B2%8C%E5%93%88%E6%A1%91>
+百貌のハサン
+Hassan of the Hundred Personas 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6686* 	*9310*
+*109* 	<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB(Assassin)> 	卫宫(Assassin)
+<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB(Assassin)>
+エミヤ〔アサシン〕
+Emiya (Assassin) 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻* 	*8958* 	*11168*
+*108*
+<https://fgo.wiki/w/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94> 	伊斯
+坎达尔 <https://fgo.wiki/w/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94>
+イスカンダル
+Iskandar 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*期间限定* 	*11560* 	*13219*
+*107*
+<https://fgo.wiki/w/%E5%AE%89%E5%93%A5%E6%8B%89%E6%9B%BC%E7%BA%BD> 	安哥
+拉曼纽 <https://fgo.wiki/w/%E5%AE%89%E5%93%A5%E6%8B%89%E6%9B%BC%E7%BA%BD>
+アンリマユ
+Angra Mainyu 	
+*辅助* 	<https://fgo.wiki/w/Avenger> 		*人* 	*友情点召唤* 	*5683* 	*7981*
+*106* 	<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Alter)> 	贞德(Alter)
+<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Alter)>
+ジャンヌ・ダルク〔オルタ〕
+Jeanne d'Arc (Alter) 	
+*单体* 	<https://fgo.wiki/w/Avenger> 		*人* 	*期间限定* 	*13244* 	*11761*
+*105* 	<https://fgo.wiki/w/%E6%AF%94%E5%88%A9%E5%B0%8F%E5%AD%90> 	比利小
+子 <https://fgo.wiki/w/%E6%AF%94%E5%88%A9%E5%B0%8F%E5%AD%90>
+ビリー・ザ・キッド
+Billy the Kid 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6890* 	*9506*
+*104* 	<https://fgo.wiki/w/%E6%9D%B0%E7%BD%97%E5%B0%BC%E8%8E%AB> 	杰罗尼
+莫 <https://fgo.wiki/w/%E6%9D%B0%E7%BD%97%E5%B0%BC%E8%8E%AB>
+ジェロニモ
+Geronimo 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*通关报酬
+圣晶石常驻
+友情点召唤* 	*6857* 	*9123*
+*103*
+<https://fgo.wiki/w/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E7%88%B1%E8%BF%AA%E7%94%9F>
+	托马斯・爱迪生
+<https://fgo.wiki/w/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E7%88%B1%E8%BF%AA%E7%94%9F>
+トーマス・エジソン
+Thomas Edison 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*剧情限定* 	*7952* 	*11882*
+*102* 	<https://fgo.wiki/w/%E6%9D%8E%E4%B9%A6%E6%96%87> 	神枪 李书文
+<https://fgo.wiki/w/%E6%9D%8E%E4%B9%A6%E6%96%87>
+神槍 李書文
+Li Shuwen 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*人* 	*剧情限定* 	*9653* 	*11360*
+*101* 	<https://fgo.wiki/w/%E7%BD%97%E6%91%A9> 	罗摩
+<https://fgo.wiki/w/%E7%BD%97%E6%91%A9>
+ラーマ
+Rama 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*天* 	*圣晶石常驻* 	*9854* 	*11993*
+*100*
+<https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA>
+	海伦娜・布拉瓦茨基
+<https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA>
+エレナ・ブラヴァツキー
+Helena Blavatsky 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*8629* 	*11882*
+*99* 	<https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99> 	女王梅
+芙 <https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99>
+女王メイヴ
+Queen Medb 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*地* 	*剧情限定* 	*10296* 	*13968*
+*98* 	<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Alter)>
+库・丘林(Alter)
+<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Alter)>
+クー・フーリン〔オルタ〕
+Cú Chulainn (Alter) 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*剧情限定* 	*12805* 	*12210*
+*97* 	<https://fgo.wiki/w/%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94> 	南丁格
+尔 <https://fgo.wiki/w/%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94>
+ナイチンゲール
+Florence Nightingale 	
+*辅助* 	<https://fgo.wiki/w/Berserker> 		*人* 	*圣晶石常驻* 	*10184*
+*15221*
+*96* 	<https://fgo.wiki/w/%E5%B2%A9%E7%AA%9F%E7%8E%8B> 	岩窟王 爱德蒙・
+唐泰斯 <https://fgo.wiki/w/%E5%B2%A9%E7%AA%9F%E7%8E%8B>
+巌窟王 エドモン・ダンテス
+Edmond Dantès 	
+*全体* 	<https://fgo.wiki/w/Avenger> 		*人* 	*期间限定* 	*12641* 	*12177*
+*95* 	<https://fgo.wiki/w/%E5%B9%BC%E5%90%89%E5%B0%94> 	幼吉尔
+<https://fgo.wiki/w/%E5%B9%BC%E5%90%89%E5%B0%94>
+子ギル
+Gilgamesh (Child) 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*天* 	*圣晶石常驻
+友情点召唤* 	*7696* 	*8731*
+*94*
+<https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E6%89%98%E5%B0%94%E7%A6%8F> 	阿斯
+托尔福 <https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E6%89%98%E5%B0%94%E7%A6%8F>
+アストルフォ
+Astolfo 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*地* 	*圣晶石常驻* 	*8937* 	*11172*
+*93* 	<https://fgo.wiki/w/%E5%A4%A9%E8%8D%89%E5%9B%9B%E9%83%8E> 	天草四
+郎 <https://fgo.wiki/w/%E5%A4%A9%E8%8D%89%E5%9B%9B%E9%83%8E>
+天草四郎
+Amakusa Shirou 	
+*全体* 	<https://fgo.wiki/w/Ruler> 		*人* 	*期间限定* 	*10972* 	*14107*
+*92* 	<https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F(Assassin)> 	两仪式
+<https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F(Assassin)>
+両儀式
+Ryougi Shiki 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*活动赠送* 	*8867* 	*11055*
+*91* 	<https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F> 	两仪式
+<https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F>
+両儀式
+Ryougi Shiki 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*人* 	*期间限定* 	*10721* 	*15453*
+*90*
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF(%E6%96%B0%E5%A8%98)>
+	尼禄・克劳狄乌斯(新娘)
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF(%E6%96%B0%E5%A8%98)>
+ネロ・クラウディウス〔ブライド〕
+Nero Claudius (Bride) 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*人* 	*期间限定* 	*11607* 	*14248*
+*89* 	<https://fgo.wiki/w/%E8%B4%9D%E5%A5%A5%E6%AD%A6%E5%A4%AB> 	贝奥武
+夫 <https://fgo.wiki/w/%E8%B4%9D%E5%A5%A5%E6%AD%A6%E5%A4%AB>
+ベオウルフ
+Beowulf 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*10247*
+*10327*
+*88*
+<https://fgo.wiki/w/%E5%B8%83%E4%BC%A6%E5%B8%8C%E5%B0%94%E5%BE%B7> 	布伦
+希尔德 <https://fgo.wiki/w/%E5%B8%83%E4%BC%A6%E5%B8%8C%E5%B0%94%E5%BE%B7>
+ブリュンヒルデ
+Brynhildr 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*期间限定* 	*11432* 	*14825*
+*87*
+<https://fgo.wiki/w/%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94>
+	芬恩・麦克库尔
+<https://fgo.wiki/w/%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94>
+フィン・マックール
+Fionn mac Cumhaill 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*8930* 	*12750*
+*86*
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X> 	谜
+之女主角X
+<https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X>
+謎のヒロインX
+Mysterious Heroine X 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*星* 	*期间限定* 	*11761* 	*12696*
+*85* 	<https://fgo.wiki/w/%E8%BF%A6%E5%B0%94%E7%BA%B3> 	迦尔纳
+<https://fgo.wiki/w/%E8%BF%A6%E5%B0%94%E7%BA%B3>
+カルナ
+Karna 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻* 	*11976* 	*13632*
+*84* 	<https://fgo.wiki/w/%E9%98%BF%E5%91%A8%E9%82%A3> 	阿周那
+<https://fgo.wiki/w/%E9%98%BF%E5%91%A8%E9%82%A3>
+アルジュナ
+Arjuna 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*天* 	*圣晶石常驻* 	*12342* 	*13230*
+*83* 	<https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8> 	所罗门
+<https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8>
+ソロモン
+Solomon 		<https://fgo.wiki/w/Caster> 		*天* 	*无法获得* 	*—* 	*—*
+*82*
+<https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6> 	弗兰
+肯斯坦 <https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6>
+フランケンシュタイン
+Frankenstein 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*9441*
+*10687*
+*81*
+<https://fgo.wiki/w/%E4%BA%A8%E5%88%A9%C2%B7%E6%9D%B0%E5%9F%BA%E5%B0%94%EF%BC%86%E6%B5%B7%E5%BE%B7>
+	亨利・杰基尔＆海德
+<https://fgo.wiki/w/%E4%BA%A8%E5%88%A9%C2%B7%E6%9D%B0%E5%9F%BA%E5%B0%94%EF%BC%86%E6%B5%B7%E5%BE%B7>
+ヘンリー・ジキル＆ハイド
+Henry Jekyll & Hyde 	
+*辅助* 	<https://fgo.wiki/w/Assassin> 		*地* 	*通关报酬
+圣晶石常驻
+友情点召唤* 	*6320* 	*9675*
+*80*
+<https://fgo.wiki/w/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E5%B7%B4%E8%B4%9D%E5%A5%87>
+	查尔斯・巴贝奇
+<https://fgo.wiki/w/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E5%B7%B4%E8%B4%9D%E5%A5%87>
+チャールズ・バベッジ
+Charles Babbage 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻
+友情点召唤* 	*5996* 	*10887*
+*79*
+<https://fgo.wiki/w/%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%C2%B7%E5%B8%95%E6%8B%89%E5%A1%9E%E5%B0%94%E8%8B%8F%E6%96%AF>
+	冯・霍恩海姆・帕拉塞尔苏斯
+<https://fgo.wiki/w/%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%C2%B7%E5%B8%95%E6%8B%89%E5%A1%9E%E5%B0%94%E8%8B%8F%E6%96%AF>
+ヴァン・ホーエンハイム・パラケルスス
+Paracelsus von Hohenheim 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6711* 	*9506*
+*78*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)(Lancer)>
+	阿尔托莉雅・潘德拉贡(Alter)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)(Lancer)>
+アルトリア・ペンドラゴン〔オルタ〕
+Altria Pendragon (Alter) 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*剧情限定* 	*9968* 	*11761*
+*77*
+<https://fgo.wiki/w/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89>
+	尼古拉・特斯拉
+<https://fgo.wiki/w/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89>
+ニコラ・テスラ
+Nikola Tesla 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*星* 	*剧情限定* 	*11781* 	*13825*
+*76* 	<https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7> 	莫德雷
+德 <https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7>
+モードレッド
+Mordred 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻* 	*11723* 	*14680*
+*75*
+<https://fgo.wiki/w/%E5%BC%80%E8%86%9B%E6%89%8B%E6%9D%B0%E5%85%8B> 	开膛
+手杰克 <https://fgo.wiki/w/%E5%BC%80%E8%86%9B%E6%89%8B%E6%9D%B0%E5%85%8B>
+ジャック・ザ・リッパー
+Jack the Ripper 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*圣晶石常驻* 	*11557*
+*12696*
+*74* 	<https://fgo.wiki/w/%E7%AB%A5%E8%B0%A3> 	童谣
+<https://fgo.wiki/w/%E7%AB%A5%E8%B0%A3>
+ナーサリー・ライム
+Nursery Rhyme 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*8629* 	*11882*
+*73*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(%E5%9C%A3%E8%AF%9EAlter)>
+	阿尔托莉雅・潘德拉贡(圣诞Alter)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(%E5%9C%A3%E8%AF%9EAlter)>
+アルトリア・ペンドラゴン〔サンタオルタ〕
+Altria Pendragon (Santa Alter) 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*活动赠送* 	*9258* 	*11286*
+*72*
+<https://fgo.wiki/w/%E5%BC%97%E6%A0%BC%E6%96%AF%C2%B7%E9%A9%AC%E5%85%8B%C2%B7%E7%BD%97%E4%BC%8A>
+	弗格斯・马克・罗伊
+<https://fgo.wiki/w/%E5%BC%97%E6%A0%BC%E6%96%AF%C2%B7%E9%A9%AC%E5%85%8B%C2%B7%E7%BD%97%E4%BC%8A>
+フェルグス・マック・ロイ
+Fergus mac Róich 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻
+友情点召唤* 	*7460* 	*9786*
+*71*
+<https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3>
+	迪尔姆德・奥迪那
+<https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3>
+ディルムッド・オディナ
+Diarmuid Ua Duibhne 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*地* 	*圣晶石常驻
+友情点召唤* 	*6877* 	*10098*
+*70* 	<https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88> 	斯卡哈
+<https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88>
+スカサハ
+Scáthach 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*星* 	*期间限定* 	*11375* 	*14825*
+*69* 	<https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF> 	织田信
+长 <https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF>
+織田信長
+Oda Nobunaga 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*人* 	*活动赠送* 	*9494* 	*11637*
+*68* 	<https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8> 	冲田总
+司 <https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8>
+沖田総司
+Okita Souji 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*人* 	*期间限定* 	*12068* 	*13225*
+*67* 	<https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A(Lily)> 	美狄亚
+(Lily) <https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A(Lily)>
+メディア〔リリィ〕
+Medea (Lily) 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*地* 	*剧情限定* 	*7766* 	*13070*
+*66*
+<https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7>
+	安妮・伯妮＆玛莉・瑞德
+<https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7>
+アン・ボニー＆メアリー・リード
+Anne Bonny & Mary Read 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*人* 	*圣晶石常驻* 	*9029* 	*11286*
+*65*
+<https://fgo.wiki/w/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%E9%9B%B7%E5%85%8B>
+	弗朗西斯・德雷克
+<https://fgo.wiki/w/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%E9%9B%B7%E5%85%8B>
+フランシス・ドレイク
+Francis Drake 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*星* 	*圣晶石常驻* 	*11326* 	*12830*
+*64* 	<https://fgo.wiki/w/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3> 	赫克托
+耳 <https://fgo.wiki/w/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3>
+ヘクトール
+Hector 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6928* 	*10200*
+*63* 	<https://fgo.wiki/w/%E5%A4%A7%E5%8D%AB> 	大卫
+<https://fgo.wiki/w/%E5%A4%A7%E5%8D%AB>
+ダビデ
+David 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*天* 	*通关报酬
+圣晶石常驻
+友情点召唤* 	*7736* 	*8643*
+*62* 	<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D> 	玉藻前
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D>
+玉藻の前
+Tamamo-no-Mae 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*天* 	*圣晶石常驻* 	*10546* 	*14259*
+*61*
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C(%E4%B8%87%E5%9C%A3%E8%8A%82)>
+	伊丽莎白・巴托里(万圣节)
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C(%E4%B8%87%E5%9C%A3%E8%8A%82)>
+エリザベート・バートリー〔ハロウィン〕
+Elisabeth Báthory (Halloween) 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*活动赠送* 	*8616* 	*11404*
+*60* 	<https://fgo.wiki/w/%E4%BF%84%E9%87%8C%E7%BF%81> 	俄里翁
+<https://fgo.wiki/w/%E4%BF%84%E9%87%8C%E7%BF%81>
+オリオン
+Orion 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*天* 	*圣晶石常驻* 	*11107* 	*14553*
+*59* 	<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7> 	贞德
+<https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7>
+ジャンヌ・ダルク
+Jeanne d'Arc 	
+*辅助* 	<https://fgo.wiki/w/Ruler> 		*星* 	*圣晶石常驻* 	*9593* 	*16500*
+*58* 	<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E7%8C%AB> 	玉藻猫
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E7%8C%AB>
+タマモキャット
+Tamamo Cat 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*9026*
+*11458*
+*57*
+<https://fgo.wiki/w/%E8%A1%80%E6%96%A7%E5%9F%83%E9%87%8C%E5%85%8B> 	血斧
+埃里克 <https://fgo.wiki/w/%E8%A1%80%E6%96%A7%E5%9F%83%E9%87%8C%E5%85%8B>
+エイリーク・ブラッドアクス
+Eric Bloodaxe 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*友情点召唤* 	*6290* 	*7688*
+*56* 	<https://fgo.wiki/w/%E6%B8%85%E5%A7%AC> 	清姬
+<https://fgo.wiki/w/%E6%B8%85%E5%A7%AC>
+清姫
+Kiyohime 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*通关报酬
+圣晶石常驻
+友情点召唤* 	*6644* 	*9166*
+*55*
+<https://fgo.wiki/w/%E5%A4%A7%E6%B5%81%E5%A3%AB%E4%B8%89%E4%B8%96> 	大流
+士三世 <https://fgo.wiki/w/%E5%A4%A7%E6%B5%81%E5%A3%AB%E4%B8%89%E4%B8%96>
+ダレイオス三世
+Darius III 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7608* 	*8763*
+*54* 	<https://fgo.wiki/w/%E5%8D%A1%E5%88%A9%E5%8F%A4%E6%8B%89> 	卡利古
+拉 <https://fgo.wiki/w/%E5%8D%A1%E5%88%A9%E5%8F%A4%E6%8B%89>
+カリギュラ
+Caligula 	
+*辅助* 	<https://fgo.wiki/w/Berserker> 		*人* 	*友情点召唤* 	*6831* 	*7303*
+*53*
+<https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E5%BF%92%E9%87%8C%E4%BF%84%E6%96%AF>
+	阿斯忒里俄斯
+<https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E5%BF%92%E9%87%8C%E4%BF%84%E6%96%AF>
+アステリオス
+Asterios 	
+*辅助* 	<https://fgo.wiki/w/Berserker> 		*地* 	*友情点召唤* 	*6037* 	*6604*
+*52*
+<https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96> 	弗拉
+德三世 <https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96>
+ヴラド三世
+Vlad III 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*11499*
+*13770*
+*51* 	<https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6> 	坂田金
+时 <https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6>
+坂田金時
+Sakata Kintoki 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*期间限定* 	*12712* 	*12150*
+*50*
+<https://fgo.wiki/w/%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%85%8B%E6%96%AF> 	斯巴
+达克斯 <https://fgo.wiki/w/%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%85%8B%E6%96%AF>
+スパルタクス
+Spartacus 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*友情点召唤* 	*5073* 	*7722*
+*49* 	<https://fgo.wiki/w/%E5%90%95%E5%B8%83%E5%A5%89%E5%85%88> 	吕布奉
+先 <https://fgo.wiki/w/%E5%90%95%E5%B8%83%E5%A5%89%E5%85%88>
+呂布奉先
+Lu Bu Fengxian 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*人* 	*圣晶石常驻
+友情点召唤* 	*8119* 	*8302*
+*48* 	<https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9> 	兰斯洛
+特 <https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9>
+ランスロット
+Lancelot 	
+*全体* 	<https://fgo.wiki/w/Berserker> 		*地* 	*圣晶石常驻* 	*10477*
+*10327*
+*47*
+<https://fgo.wiki/w/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF> 	赫拉
+克勒斯 <https://fgo.wiki/w/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF>
+ヘラクレス
+Heracles 	
+*单体* 	<https://fgo.wiki/w/Berserker> 		*天* 	*圣晶石常驻* 	*10655*
+*10327*
+*46* 	<https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89> 	卡米拉
+<https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89>
+カーミラ
+Carmilla 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*圣晶石常驻* 	*9408* 	*10473*
+*45* 	<https://fgo.wiki/w/%E7%8E%9B%E5%A1%94%C2%B7%E5%93%88%E4%B8%BD>
+玛塔・哈丽 <https://fgo.wiki/w/%E7%8E%9B%E5%A1%94%C2%B7%E5%93%88%E4%B8%BD>
+マタ・ハリ
+Mata Hari 	
+*辅助* 	<https://fgo.wiki/w/Assassin> 		*人* 	*友情点召唤* 	*5377* 	*6565*
+*44* 	<https://fgo.wiki/w/%E5%89%A7%E9%99%A2%E9%AD%85%E5%BD%B1> 	剧院魅
+影 <https://fgo.wiki/w/%E5%89%A7%E9%99%A2%E9%AD%85%E5%BD%B1>
+ファントム・オブ・ジ・オペラ
+Phantom of the Opera 	
+*全体* 	<https://fgo.wiki/w/Assassin> 		*地* 	*友情点召唤* 	*5654* 	*8393*
+*43*
+<https://fgo.wiki/w/%E5%A4%8F%E5%B0%94%C2%B7%E4%BA%A8%E5%88%A9%C2%B7%E6%A1%91%E6%9D%BE>
+	夏尔・亨利・桑松
+<https://fgo.wiki/w/%E5%A4%8F%E5%B0%94%C2%B7%E4%BA%A8%E5%88%A9%C2%B7%E6%A1%91%E6%9D%BE>
+シャルル＝アンリ・サンソン
+Charles-Henri Sanson 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*友情点召唤* 	*5456* 	*8309*
+*42* 	<https://fgo.wiki/w/%E8%8D%86%E8%BD%B2> 	荆轲
+<https://fgo.wiki/w/%E8%8D%86%E8%BD%B2>
+荊軻
+Jing Ke 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7207* 	*8293*
+*41* 	<https://fgo.wiki/w/%E6%96%AF%E5%BF%92%E8%AF%BA> 	斯忒诺
+<https://fgo.wiki/w/%E6%96%AF%E5%BF%92%E8%AF%BA>
+ステンノ
+Stheno 	
+*辅助* 	<https://fgo.wiki/w/Assassin> 		*天* 	*圣晶石常驻* 	*8985* 	*11518*
+*40* 	<https://fgo.wiki/w/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91> 	咒腕哈
+桑 <https://fgo.wiki/w/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91>
+呪腕のハサン
+Hassan of the Cursed Arm 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*友情点召唤* 	*6280* 	*7594*
+*39*
+<https://fgo.wiki/w/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%B0%8F%E6%AC%A1%E9%83%8E>
+	佐佐木小次郎
+<https://fgo.wiki/w/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%B0%8F%E6%AC%A1%E9%83%8E>
+佐々木小次郎
+Sasaki Kojirou 	
+*单体* 	<https://fgo.wiki/w/Assassin> 		*人* 	*友情点召唤* 	*5735* 	*6220*
+*38* 	<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Caster)>
+库・丘林 <https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Caster)>
+クー・フーリン
+Cú Chulainn 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*天* 	*通关报酬
+剧情限定* 	*6580* 	*9604*
+*37*
+<https://fgo.wiki/w/%E8%AF%B8%E8%91%9B%E5%AD%94%E6%98%8E(%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96)>
+	诸葛孔明(埃尔梅罗Ⅱ世)
+<https://fgo.wiki/w/%E8%AF%B8%E8%91%9B%E5%AD%94%E6%98%8E(%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96)>
+諸葛孔明〔エルメロイⅡ世〕
+Zhuge Liang (Lord El-Melloi II) 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*人* 	*圣晶石常驻* 	*10598* 	*14259*
+*36*
+<https://fgo.wiki/w/%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88%C2%B7%E9%98%BF%E9%A9%AC%E5%BE%B7%E4%B9%8C%E6%96%AF%C2%B7%E8%8E%AB%E6%89%8E%E7%89%B9>
+	沃尔夫冈・阿马德乌斯・莫扎特
+<https://fgo.wiki/w/%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88%C2%B7%E9%98%BF%E9%A9%AC%E5%BE%B7%E4%B9%8C%E6%96%AF%C2%B7%E8%8E%AB%E6%89%8E%E7%89%B9>
+ヴォルフガング・アマデウス・モーツァルト
+Wolfgang Amadeus Mozart 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*星* 	*友情点召唤* 	*5195* 	*7129*
+*35*
+<https://fgo.wiki/w/%E6%A2%85%E8%8F%B2%E6%96%AF%E6%89%98%E8%B4%B9%E5%8B%92%E6%96%AF>
+	梅菲斯托费勒斯
+<https://fgo.wiki/w/%E6%A2%85%E8%8F%B2%E6%96%AF%E6%89%98%E8%B4%B9%E5%8B%92%E6%96%AF>
+メフィストフェレス
+Mephistopheles 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*地* 	*圣晶石常驻
+友情点召唤* 	*6839* 	*9216*
+*34*
+<https://fgo.wiki/w/%E5%A8%81%E5%BB%89%C2%B7%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A>
+	威廉・莎士比亚
+<https://fgo.wiki/w/%E5%A8%81%E5%BB%89%C2%B7%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A>
+ウィリアム・シェイクスピア
+William Shakespeare 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*友情点召唤* 	*5798* 	*8080*
+*33*
+<https://fgo.wiki/w/%E6%B1%89%E6%96%AF%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89%C2%B7%E5%AE%89%E5%BE%92%E7%94%9F>
+	汉斯・克里斯蒂安・安徒生
+<https://fgo.wiki/w/%E6%B1%89%E6%96%AF%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89%C2%B7%E5%AE%89%E5%BE%92%E7%94%9F>
+ハンス・クリスチャン・アンデルセン
+Hans Christian Andersen 	
+*辅助* 	<https://fgo.wiki/w/Caster> 		*人* 	*友情点召唤* 	*5758* 	*8484*
+*32*
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)>
+	吉尔・德・雷
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)>
+ジル・ド・レェ
+Gilles de Rais 	
+*全体* 	<https://fgo.wiki/w/Caster> 		*人* 	*剧情限定* 	*6514* 	*9506*
+*31* 	<https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A> 	美狄亚
+<https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A>
+メディア
+Medea 	
+*单体* 	<https://fgo.wiki/w/Caster> 		*地* 	*圣晶石常驻
+友情点召唤* 	*7418* 	*8643*
+*30* 	<https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE> 	玛尔达
+<https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE>
+マルタ
+Martha 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*圣晶石常驻* 	*8014* 	*13068*
+*29*
+<https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9>
+	玛丽・安托瓦内特
+<https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9>
+マリー・アントワネット
+Marie Antoinette 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*圣晶石常驻* 	*8293* 	*12348*
+*28* 	<https://fgo.wiki/w/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7> 	亚历山
+大 <https://fgo.wiki/w/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7>
+アレキサンダー
+Alexander 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7356* 	*8640*
+*27* 	<https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8> 	牛若丸
+<https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8>
+牛若丸
+Ushiwakamaru 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7076* 	*9028*
+*26* 	<https://fgo.wiki/w/%E5%B8%83%E7%8B%84%E5%8D%A1> 	布狄卡
+<https://fgo.wiki/w/%E5%B8%83%E7%8B%84%E5%8D%A1>
+ブーディカ
+Boudica 	
+*辅助* 	<https://fgo.wiki/w/Rider> 		*人* 	*通关报酬
+圣晶石常驻
+友情点召唤* 	*6289* 	*10130*
+*25*
+<https://fgo.wiki/w/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%92%82%E5%A5%87> 	
+爱德华・蒂奇
+<https://fgo.wiki/w/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%92%82%E5%A5%87>
+エドワード・ティーチ
+Edward Teach 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*人* 	*友情点召唤* 	*6188* 	*7907*
+*24* 	<https://fgo.wiki/w/%E4%B9%94%E5%B0%94%E4%B9%94%E6%96%AF> 	乔尔乔
+斯 <https://fgo.wiki/w/%E4%B9%94%E5%B0%94%E4%B9%94%E6%96%AF>
+ゲオルギウス
+Georgius 	
+*单体* 	<https://fgo.wiki/w/Rider> 		*人* 	*友情点召唤* 	*5236* 	*9200*
+*23* 	<https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E> 	美杜莎
+<https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E>
+メドゥーサ
+Medusa 	
+*全体* 	<https://fgo.wiki/w/Rider> 		*地* 	*圣晶石常驻
+友情点召唤* 	*7200* 	*8937*
+*22* 	<https://fgo.wiki/w/%E7%BD%97%E7%A9%86%E8%B7%AF%E6%96%AF> 	罗穆路
+斯 <https://fgo.wiki/w/%E7%BD%97%E7%A9%86%E8%B7%AF%E6%96%AF>
+ロムルス
+Romulus 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*星* 	*圣晶石常驻
+友情点召唤* 	*7239* 	*9883*
+*21*
+<https://fgo.wiki/w/%E5%88%97%E5%A5%A5%E5%B0%BC%E8%BE%BE%E4%B8%80%E4%B8%96>
+	列奥尼达一世
+<https://fgo.wiki/w/%E5%88%97%E5%A5%A5%E5%B0%BC%E8%BE%BE%E4%B8%80%E4%B8%96>
+レオニダス一世
+Leonidas I 	
+*辅助* 	<https://fgo.wiki/w/Lancer> 		*人* 	*友情点召唤* 	*6583* 	*7959*
+*20*
+<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Prototype)> 	库・
+丘林(Prototype)
+<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Prototype)>
+クー・フーリン〔プロトタイプ〕
+Cú Chulainn (Prototype) 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻
+友情点召唤* 	*7082* 	*10098*
+*19*
+<https://fgo.wiki/w/%E6%AD%A6%E8%97%8F%E5%9D%8A%E5%BC%81%E5%BA%86> 	武藏
+坊弁庆 <https://fgo.wiki/w/%E6%AD%A6%E8%97%8F%E5%9D%8A%E5%BC%81%E5%BA%86>
+武蔵坊弁慶
+Musashibou Benkei 	
+*辅助* 	<https://fgo.wiki/w/Lancer> 		*人* 	*友情点召唤* 	*5801* 	*9149*
+*18*
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C>
+	伊丽莎白・巴托里
+<https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C>
+エリザベート・バートリー
+Elisabeth Báthory 	
+*全体* 	<https://fgo.wiki/w/Lancer> 		*人* 	*圣晶石常驻* 	*9122* 	*11870*
+*17* 	<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97> 	库・丘林
+<https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97>
+クー・フーリン
+Cú Chulainn 	
+*单体* 	<https://fgo.wiki/w/Lancer> 		*天* 	*圣晶石常驻
+友情点召唤* 	*7239* 	*9593*
+*16* 	<https://fgo.wiki/w/%E9%98%BF%E6%8B%89%E4%BB%80> 	阿拉什
+<https://fgo.wiki/w/%E9%98%BF%E6%8B%89%E4%BB%80>
+アーラシュ
+Arash 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*地* 	*友情点召唤* 	*5816* 	*7122*
+*15* 	<https://fgo.wiki/w/%E5%B0%A4%E7%91%9E%E8%89%BE%E8%8E%89> 	尤瑞艾
+莉 <https://fgo.wiki/w/%E5%B0%A4%E7%91%9E%E8%89%BE%E8%8E%89>
+エウリュアレ
+Euryale 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*天* 	*圣晶石常驻
+友情点召唤* 	*7032* 	*9506*
+*14* 	<https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92> 	阿塔兰
+忒 <https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92>
+アタランテ
+Atalante 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*地* 	*圣晶石常驻* 	*8633* 	*12476*
+*13* 	<https://fgo.wiki/w/%E7%BD%97%E5%AE%BE%E6%B1%89> 	罗宾汉
+<https://fgo.wiki/w/%E7%BD%97%E5%AE%BE%E6%B1%89>
+ロビンフッド
+Robin Hood 	
+*单体* 	<https://fgo.wiki/w/Archer> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6715* 	*10187*
+*12*
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80> 	吉尔
+伽美什 <https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80>
+ギルガメッシュ
+Gilgamesh 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*天* 	*期间限定* 	*12280* 	*13097*
+*11* 	<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB> 	卫宫
+<https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB>
+エミヤ
+Emiya 	
+*全体* 	<https://fgo.wiki/w/Archer> 		*人* 	*圣晶石常驻* 	*9398* 	*11521*
+*10* 	<https://fgo.wiki/w/%E9%AA%91%E5%A3%AB%E8%BF%AA%E6%98%82> 	骑士迪
+昂 <https://fgo.wiki/w/%E9%AA%91%E5%A3%AB%E8%BF%AA%E6%98%82>
+シュヴァリエ・デオン
+Chevalier d'Eon 	
+*辅助* 	<https://fgo.wiki/w/Saber> 		*人* 	*圣晶石常驻* 	*8765* 	*13256*
+*9*
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7>
+吉尔・德・雷
+<https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7>
+ジル・ド・レェ
+Gilles de Rais 	
+*辅助* 	<https://fgo.wiki/w/Saber> 		*人* 	*圣晶石常驻
+友情点召唤* 	*6615* 	*10498*
+*8* 	<https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89> 	阿蒂拉
+<https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89>
+アルテラ
+Altera 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*人* 	*圣晶石常驻* 	*12343* 	*13907*
+*7*
+<https://fgo.wiki/w/%E7%9B%96%E4%B9%8C%E6%96%AF%C2%B7%E5%B0%A4%E5%88%A9%E4%B9%8C%E6%96%AF%C2%B7%E6%81%BA%E6%92%92>
+	盖乌斯・尤利乌斯・恺撒
+<https://fgo.wiki/w/%E7%9B%96%E4%B9%8C%E6%96%AF%C2%B7%E5%B0%A4%E5%88%A9%E4%B9%8C%E6%96%AF%C2%B7%E6%81%BA%E6%92%92>
+ガイウス・ユリウス・カエサル
+Gaius Julius Caesar 	
+*单体* 	<https://fgo.wiki/w/Saber> 		*人* 	*圣晶石常驻
+友情点召唤* 	*7497* 	*9595*
+*6* 	<https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%A3%9E> 	齐格飞
+<https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%A3%9E>
+ジークフリート
+Siegfried 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻* 	*8181* 	*14165*
+*5*
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF>
+	尼禄・克劳狄乌斯
+<https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF>
+ネロ・クラウディウス
+Nero Claudius 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*人* 	*剧情限定* 	*9449* 	*11753*
+*4*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Lily)>
+	阿尔托莉雅・潘德拉贡(Lily)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Lily)>
+アルトリア・ペンドラゴン〔リリィ〕
+Altria Pendragon (Lily) 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*事前登录赠送
+活动赠送* 	*7726* 	*10623*
+*3*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)>
+	阿尔托莉雅・潘德拉贡(Alter)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Alter)>
+アルトリア・ペンドラゴン〔オルタ〕
+Altria Pendragon (Alter) 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*人* 	*剧情限定* 	*10248* 	*11589*
+*2*
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1>
+	阿尔托莉雅・潘德拉贡
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1>
+アルトリア・ペンドラゴン
+Altria Pendragon 	
+*全体* 	<https://fgo.wiki/w/Saber> 		*地* 	*圣晶石常驻* 	*11221* 	*15150*
+*1*
+<https://fgo.wiki/w/%E7%8E%9B%E4%BF%AE%C2%B7%E5%9F%BA%E5%88%97%E8%8E%B1%E7%89%B9>
+	玛修・基列莱特
+<https://fgo.wiki/w/%E7%8E%9B%E4%BF%AE%C2%B7%E5%9F%BA%E5%88%97%E8%8E%B1%E7%89%B9>
+マシュ・キリエライト
+Mash Kyrielight 	
+*辅助* 	<https://fgo.wiki/w/Shielder> 		*地* 	*初始获得* 	*8730* 	*12877*
+
+◀上一页 <javascript:void(0);> 第 页 下一页▶ <javascript:void(0);>
+
+
+
+取自“https://fgo.wiki/index.php?title=英灵图鉴&oldid=119198
+<https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&oldid=119198>”
+
+隐藏分类：
+
+  * 含有广告的页面
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E5%90%AB%E6%9C%89%E5%B9%BF%E5%91%8A%E7%9A%84%E9%A1%B5%E9%9D%A2>
+  * 有快捷方式的页面
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%9C%89%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E7%9A%84%E9%A1%B5%E9%9D%A2>
+
+为本页面评分:
+
+  * 1
+  * 2
+  * 3
+  * 4
+  * 5
+
+共计 *251* 人评分，平均分 *4.86* 分
+热门评论
+Rohnin <https://fgo.wiki/w/User:Rohnin>
+
+搜索BB 出来两个师匠 你们在暗示什么
+
+2018年6月20日, 09:29:37
+克里斯丁 <https://fgo.wiki/w/User:%E5%85%8B%E9%87%8C%E6%96%AF%E4%B8%81>
+
+Buster.png <https://fgo.wiki/index.php?title=%E6%96%87%E4%BB%B6:Buster.png>
+
+2018年5月21日, 11:36:14
+DSpect <https://fgo.wiki/w/User:DSpect>
+
+搞出真筛选了？不错嘛
+
+2018年6月3日, 20:20:02
+微风刻痕 <https://fgo.wiki/w/User:%E5%BE%AE%E9%A3%8E%E5%88%BB%E7%97%95>
+
+可以提一个建议嘛？ 如果“一般筛选”那一栏能够在打开网页时自动展开的话会用
+起来更顺手一些。。 毕竟点开这个页面就是想找某个从者的信息嘛。 顺便，极简
+模式真的是个好功能，超级点赞~
+
+2018年11月24日, 05:27:50
+エレシュキガル
+<https://fgo.wiki/w/User:%E3%82%A8%E3%83%AC%E3%82%B7%E3%83%A5%E3%82%AD%E3%82%AC%E3%83%AB>
+
+补充了几个昵称试试
+
+2018年11月23日, 22:11:53
+Dryangzzu <https://fgo.wiki/w/User:Dryangzzu>
+
+大佬们可以添加一个声优配音的筛选呀~
+
+2018年11月14日, 19:21:50
+独孤 <https://fgo.wiki/w/User:%E7%8B%AC%E5%AD%A4>
+
+筛选是不可能的，声优太多了，如果你想知道哪些声优配了那些英灵，可以看声优
+一览 <https://fgo.wiki/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88>
+在任意从者的基础数值的表格中，点击声优的名字，也可以跳转看到该声优配的其
+他英灵是那些
+
+2018年11月14日, 21:51:31
+Dryangzzu <https://fgo.wiki/w/User:Dryangzzu>
+
+哇，竟然有声优一览的吗...tql，看左边导航栏没有就以为没有呢...
+
+2018年11月20日, 11:25:07
+Crp19960203 <https://fgo.wiki/w/User:Crp19960203>
+
+这个新版的筛选图鉴怎么用啊，我只是想普通的显示出所有从者，怎么筛选的选项
+点了哪个下面都没有从者出来啊，是我浏览器的问题吗
+
+2018年11月9日, 23:54:26
+独孤 <https://fgo.wiki/w/User:%E7%8B%AC%E5%AD%A4>
+
+什么都不点。。。就是显示全部从者
+
+2018年11月10日, 08:26:06
+Crp19960203 <https://fgo.wiki/w/User:Crp19960203>
+
+找到问题了，那几天是我的浏览器问题。。。
+
+2018年11月11日, 21:47:19
+小春 <https://fgo.wiki/w/User:%E5%B0%8F%E6%98%A5>
+
+如果每个英灵有推荐理由分析+推荐队伍礼装就更好了。
+
+2018年11月4日, 16:47:00
+Tomoyo <https://fgo.wiki/w/User:Tomoyo>
+
+选飞哥，4星之神啊！
+
+2018年11月2日, 13:01:23
+隔壁的老太
+<https://fgo.wiki/w/User:%E9%9A%94%E5%A3%81%E7%9A%84%E8%80%81%E5%A4%AA>
+
+辛苦大大们了，不过可不可以考虑下筛选栏加一个【宝具有特攻效果】的项目
+
+2018年10月28日, 01:37:45
+予 <https://fgo.wiki/w/User:%E4%BA%88>
+
+可以增加一个战斗显示名，方便那些战斗显示名与卡面名不同的卡，比如黑呆（卡
+面名字是阿尔托莉雅·潘德拉贡，战斗显示名字是Saber Alter）。
+
+2018年10月26日, 00:44:13
+Angdoolu <https://fgo.wiki/w/User:Angdoolu>
+
+能不能增加个“职阶补正”和“数值排名（比如atk降序排名后黑贞是no.1序号，这样
+就能看到从者atk/hp是第几排名了）”的选项= =？
+
+2018年10月18日, 19:02:42
+岛崎信长小天使
+<https://fgo.wiki/w/User:%E5%B2%9B%E5%B4%8E%E4%BF%A1%E9%95%BF%E5%B0%8F%E5%A4%A9%E4%BD%BF>
+
+请问有没有画师筛选功能啊，比如我想筛选武内崇，山中虎铁什么的……（扇子笑）
+
+2018年10月7日, 23:34:48
+RiESA <https://fgo.wiki/w/User:RiESA>
+
+画师一览 <https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88> 可以
+浏览这个页面，或者在从者的详情数据中，直接点击画师一栏中的名称也可以检索
+到的
+
+2018年10月8日, 02:03:51
+123
+您没有权限发表评论，请查看站点关于评论的政策。
+
+
+    导航菜单
+
+
+个人工具
+
+  * 创建账户
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&returnto=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 登录
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+
+
+名字空间
+
+  * 页面 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 讨论
+    <https://fgo.wiki/index.php?title=%E8%AE%A8%E8%AE%BA:%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&action=edit&redlink=1>
+
+
+      变种
+
+
+视图
+
+  * 阅读 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 查看源代码
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&action=edit>
+  * 查看历史
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&action=history>
+
+
+      更多
+
+
+      搜索
+
+<https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+
+
+  * 英灵图鉴 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 礼装图鉴 <https://fgo.wiki/w/%E7%A4%BC%E8%A3%85%E5%9B%BE%E9%89%B4>
+  * 指令纹章图鉴
+    <https://fgo.wiki/w/%E6%8C%87%E4%BB%A4%E7%BA%B9%E7%AB%A0%E5%9B%BE%E9%89%B4>
+  * 游戏数据基础
+    <https://fgo.wiki/w/%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80>
+  * 各类信息汇总 <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%B1%87%E6%80%BB>
+  * 新人御主Q＆A
+    <https://fgo.wiki/w/%E6%96%B0%E4%BA%BA%E5%BE%A1%E4%B8%BBQ%EF%BC%86A>
+  * 抽卡模拟器
+    <https://fgo.wiki/w/%E6%8A%BD%E5%8D%A1%E6%A8%A1%E6%8B%9F%E5%99%A8>
+
+
+      热门 <#>
+
+  * 幕间物语活动 第二弹
+    <https://fgo.wiki/w/%E5%B9%95%E9%97%B4%E7%89%A9%E8%AF%AD%E6%B4%BB%E5%8A%A8/%E7%AC%AC2%E5%BC%B9>
+  * 日服：2.3开幕前夕
+    <https://fgo.wiki/w/%E7%AC%AC2%E9%83%A8_%E7%AC%AC3%E7%AB%A0%E3%80%8CLostbelt_No.3_%E4%BA%BA%E6%99%BA%E7%BB%9F%E5%90%88%E7%9C%9F%E5%9B%BD_SIN_%E7%BA%A2%E4%B9%8B%E6%9C%88%E4%B8%8B%E7%BE%8E%E4%BA%BA%E3%80%8D%E5%BC%80%E5%B9%95%E5%89%8D%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8>
+  * 国服：复刻万圣2017
+    <https://fgo.wiki/w/%E5%A4%8D%E5%88%BB%EF%BC%9AHalloween_Comeback%EF%BC%81_%E8%B6%85%E6%9E%81%E2%98%86%E5%A4%A7%E5%8D%97%E7%93%9C%E6%9D%91_%EF%BD%9E%E8%B8%8F%E4%B8%8A%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E2%80%A6%E2%80%A6%EF%BD%9E_%E8%BD%BB%E9%87%8F%E7%89%88>
+
+
+      扩展 <#>
+
+  * 关卡配置 <https://fgo.wiki/w/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE>
+  * 敌人一览 <https://fgo.wiki/w/%E6%95%8C%E4%BA%BA%E4%B8%80%E8%A7%88>
+  * 道具一览 <https://fgo.wiki/w/%E9%81%93%E5%85%B7%E4%B8%80%E8%A7%88>
+  * 技能一览 <https://fgo.wiki/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88>
+  * 活动一览 <https://fgo.wiki/w/%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%A7%88>
+  * 御主装备 <https://fgo.wiki/w/%E5%BE%A1%E4%B8%BB%E8%A3%85%E5%A4%87>
+  * 状态一览 <https://fgo.wiki/w/%E7%8A%B6%E6%80%81%E4%B8%80%E8%A7%88>
+  * 卡池一览 <https://fgo.wiki/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88>
+  * 灵衣一览 <https://fgo.wiki/w/%E7%81%B5%E8%A1%A3%E4%B8%80%E8%A7%88>
+  * 音乐鉴赏 <https://fgo.wiki/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F>
+  * 声优一览 <https://fgo.wiki/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88>
+  * 画师一览 <https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88>
+  * 登场人物 <https://fgo.wiki/w/%E7%99%BB%E5%9C%BA%E4%BA%BA%E7%89%A9>
+  * 相关数据计算器 <https://fgo.wiki/w/%E8%AE%A1%E7%AE%97%E5%99%A8>
+
+
+      趣味 <#>
+
+  * FGO相关表情包
+    <https://fgo.wiki/w/FGO%E7%9B%B8%E5%85%B3%E8%A1%A8%E6%83%85%E5%8C%85>
+  * FGO名人录 <https://fgo.wiki/w/FGO%E5%90%8D%E4%BA%BA%E5%BD%95>
+  * FGO黑话·梗·成句
+    <https://fgo.wiki/w/FGO%E9%BB%91%E8%AF%9D%C2%B7%E6%A2%97%C2%B7%E6%88%90%E5%8F%A5>
+  * 游戏卫星一览
+    <https://fgo.wiki/w/%E6%B8%B8%E6%88%8F%E5%8D%AB%E6%98%9F%E4%B8%80%E8%A7%88>
+
+
+      常用 <#>
+
+  * 首页 <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+  * 最近更改
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9>
+  * 随机页面 <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA>
+  * SE.RA.PH <https://fgo.wiki/w/Mooncell:SE.RA.PH>
+  * 模板一览
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:Mooncell%E6%A8%A1%E6%9D%BF>
+  * 编辑指南
+    <https://fgo.wiki/w/Mooncell:%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97>
+  * 贡献分数
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E5%BE%97%E5%88%86>
+  * 页面链接 <https://fgo.wiki/index.php?curid=36>
+  * 如何支持我们
+    <https://fgo.wiki/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#.E9.99.A4.E4.BA.86.E8.B4.A1.E7.8C.AE.E5.86.85.E5.AE.B9.E5.A4.96.EF.BC.8C.E6.82.A8.E8.BF.98.E5.8F.AF.E4.BB.A5.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E6.9C.8D.E5.8A.A1.E5.99.A8.E8.B5.84.E6.BA.90>
+  * 收支一览 <https://shimo.im/sheet/pS23BQPrSUgOGVHN/>
+  * 反馈渠道 <https://call.fgo.wiki/?refid=36>
+
+
+      工具 <#>
+
+  * 链入页面
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 相关更改
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 特殊页面
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2>
+  * 可打印版本
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&printable=yes>
+  * 固定链接
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&oldid=119198>
+  * 页面信息
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&action=info>
+  * 引用本页
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&page=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&id=119198>
+  * 浏览属性
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%B5%8F%E8%A7%88/:%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+
+  * 本页面最后编辑于2018年11月13日 (星期二) 18:36。
+  * 本网站内使用的游戏图片、动画、音频、文本原文，用于更好的表现游戏资
+    料，其版权属于TYPE-MOON/FGO PROJECT。
+    除非另有声明，网站其他内容采用知识共享署名-非商业性使用-相同方式共享
+    <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>授权。
+
+  * 隐私政策
+    <https://fgo.wiki/w/Mooncell:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96>
+  * 关于Mooncell <https://fgo.wiki/w/Mooncell:%E5%85%B3%E4%BA%8E>
+  * 免责声明
+    <https://fgo.wiki/w/Mooncell:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E>
+  * 粤ICP备18102655号-1 <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+  * 手机版视图
+    <https://fgo.wiki/index.php?title=%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4&mobileaction=toggle_view_mobile>
+
+  * 知识共享署名-非商业性使用-相同方式共享
+    <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>	
+  * Powered by MediaWiki <https://www.mediawiki.org/>Powered by Semantic
+    MediaWiki <https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki>	
+

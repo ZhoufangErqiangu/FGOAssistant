@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh-CN" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>源赖光 - Mooncell - 玩家自由构筑的FGO中文Wiki</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"源赖光","wgTitle":"源赖光","wgCurRevisionId":120182,"wgRevisionId":120182,"wgArticleId":490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["未复查的从者条目","英灵图鉴","从者","混沌属性","善属性","天属性","Berserker","女性","5星","本庄雷太","户松遥","Buster宝具从者","对〔魔性〕具有特殊效果","对〔天地从者〕具有特殊效果","有图表的页面"],"wgBreakFrames":false,"wgPageContentLanguage":"zh-cn","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"源赖光","wgRelevantArticleId":490,"wgRequestId":"cc69a15857528fa4bddbd3b4","wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":[],"wgPreferredVariant":"zh-cn","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgGraphSpecs":{"a3027c3014839b64b16bf154dd7a4af7af29024f":{"width":800,"height":500,"padding":{"top":10,"left":10,"bottom":30,"right":15},"data":[{"name":"table","values":[{"lv":1,"HP":1980,"ATK":1786},{"lv":2,"HP":2037,"ATK":1834},{"lv":3,"HP":2106,"ATK":1893},{"lv":4,"HP":2187,"ATK":1961},{"lv":5,"HP":2256,"ATK":2020},{"lv":6,"HP":2337,"ATK":2088},{"lv":7,"HP":2429,"ATK":2167},{"lv":8,"HP":2509,"ATK":2235},{"lv":9,"HP":2602,"ATK":2313},{"lv":10,"HP":2705,"ATK":2401},{"lv":11,"HP":2797,"ATK":2479},{"lv":12,"HP":2901,"ATK":2567},{"lv":13,"HP":3005,"ATK":2655},{"lv":14,"HP":3108,"ATK":2743},{"lv":15,"HP":3224,"ATK":2841},{"lv":16,"HP":3339,"ATK":2938},{"lv":17,"HP":3454,"ATK":3036},{"lv":18,"HP":3581,"ATK":3144},{"lv":19,"HP":3696,"ATK":3241},{"lv":20,"HP":3823,"ATK":3349},{"lv":21,"HP":3961,"ATK":3466},{"lv":22,"HP":4088,"ATK":3573},{"lv":23,"HP":4226,"ATK":3691},{"lv":24,"HP":4364,"ATK":3808},{"lv":25,"HP":4502,"ATK":3925},{"lv":26,"HP":4641,"ATK":4042},{"lv":27,"HP":4790,"ATK":4169},{"lv":28,"HP":4929,"ATK":4287},{"lv":29,"HP":5078,"ATK":4414},{"lv":30,"HP":5228,"ATK":4541},{"lv":31,"HP":5389,"ATK":4677},{"lv":32,"HP":5539,"ATK":4804},{"lv":33,"HP":5700,"ATK":4941},{"lv":34,"HP":5850,"ATK":5068},{"lv":35,"HP":6012,"ATK":5205},{"lv":36,"HP":6173,"ATK":5342},{"lv":37,"HP":6334,"ATK":5479},{"lv":38,"HP":6495,"ATK":5615},{"lv":39,"HP":6657,"ATK":5752},{"lv":40,"HP":6818,"ATK":5889},{"lv":41,"HP":6991,"ATK":6035},{"lv":42,"HP":7152,"ATK":6172},{"lv":43,"HP":7313,"ATK":6309},{"lv":44,"HP":7486,"ATK":6456},{"lv":45,"HP":7647,"ATK":6592},{"lv":46,"HP":7820,"ATK":6739},{"lv":47,"HP":7981,"ATK":6876},{"lv":48,"HP":8154,"ATK":7022},{"lv":49,"HP":8316,"ATK":7159},{"lv":50,"HP":8477,"ATK":7296},{"lv":51,"HP":8650,"ATK":7442},{"lv":52,"HP":8811,"ATK":7579},{"lv":53,"HP":8972,"ATK":7716},{"lv":54,"HP":9133,"ATK":7853},{"lv":55,"HP":9295,"ATK":7989},{"lv":56,"HP":9456,"ATK":8126},{"lv":57,"HP":9617,"ATK":8263},{"lv":58,"HP":9767,"ATK":8390},{"lv":59,"HP":9928,"ATK":8527},{"lv":60,"HP":10078,"ATK":8654},{"lv":61,"HP":10239,"ATK":8791},{"lv":62,"HP":10389,"ATK":8918},{"lv":63,"HP":10539,"ATK":9045},{"lv":64,"HP":10677,"ATK":9162},{"lv":65,"HP":10827,"ATK":9289},{"lv":66,"HP":10965,"ATK":9406},{"lv":67,"HP":11103,"ATK":9523},{"lv":68,"HP":11242,"ATK":9641},{"lv":69,"HP":11380,"ATK":9758},{"lv":70,"HP":11507,"ATK":9865},{"lv":71,"HP":11645,"ATK":9983},{"lv":72,"HP":11772,"ATK":10090},{"lv":73,"HP":11887,"ATK":10188},{"lv":74,"HP":12013,"ATK":10295},{"lv":75,"HP":12129,"ATK":10393},{"lv":76,"HP":12244,"ATK":10491},{"lv":77,"HP":12359,"ATK":10588},{"lv":78,"HP":12463,"ATK":10676},{"lv":79,"HP":12566,"ATK":10764},{"lv":80,"HP":12670,"ATK":10852},{"lv":81,"HP":12762,"ATK":10930},{"lv":82,"HP":12866,"ATK":11018},{"lv":83,"HP":12958,"ATK":11096},{"lv":84,"HP":13039,"ATK":11165},{"lv":85,"HP":13131,"ATK":11243},{"lv":86,"HP":13212,"ATK":11311},{"lv":87,"HP":13281,"ATK":11370},{"lv":88,"HP":13361,"ATK":11438},{"lv":89,"HP":13430,"ATK":11497},{"lv":90,"HP":13500,"ATK":11556},{"lv":91,"HP":13626,"ATK":11663},{"lv":92,"HP":13753,"ATK":11770},{"lv":93,"HP":13880,"ATK":11878},{"lv":94,"HP":14006,"ATK":11985},{"lv":95,"HP":14145,"ATK":12103},{"lv":96,"HP":14271,"ATK":12210},{"lv":97,"HP":14398,"ATK":12318},{"lv":98,"HP":14525,"ATK":12425},{"lv":99,"HP":14663,"ATK":12542},{"lv":100,"HP":14790,"ATK":12650}]},{"name":"curLv","source":"table","transform":[{"type":"filter","test":"datum.lv == indexLv"}]}],"signals":[{"name":"indexLv","init":"1","streams":[{"type":"mousemove","expr":"max(1, round(iscale('x', clamp(eventX(), 0, eventGroup('root').width))))"}]}],"legends":[{"fill":"color","orient":"bottom-right","properties":{"x":{"scale":"x_abs","value":90},"y":{"scale":"y_abs","value":10},"symbols":{"size":{"value":100},"stroke":{"value":"transparent"}},"labels":{"fontSize":{"value":12}}}}],"scales":[{"name":"x","type":"linear","range":"width","domain":{"data":"table","field":"lv"}},{"name":"y","type":"linear","range":"height","domain":{"fields":[{"data":"table","field":"HP"},{"data":"table","field":"ATK"}]}},{"name":"x_abs","type":"linear","range":"width","domainMin":0,"domainMax":100},{"name":"y_abs","type":"linear","range":"height","domainMin":0,"domainMax":100},{"name":"color","type":"ordinal","range":"category10","domain":["HP","ATK"]}],"axes":[{"type":"x","scale":"x","tickSizeEnd":0,"values":[1,10,20,30,40,50,60,70,80,90,100]}],"marks":[{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"lv"},"y":{"scale":"y","field":"HP"},"stroke":{"value":"#1f77b4"},"strokeWidth":{"value":2}}}},{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"lv"},"y":{"scale":"y","field":"ATK"},"stroke":{"value":"#ff7f0e"},"strokeWidth":{"value":2}}}},{"type":"rule","properties":{"update":{"x":{"scale":"x","signal":"indexLv","offset":0.5},"y":{"value":0},"y2":{"field":{"group":"height"}},"stroke":{"value":"firebrick"}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":85},"align":{"value":"right"},"text":{"value":"Lv"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":80},"align":{"value":"right"},"text":{"value":"HP"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":75},"align":{"value":"right"},"text":{"value":"ATK"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":85},"align":{"value":"left"},"text":{"signal":"indexLv"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","from":{"data":"curLv"},"properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":80},"align":{"value":"left"},"text":{"field":"HP"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","from":{"data":"curLv"},"properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":75},"align":{"value":"left"},"text":{"field":"ATK"},"fill":{"value":"firebrick"},"fontSize":{"value":20}}}},{"type":"text","properties":{"update":{"x":{"scale":"x","signal":"indexLv"},"y":{"scale":"y_abs","value":"0"},"align":{"value":"center"},"text":{"signal":"indexLv"},"fill":{"value":"steelblue"},"fontSize":{"value":20}}}}],"version":2},"cbdcf45d6159b347abb5e62f43fb3174b5e6ecbf":{"width":320,"height":200,"padding":{"top":10,"left":10,"bottom":30,"right":15},"data":[{"name":"table","values":[{"lv":1,"HP":1980,"ATK":1786},{"lv":2,"HP":2037,"ATK":1834},{"lv":3,"HP":2106,"ATK":1893},{"lv":4,"HP":2187,"ATK":1961},{"lv":5,"HP":2256,"ATK":2020},{"lv":6,"HP":2337,"ATK":2088},{"lv":7,"HP":2429,"ATK":2167},{"lv":8,"HP":2509,"ATK":2235},{"lv":9,"HP":2602,"ATK":2313},{"lv":10,"HP":2705,"ATK":2401},{"lv":11,"HP":2797,"ATK":2479},{"lv":12,"HP":2901,"ATK":2567},{"lv":13,"HP":3005,"ATK":2655},{"lv":14,"HP":3108,"ATK":2743},{"lv":15,"HP":3224,"ATK":2841},{"lv":16,"HP":3339,"ATK":2938},{"lv":17,"HP":3454,"ATK":3036},{"lv":18,"HP":3581,"ATK":3144},{"lv":19,"HP":3696,"ATK":3241},{"lv":20,"HP":3823,"ATK":3349},{"lv":21,"HP":3961,"ATK":3466},{"lv":22,"HP":4088,"ATK":3573},{"lv":23,"HP":4226,"ATK":3691},{"lv":24,"HP":4364,"ATK":3808},{"lv":25,"HP":4502,"ATK":3925},{"lv":26,"HP":4641,"ATK":4042},{"lv":27,"HP":4790,"ATK":4169},{"lv":28,"HP":4929,"ATK":4287},{"lv":29,"HP":5078,"ATK":4414},{"lv":30,"HP":5228,"ATK":4541},{"lv":31,"HP":5389,"ATK":4677},{"lv":32,"HP":5539,"ATK":4804},{"lv":33,"HP":5700,"ATK":4941},{"lv":34,"HP":5850,"ATK":5068},{"lv":35,"HP":6012,"ATK":5205},{"lv":36,"HP":6173,"ATK":5342},{"lv":37,"HP":6334,"ATK":5479},{"lv":38,"HP":6495,"ATK":5615},{"lv":39,"HP":6657,"ATK":5752},{"lv":40,"HP":6818,"ATK":5889},{"lv":41,"HP":6991,"ATK":6035},{"lv":42,"HP":7152,"ATK":6172},{"lv":43,"HP":7313,"ATK":6309},{"lv":44,"HP":7486,"ATK":6456},{"lv":45,"HP":7647,"ATK":6592},{"lv":46,"HP":7820,"ATK":6739},{"lv":47,"HP":7981,"ATK":6876},{"lv":48,"HP":8154,"ATK":7022},{"lv":49,"HP":8316,"ATK":7159},{"lv":50,"HP":8477,"ATK":7296},{"lv":51,"HP":8650,"ATK":7442},{"lv":52,"HP":8811,"ATK":7579},{"lv":53,"HP":8972,"ATK":7716},{"lv":54,"HP":9133,"ATK":7853},{"lv":55,"HP":9295,"ATK":7989},{"lv":56,"HP":9456,"ATK":8126},{"lv":57,"HP":9617,"ATK":8263},{"lv":58,"HP":9767,"ATK":8390},{"lv":59,"HP":9928,"ATK":8527},{"lv":60,"HP":10078,"ATK":8654},{"lv":61,"HP":10239,"ATK":8791},{"lv":62,"HP":10389,"ATK":8918},{"lv":63,"HP":10539,"ATK":9045},{"lv":64,"HP":10677,"ATK":9162},{"lv":65,"HP":10827,"ATK":9289},{"lv":66,"HP":10965,"ATK":9406},{"lv":67,"HP":11103,"ATK":9523},{"lv":68,"HP":11242,"ATK":9641},{"lv":69,"HP":11380,"ATK":9758},{"lv":70,"HP":11507,"ATK":9865},{"lv":71,"HP":11645,"ATK":9983},{"lv":72,"HP":11772,"ATK":10090},{"lv":73,"HP":11887,"ATK":10188},{"lv":74,"HP":12013,"ATK":10295},{"lv":75,"HP":12129,"ATK":10393},{"lv":76,"HP":12244,"ATK":10491},{"lv":77,"HP":12359,"ATK":10588},{"lv":78,"HP":12463,"ATK":10676},{"lv":79,"HP":12566,"ATK":10764},{"lv":80,"HP":12670,"ATK":10852},{"lv":81,"HP":12762,"ATK":10930},{"lv":82,"HP":12866,"ATK":11018},{"lv":83,"HP":12958,"ATK":11096},{"lv":84,"HP":13039,"ATK":11165},{"lv":85,"HP":13131,"ATK":11243},{"lv":86,"HP":13212,"ATK":11311},{"lv":87,"HP":13281,"ATK":11370},{"lv":88,"HP":13361,"ATK":11438},{"lv":89,"HP":13430,"ATK":11497},{"lv":90,"HP":13500,"ATK":11556},{"lv":91,"HP":13626,"ATK":11663},{"lv":92,"HP":13753,"ATK":11770},{"lv":93,"HP":13880,"ATK":11878},{"lv":94,"HP":14006,"ATK":11985},{"lv":95,"HP":14145,"ATK":12103},{"lv":96,"HP":14271,"ATK":12210},{"lv":97,"HP":14398,"ATK":12318},{"lv":98,"HP":14525,"ATK":12425},{"lv":99,"HP":14663,"ATK":12542},{"lv":100,"HP":14790,"ATK":12650}]},{"name":"curLv","source":"table","transform":[{"type":"filter","test":"datum.lv == indexLv"}]}],"signals":[{"name":"indexLv","init":"1","streams":[{"type":"mousemove","expr":"max(1, round(iscale('x', clamp(eventX(), 0, eventGroup('root').width))))"}]}],"legends":[{"fill":"color","orient":"bottom-right","properties":{"x":{"scale":"x_abs","value":90},"y":{"scale":"y_abs","value":10},"symbols":{"size":{"value":100},"stroke":{"value":"transparent"}},"labels":{"fontSize":{"value":12}}}}],"scales":[{"name":"x","type":"linear","range":"width","domain":{"data":"table","field":"lv"}},{"name":"y","type":"linear","range":"height","domain":{"fields":[{"data":"table","field":"HP"},{"data":"table","field":"ATK"}]}},{"name":"x_abs","type":"linear","range":"width","domainMin":0,"domainMax":100},{"name":"y_abs","type":"linear","range":"height","domainMin":0,"domainMax":100},{"name":"color","type":"ordinal","range":"category10","domain":["HP","ATK"]}],"axes":[{"type":"x","scale":"x","tickSizeEnd":0,"values":[1,10,20,30,40,50,60,70,80,90,100]}],"marks":[{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"lv"},"y":{"scale":"y","field":"HP"},"stroke":{"value":"#1f77b4"},"strokeWidth":{"value":2}}}},{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"lv"},"y":{"scale":"y","field":"ATK"},"stroke":{"value":"#ff7f0e"},"strokeWidth":{"value":2}}}},{"type":"rule","properties":{"update":{"x":{"scale":"x","signal":"indexLv","offset":0.5},"y":{"value":0},"y2":{"field":{"group":"height"}},"stroke":{"value":"firebrick"}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":85},"align":{"value":"right"},"text":{"value":"Lv"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":80},"align":{"value":"right"},"text":{"value":"HP"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","properties":{"enter":{"x":{"scale":"x_abs","value":10},"y":{"scale":"y_abs","value":75},"align":{"value":"right"},"text":{"value":"ATK"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":85},"align":{"value":"left"},"text":{"signal":"indexLv"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","from":{"data":"curLv"},"properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":80},"align":{"value":"left"},"text":{"field":"HP"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","from":{"data":"curLv"},"properties":{"update":{"x":{"scale":"x_abs","value":10.5},"y":{"scale":"y_abs","value":75},"align":{"value":"left"},"text":{"field":"ATK"},"fill":{"value":"firebrick"},"fontSize":{"value":12}}}},{"type":"text","properties":{"update":{"x":{"scale":"x","signal":"indexLv"},"y":{"scale":"y_abs","value":"0"},"align":{"value":"center"},"text":{"signal":"indexLv"},"fill":{"value":"steelblue"},"fontSize":{"value":12}}}}],"version":2}},"wgFlowThreadConfig":{"Avatar":"/extensions/Avatar/avatar.php?user=${username}","AnonymousAvatar":"/images/tx.jpg","CantPostNotice":"您没有权限发表评论，请查看站点关于评论的政策。"},"wgCodeMirrorEnabled":true});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","ext.gadget.GallerySlideShow":"ready","user.options":"loading","user.tokens":"loading","ext.graph.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@0bpaiwq",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"zh-cn"});
+});mw.loader.implement("user.tokens@0okd1b2",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.Tabber","ext.smw.style","ext.smw.tooltips","ext.graph.vega2","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.collapsiblevector.collapsibleNav","ext.flowthread","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=ext.graph.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?debug=false&amp;lang=zh-cn&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?debug=false&amp;lang=zh-cn&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.31.1"/>
+<link rel="alternate" type="application/rdf+xml" title="源赖光" href="/index.php?title=%E7%89%B9%E6%AE%8A:%E5%AF%BC%E5%87%BARDF/%E6%BA%90%E8%B5%96%E5%85%89&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Mooncell (zh-cn)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fgo.wiki/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"/>
+
+<script>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?27f57f84c984a03441e21736633c0741";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script>
+<link href="https://lib.baomitu.com/font-awesome/5.0.8/web-fonts-with-css/css/fontawesome-all.css" rel="stylesheet">
+<meta name="theme-color" content="#3177b4">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script src="https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js"></script>
+
+<!--[if lt IE 9]><script src="/load.php?debug=false&amp;lang=zh-cn&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-源赖光 rootpage-源赖光 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="zh-CN" dir="ltr"><div class="mw-parser-output"><div id="scrollDiv">
+<ul>
+<li>您好～！欢迎来到Mooncell！如果您是第一次来到这里，可以点击这里<a href="/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95" title="特殊:用户登录">加入Mooncell</a>!</li>
+<li><b><span style="color:red;">如果您在Mooncell上发现某些内容错误/空缺，请勇于修正/添加！参与进来其实很容易！</span></b></li>
+<li>编辑页面前请先阅读<b><a href="/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99" title="Mooncell:如何帮助我们完善网站">如何帮助我们完善网站</a>、<a href="/w/Mooncell:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81" title="Mooncell:常用代码">常用代码</a> 以及 <a href="/w/Mooncell:%E7%BC%96%E8%BE%91%E9%A1%BB%E7%9F%A5" title="Mooncell:编辑须知">编辑须知</a></b></li>
+<li>有任何意见、建议、求助都可以直接通过<a rel="nofollow" class="external text" href="https://call.fgo.wiki/?refid=17063">反馈渠道</a>、<a rel="nofollow" class="external text" href="https://jq.qq.com/?_wv=1027&amp;k=58xF1d4">编辑群</a>，或者直接在页面下方留言提出！</li>
+<li>欢迎有志向进行核查工作的御主！请参见<a href="/w/%E5%88%86%E7%B1%BB:%E6%9C%AA%E5%A4%8D%E6%9F%A5%E7%9A%84%E4%BB%8E%E8%80%85%E6%9D%A1%E7%9B%AE" title="分类:未复查的从者条目">需要核查的条目列表</a></li>
+<li>如希望帮助Mooncell发展，欢迎参与<a href="/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#.E9.99.A4.E4.BA.86.E8.B4.A1.E7.8C.AE.E5.86.85.E5.AE.B9.E5.A4.96.EF.BC.8C.E6.82.A8.E8.BF.98.E5.8F.AF.E4.BB.A5.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E6.9C.8D.E5.8A.A1.E5.99.A8.E8.B5.84.E6.BA.90" title="Mooncell:如何帮助我们完善网站">电池计划</a>及将本站加入广告白名单</li>
+<li>查看Mooncell的费用<a rel="nofollow" class="external text" href="https://shimo.im/sheet/pS23BQPrSUgOGVHN/">收支情况</a>，您的监督和关注有利于网站的透明及健康</li>
+<li>欢迎将Mooncell推荐给身边的其他玩家哦~</li>
+</ul>
+</div>
+</div></div></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="zh-CN">源赖光</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">来自Mooncell</div>				<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					跳转至：					<a href="#mw-head">导航</a>、					<a href="#p-search">搜索</a>
+				</div>
+				<div id="mw-content-text" lang="zh-CN" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="tl-idnav nomobile" style="display:block;margin:1px 1px 8px 1px; position:relative;left:50%; transform:translateX(-50%); width:600px; height:25px; font-size:16px; background:#85C1F7; border-radius:4px;">&#160;
+<div style="display:block;position:absolute;left:50%; bottom:0; transform:translateX(-50%); width:120px; height:25px; text-align:center; color:white; background:#4487DF; font-weight:bold;">&#160;<i class="fa-list fas" style="font-size:;color:;"></i>&#160;<a href="/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" title="英灵图鉴">英灵图鉴</a></div>
+<div style="display:block;position:absolute;left:12px; bottom:0; width:68px;overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><i class="fa-angle-left fas" style="font-size:;color:;"></i>&#160;<a href="/w/%E7%8E%84%E5%A5%98%E4%B8%89%E8%97%8F" title="玄奘三藏">No.113</a></div>
+<div style="display:block;position:absolute;left:86px; bottom:0; width:150px;overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E7%8E%84%E5%A5%98%E4%B8%89%E8%97%8F" title="玄奘三藏">玄奘三藏</a></div>
+<div style="display:block;position:absolute;right:12px; bottom:0; width:68px; text-align:right; overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6(Rider)" title="坂田金时(Rider)">No.115</a>&#160;<i class="fa-angle-right fas" style="font-size:;color:;"></i></div>
+<div style="display:block;position:absolute;right:86px; bottom:0; width:150px; text-align:right; overflow:hidden; text-overflow:ellipsis;white-space: nowrap; color:white;"><a href="/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6(Rider)" title="坂田金时(Rider)">坂田金时(Rider)</a></div>
+</div>
+<div class="pathnav2 nodesktop" style="display:block; position:relative; height:24px; margin:1px 1px 8px 1px; padding:2px; background:rgba(0,0,0,0); border-radius:4px;">
+<div class="pathnav2-right" style="display:block; position:absolute; top:0; left:102px; max-width:60%; height:24px; background:#EBF7FE; border-radius:4px; font-size:16px; padding-left:14px; padding-right:14px; line-height:24px; overflow:hidden; text-overflow:ellipsis;white-space: nowrap;">源赖光</div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 0;left:96px; width:10px; height:12px; background:#85C1F7; transform:skewX(30deg);"></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 12px; left:96px; width:10px; height:12px; background:#85C1F7; transform:skewX(-30deg);"></div>
+<div class="pathnav2-center" style="display:block; position:absolute; top:0; left:22px; width:68px; height:24px; background:#85C1F7; color:white; font-size:16px; padding-left:12px; line-height:24px;"><a href="/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" title="英灵图鉴">英灵图鉴</a></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 0;left:16px; width:10px; height:12px; background:#4487DF; transform:skewX(30deg);"></div>
+<div class="nathnav2-slash-lefttop" style="display:block; position: absolute;top: 12px;;left:16px; width:10px; height:12px; background:#4487DF; transform:skewX(-30deg);"></div>
+<div class="pathnav2-leftbg" style="display:block; position:absolute; top:0; left:0; width:22px; height:24px; background:#4487DF; border-radius:4px;"></div>
+<p><a href="/w/%E9%A6%96%E9%A1%B5" title="首页"><i class="fa-home fas" style="font-size:16px;color:white;position: absolute; left:4px; top:4px;"></i></a>
+</p>
+</div>
+<div class="nomobile" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background-color: #F9FFEA; width:825px; max-width:100%; border-radius:5px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+ <div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#B9E66B; color:#84B63C; border-radius:4px 0 0 4px; box-sizing:border-box;"><i class="fa-chevron-right fas" style="font-size:24px;color:;"></i></div>
+ <div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;">此条目介绍的是<b>Berserker职阶</b>的源赖光。如需了解<b>Lancer职阶</b>的同名从者，请查阅<a href="/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)" title="源赖光(Lancer)">源赖光(Lancer)</a>。</div>
+</div>
+<div class="nodesktop" style="margin-bottom:0.5rem;margin-top:0.5rem; display:flex; flex-direction: column; background-color: #F9FFEA; border-radius:0.26rem;">
+ <div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; background-color:#B9E66B; color:#84B63C; border-radius:0.24rem 0.24rem 0 0; box-sizing:border-box;"><i class="fa-chevron-right fas" style="font-size:1em;color:;"></i></div>
+ <div style="display:block; padding:0.5rem 1rem 0.5rem 1rem; flex-grow:1; -webkit-box-flex:1; -webkit-box-pack:center; justify-content:center; box-sizing:border-box;">此条目介绍的是<b>Berserker职阶</b>的源赖光。如需了解<b>Lancer职阶</b>的同名从者，请查阅<a href="/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)" title="源赖光(Lancer)">源赖光(Lancer)</a>。</div>
+</div>
+<div id="toc" class="toc"><div class="toctitle" lang="zh-CN" dir="ltr"><h2>目录</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.9F.BA.E7.A1.80.E6.95.B0.E5.80.BC"><span class="tocnumber">1</span> <span class="toctext">基础数值</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.AE.9D.E5.85.B7"><span class="tocnumber">2</span> <span class="toctext">宝具</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E6.8A.80.E8.83.BD"><span class="tocnumber">3</span> <span class="toctext">技能</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E6.8C.81.E6.9C.89.E6.8A.80.E8.83.BD"><span class="tocnumber">3.1</span> <span class="toctext">持有技能</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E8.81.8C.E9.98.B6.E6.8A.80.E8.83.BD"><span class="tocnumber">3.2</span> <span class="toctext">职阶技能</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E7.B4.A0.E6.9D.90.E9.9C.80.E6.B1.82"><span class="tocnumber">4</span> <span class="toctext">素材需求</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.E7.81.B5.E5.9F.BA.E5.86.8D.E4.B8.B4.EF.BC.88.E4.BB.8E.E8.80.85.E8.BF.9B.E5.8C.96.EF.BC.89"><span class="tocnumber">4.1</span> <span class="toctext">灵基再临（从者进化）</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E6.8A.80.E8.83.BD.E5.BC.BA.E5.8C.96"><span class="tocnumber">4.2</span> <span class="toctext">技能强化</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.E4.BB.8E.E8.80.85.E7.BE.81.E7.BB.8A"><span class="tocnumber">5</span> <span class="toctext">从者羁绊</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.E7.BE.81.E7.BB.8A.E6.95.85.E4.BA.8B"><span class="tocnumber">5.1</span> <span class="toctext">羁绊故事</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E7.BE.81.E7.BB.8A.E7.82.B9.E6.95.B0"><span class="tocnumber">5.2</span> <span class="toctext">羁绊点数</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#.E7.9B.B8.E5.85.B3.E7.A4.BC.E8.A3.85"><span class="tocnumber">6</span> <span class="toctext">相关礼装</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#.E8.AF.AD.E9.9F.B3.E6.96.87.E6.9C.AC"><span class="tocnumber">7</span> <span class="toctext">语音文本</span></a></li>
+<li class="toclevel-1"><a href="#.E5.A4.A9.E9.AD.94.E5.BE.A1.E4.BC.BD.E8.8D.89.E5.AD.90_.E9.AC.BC.E5.B2.9B"><span class="tocnumber">8</span> <span class="toctext">天魔御伽草子 鬼岛</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#.E8.AF.AD.E9.9F.B3.E5.85.B3.E8.81.94.E4.BB.8E.E8.80.85"><span class="tocnumber">9</span> <span class="toctext">语音关联从者</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#.E5.90.84.E9.98.B6.E6.AE.B5.E5.A4.B4.E5.83.8F.E4.B8.8E.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1"><span class="tocnumber">10</span> <span class="toctext">各阶段头像与战斗形象</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#.E5.A4.B4.E5.83.8F"><span class="tocnumber">10.1</span> <span class="toctext">头像</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1"><span class="tocnumber">10.2</span> <span class="toctext">战斗形象</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#.E6.88.90.E9.95.BF.E6.9B.B2.E7.BA.BF"><span class="tocnumber">11</span> <span class="toctext">成长曲线</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E5.9B.BD.E6.9C.8D.E6.9C.AA.E6.9D.A5Pick_Up.E6.83.85.E5.86.B5"><span class="tocnumber">12</span> <span class="toctext">国服未来Pick Up情况</span></a></li>
+</ul>
+</div>
+
+<h2><span id="基础数值"></span><span class="mw-headline" id=".E5.9F.BA.E7.A1.80.E6.95.B0.E5.80.BC">基础数值</span></h2>
+<table class="wikitable nomobile" style="text-align:center;width:100%;max-width:1000px;">
+<tbody><tr>
+<th colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">源赖光
+</th>
+<th rowspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;"><a href="/w/%E6%96%87%E4%BB%B6:5%E6%98%9F.png" class="image"><img alt="5星.png" src="/images/thumb/c/c7/5%E6%98%9F.png/150px-5%E6%98%9F.png" width="150" height="39" srcset="/images/thumb/c/c7/5%E6%98%9F.png/225px-5%E6%98%9F.png 1.5x, /images/thumb/c/c7/5%E6%98%9F.png/300px-5%E6%98%9F.png 2x" /></a>
+</th></tr>
+<tr>
+<td colspan="6">源頼光
+</td></tr>
+<tr>
+<td colspan="6">Minamoto-no-Raikou
+</td>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">No.114
+</th></tr>
+<tr>
+<th colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">画师
+</th>
+<th colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">声优
+</th>
+<th rowspan="24" width="300px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;"><div id="tabber-bac5a8d0c5080236d25cb9257e1c7711" class="tabber">
+			<div class="tabbertab" title="初始状态">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png" class="image"><img alt="源赖光卡面Ⅰ.png" src="/images/thumb/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png" width="285" height="403" srcset="/images/thumb/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png 1.5x, /images/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临I">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png" class="image"><img alt="源赖光卡面Ⅱ.png" src="/images/thumb/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png" width="285" height="403" srcset="/images/thumb/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png 1.5x, /images/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临Ⅲ">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png" class="image"><img alt="源赖光卡面Ⅲ.png" src="/images/thumb/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png" width="285" height="403" srcset="/images/thumb/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png 1.5x, /images/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临Ⅳ">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png" class="image"><img alt="源赖光卡面Ⅳ.png" src="/images/thumb/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png" width="285" height="403" srcset="/images/thumb/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png 1.5x, /images/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="愚人节">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png" class="image"><img alt="源赖光愚人节.png" src="/images/thumb/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png" width="285" height="403" srcset="/images/thumb/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png 1.5x, /images/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png 2x" /></a></p>
+			</div></div>
+</th></tr>
+<tr>
+<td colspan="3"><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E6.9C.AC.E5.BA.84.E9.9B.B7.E5.A4.AA" title="画师一览">本庄雷太</a>
+</td>
+<td colspan="3"><a href="/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#.E6.88.B7.E6.9D.BE.E9.81.A5" title="声优一览">户松遥</a>
+</td></tr>
+<tr>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">职阶
+</th>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">性别
+</th>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">身高
+</th>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">体重
+</th>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">属性
+</th>
+<th width="90px" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">隐藏属性
+</th></tr>
+<tr>
+<td>Berserker</td>
+<td><a href="/w/%E6%80%A7%E5%88%AB%EF%BC%9A%E5%A5%B3%E6%80%A7" title="性别：女性">女性</a></td>
+<td>175cm</td>
+<td>??kg</td>
+<td><a href="/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E6%B7%B7%E6%B2%8C" title="属性：混沌">混沌</a>·<a href="/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%96%84" title="属性：善">善</a></td>
+<td><a href="/w/%E9%9A%90%E8%97%8F%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%A4%A9" title="隐藏属性：天">天</a>
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">筋力
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">耐久
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">敏捷
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">魔力
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">幸运
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">宝具
+</th></tr>
+<tr>
+<td>A</td>
+<td>B</td>
+<td>D</td>
+<td>A</td>
+<td>C</td>
+<td>A+
+</td></tr>
+<tr>
+<th colspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">配卡
+</th>
+<td colspan="4"><a href="/w/%E6%96%87%E4%BB%B6:Quick.png" class="image"><img alt="Quick.png" src="/images/thumb/8/84/Quick.png/40px-Quick.png" width="40" height="40" srcset="/images/thumb/8/84/Quick.png/60px-Quick.png 1.5x, /images/thumb/8/84/Quick.png/80px-Quick.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Arts.png" class="image"><img alt="Arts.png" src="/images/thumb/9/95/Arts.png/40px-Arts.png" width="40" height="40" srcset="/images/thumb/9/95/Arts.png/60px-Arts.png 1.5x, /images/thumb/9/95/Arts.png/80px-Arts.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Arts.png" class="image"><img alt="Arts.png" src="/images/thumb/9/95/Arts.png/40px-Arts.png" width="40" height="40" srcset="/images/thumb/9/95/Arts.png/60px-Arts.png 1.5x, /images/thumb/9/95/Arts.png/80px-Arts.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Buster.png" class="image"><img alt="Buster.png" src="/images/thumb/6/6e/Buster.png/40px-Buster.png" width="40" height="40" srcset="/images/thumb/6/6e/Buster.png/60px-Buster.png 1.5x, /images/thumb/6/6e/Buster.png/80px-Buster.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Buster.png" class="image"><img alt="Buster.png" src="/images/thumb/6/6e/Buster.png/40px-Buster.png" width="40" height="40" srcset="/images/thumb/6/6e/Buster.png/60px-Buster.png 1.5x, /images/thumb/6/6e/Buster.png/80px-Buster.png 2x" /></a>
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">数值
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">基础
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">满级
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">90级
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">100级
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">MAX强化
+</th></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">ATK
+</th>
+<td>1786</td>
+<td>11556</td>
+<td>11556</td>
+<td>12650</td>
+<td>14650
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">职阶补正后
+</th>
+<td>1965</td>
+<td>12712</td>
+<td>12712</td>
+<td>13915</td>
+<td>16115
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">HP
+</th>
+<td>1980</td>
+<td>13500</td>
+<td>13500</td>
+<td>14790</td>
+<td>16790
+</td></tr>
+<tr>
+<th colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">NP获得率
+</th></tr>
+<tr>
+<th>Quick</th>
+<th>Arts</th>
+<th>Buster</th>
+<th>Extra</th>
+<th>宝具</th>
+<th>受击
+</th></tr>
+<tr>
+<td>0.46%</td>
+<td>0.46%</td>
+<td>0.46%</td>
+<td>0.46%</td>
+<td>0.46%</td>
+<td>5%
+</td></tr>
+<tr>
+<th colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">Hit信息
+</th></tr>
+<tr>
+<th>Quick
+</th>
+<td colspan="2" style="text-align:left;">3 Hits (16,33,51)
+</td>
+<th>Arts
+</th>
+<td colspan="2" style="text-align:left;">4 Hits (10,20,30,40)
+</td></tr>
+<tr>
+<th>Buster
+</th>
+<td colspan="2" style="text-align:left;">1 Hit (100)
+</td>
+<th>Extra
+</th>
+<td colspan="2" style="text-align:left;">5 Hits (20,13,6,26,35)
+</td></tr>
+<tr>
+<th>宝具
+</th>
+<td colspan="5" style="text-align:left;">7 Hits (16,12,12,8,16,12,24)
+</td></tr>
+<tr>
+<th colspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">出星率</th>
+<th colspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">被即死率</th>
+<th colspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">暴击星分配权重
+</th></tr>
+<tr>
+<td colspan="2">4.9%</td>
+<td colspan="2">39.0%</td>
+<td colspan="2">9
+</td></tr>
+<tr>
+<th colspan="4" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">特性
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">人型
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">被EA特攻
+</th></tr>
+<tr>
+<td colspan="4"><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E7%A5%9E%E6%80%A7" title="特性：神性">神性</a>、<a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E9%AA%91%E4%B9%98" title="特性：骑乘">骑乘</a>、<a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E5%A4%A9%E5%9C%B0%E4%BB%8E%E8%80%85" title="特性：天地从者">天地从者</a>
+</td>
+<td><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E5%9E%8B#.E4.BA.BA.E5.9E.8B.E4.BB.8E.E8.80.85" title="特性：人型">是</a>
+</td>
+<td><a href="/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A2%ABEA%E7%89%B9%E6%94%BB#.E8.A2.AB.E7.89.B9.E6.94.BB.E7.9A.84.E4.BB.8E.E8.80.85" title="特性：被EA特攻">是</a>
+</td></tr>
+<tr>
+<th colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">昵称
+</th></tr>
+<tr>
+<td colspan="6">奶光，光妈，妈妈
+</td></tr></tbody></table>
+<table class="wikitable nodesktop" style="text-align:center;display:table;width:100%;white-space:normal;">
+<tbody><tr>
+<th colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">源赖光
+</th></tr>
+<tr>
+<td colspan="6">源頼光
+</td></tr>
+<tr>
+<td colspan="6">Minamoto-no-Raikou
+</td></tr>
+<tr>
+<td colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;"><a href="/w/%E6%96%87%E4%BB%B6:5%E6%98%9F.png" class="image"><img alt="5星.png" src="/images/thumb/c/c7/5%E6%98%9F.png/150px-5%E6%98%9F.png" width="150" height="39" srcset="/images/thumb/c/c7/5%E6%98%9F.png/225px-5%E6%98%9F.png 1.5x, /images/thumb/c/c7/5%E6%98%9F.png/300px-5%E6%98%9F.png 2x" /></a>
+</td>
+<td colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">No.114
+</td></tr>
+<tr>
+<td colspan="6" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;"><div id="tabber-bac5a8d0c5080236d25cb9257e1c7711" class="tabber">
+			<div class="tabbertab" title="初始状态">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png" class="image"><img alt="源赖光卡面Ⅰ.png" src="/images/thumb/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png" width="285" height="403" srcset="/images/thumb/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png 1.5x, /images/3/36/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A0.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临I">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png" class="image"><img alt="源赖光卡面Ⅱ.png" src="/images/thumb/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png" width="285" height="403" srcset="/images/thumb/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png 1.5x, /images/8/83/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A1.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临Ⅲ">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png" class="image"><img alt="源赖光卡面Ⅲ.png" src="/images/thumb/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png" width="285" height="403" srcset="/images/thumb/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png 1.5x, /images/f/f6/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A2.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="灵基再临Ⅳ">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png" class="image"><img alt="源赖光卡面Ⅳ.png" src="/images/thumb/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png" width="285" height="403" srcset="/images/thumb/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png 1.5x, /images/3/38/%E6%BA%90%E8%B5%96%E5%85%89%E5%8D%A1%E9%9D%A2%E2%85%A3.png 2x" /></a></p>
+			</div>
+			<div class="tabbertab" title="愚人节">
+				<p><a href="/w/%E6%96%87%E4%BB%B6:%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png" class="image"><img alt="源赖光愚人节.png" src="/images/thumb/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png/285px-%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png" width="285" height="403" srcset="/images/thumb/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png/428px-%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png 1.5x, /images/5/54/%E6%BA%90%E8%B5%96%E5%85%89%E6%84%9A%E4%BA%BA%E8%8A%82.png 2x" /></a></p>
+			</div></div>
+</td></tr>
+<tr>
+<th colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">画师
+</th>
+<th colspan="3" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">声优
+</th></tr>
+<tr>
+<td colspan="3"><a href="/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E6.9C.AC.E5.BA.84.E9.9B.B7.E5.A4.AA" title="画师一览">本庄雷太</a>
+</td>
+<td colspan="3"><a href="/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#.E6.88.B7.E6.9D.BE.E9.81.A5" title="声优一览">户松遥</a>
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">性别
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;" colspan="2">职阶
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;" colspan="3">属性
+</th></tr>
+<tr>
+<td><a href="/w/%E6%80%A7%E5%88%AB%EF%BC%9A%E5%A5%B3%E6%80%A7" title="性别：女性">女性</a>
+</td>
+<td colspan="2">Berserker
+</td>
+<td colspan="2"><a href="/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E6%B7%B7%E6%B2%8C" title="属性：混沌">混沌</a>·<a href="/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%96%84" title="属性：善">善</a>
+</td>
+<td><a href="/w/%E9%9A%90%E8%97%8F%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%A4%A9" title="隐藏属性：天">天</a>
+</td></tr>
+<tr>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">筋力
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">耐久
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">敏捷
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">魔力
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">幸运
+</th>
+<th style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">宝具
+</th></tr>
+<tr>
+<td>A</td>
+<td>B</td>
+<td>D</td>
+<td>A</td>
+<td>C</td>
+<td>A+
+</td></tr>
+<tr>
+<th colspan="2" style="background-color: &#123;&#123;&#123;背景颜色&#125;&#125;&#125;; color:&#123;&#123;&#123;文字颜色&#125;&#125;&#125;">配卡
+</th>
+<td colspan="4"><a href="/w/%E6%96%87%E4%BB%B6:Quick.png" class="image"><img alt="Quick.png" src="/images/thumb/8/84/Quick.png/40px-Quick.png" width="40" height="40" srcset="/images/thumb/8/84/Quick.png/60px-Quick.png 1.5x, /images/thumb/8/84/Quick.png/80px-Quick.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Arts.png" class="image"><img alt="Arts.png" src="/images/thumb/9/95/Arts.png/40px-Arts.png" width="40" height="40" srcset="/images/thumb/9/95/Arts.png/60px-Arts.png 1.5x, /images/thumb/9/95/Arts.png/80px-Arts.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Arts.png" class="image"><img alt="Arts.png" src="/images/thumb/9/95/Arts.png/40px-Arts.png" width="40" height="40" srcset="/images/thumb/9/95/Arts.png/60px-Arts.png 1.5x, /images/thumb/9/95/Arts.png/80px-Arts.png 2x" /></a><a href="/w/%E6%96%87%E4%BB%B6:Buster.png" class="image"><img alt="Buster.png" src="/images/thumb/6/6e/Buster.png/40px-Buster.png" width="40" height="40
