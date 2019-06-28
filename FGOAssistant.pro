@@ -44,5 +44,20 @@ DISTFILES +=
 RESOURCES += \
     res.qrc
 
-RC_FILE = fgoass.rc
-#RC_FILE += version.rc
+#RC_FILE = fgoass.rc
+
+# 配置图标（仅Windows有效）
+RC_ICONS += myapp.ico
+# 版本号
+VERSION = 1.2
+# 语言
+# 0x0004 表示 简体中文
+RC_LANG = 0x0004
+# 公司名
+#QMAKE_TARGET_COMPANY =
+# 产品名称
+QMAKE_TARGET_PRODUCT = FGOAssistant
+# 详细描述
+#QMAKE_TARGET_DESCRIPTION = XXXXXX
+# 版权
+#QMAKE_TARGET_COPYRIGHT = Copyright(C) 2018 XXXXX
