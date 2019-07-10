@@ -975,19 +975,20 @@ void MainWindow::CheckUserPlanData(int row, int column)
 void MainWindow::SetPRIColor(int row) //set table 1 row color by PRI
 {
     int i=0;
-    QString sPRI="";
+    int lPRI;
     QColor cPRIColor;
 
-    sPRI=ui->tServantData->item(row,4)->text();
-    if (sPRI=="2")
+    cPRIColor=QColor(128,128,128);
+    lPRI=ui->tServantData->item(row,4)->text().toInt();
+    if (lPRI==2)
     {
         cPRIColor=ConfigColors.cPRIColor2;
     }
-    if (sPRI=="1")
+    if (lPRI==1)
     {
         cPRIColor=ConfigColors.cPRIColor1;
     }
-    if (sPRI=="0")
+    if (lPRI==0)
     {
         cPRIColor=ConfigColors.cPRIColor0;
     }
