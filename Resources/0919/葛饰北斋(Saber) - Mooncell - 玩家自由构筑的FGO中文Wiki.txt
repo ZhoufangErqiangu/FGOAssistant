@@ -1,0 +1,2705 @@
+
+  葛饰北斋(Saber)
+
+来自Mooncell
+跳转至： 导航 <#mw-head>、 搜索 <#p-search>
+ 
+ // 英灵图鉴 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+// No.263 <https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89(Rider)>
+卡米拉(Rider) <https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89(Rider)>
+No.265
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Ruler)> //
+阿尔托莉雅·潘德拉贡(Ruler)
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Ruler)>
+葛饰北斋(Saber)
+英灵图鉴 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+
+/
+
+/ <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+
+快速跳转 	Servant 198.png
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>
+
+
+目录
+
+ [隐藏] 
+
+  * 1 基础数值 <#.E5.9F.BA.E7.A1.80.E6.95.B0.E5.80.BC>
+  * 2 宝具 <#.E5.AE.9D.E5.85.B7>
+  * 3 技能 <#.E6.8A.80.E8.83.BD>
+      o 3.1 持有技能 <#.E6.8C.81.E6.9C.89.E6.8A.80.E8.83.BD>
+      o 3.2 职阶技能 <#.E8.81.8C.E9.98.B6.E6.8A.80.E8.83.BD>
+  * 4 素材需求 <#.E7.B4.A0.E6.9D.90.E9.9C.80.E6.B1.82>
+      o 4.1 灵基再临（从者进化）
+        <#.E7.81.B5.E5.9F.BA.E5.86.8D.E4.B8.B4.EF.BC.88.E4.BB.8E.E8.80.85.E8.BF.9B.E5.8C.96.EF.BC.89>
+      o 4.2 技能强化 <#.E6.8A.80.E8.83.BD.E5.BC.BA.E5.8C.96>
+      o 4.3 再临与技能总计
+        <#.E5.86.8D.E4.B8.B4.E4.B8.8E.E6.8A.80.E8.83.BD.E6.80.BB.E8.AE.A1>
+  * 5 资料 <#.E8.B5.84.E6.96.99>
+  * 6 羁绊点数 <#.E7.BE.81.E7.BB.8A.E7.82.B9.E6.95.B0>
+  * 7 相关礼装 <#.E7.9B.B8.E5.85.B3.E7.A4.BC.E8.A3.85>
+  * 8 语音 <#.E8.AF.AD.E9.9F.B3>
+      o 8.1 语音关联从者
+        <#.E8.AF.AD.E9.9F.B3.E5.85.B3.E8.81.94.E4.BB.8E.E8.80.85>
+  * 9 各阶段头像与战斗形象
+    <#.E5.90.84.E9.98.B6.E6.AE.B5.E5.A4.B4.E5.83.8F.E4.B8.8E.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1>
+
+      o 9.1 头像 <#.E5.A4.B4.E5.83.8F>
+      o 9.2 战斗形象 <#.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1>
+  * 10 成长曲线 <#.E6.88.90.E9.95.BF.E6.9B.B2.E7.BA.BF>
+  * 11 注释和链接 <#.E6.B3.A8.E9.87.8A.E5.92.8C.E9.93.BE.E6.8E.A5>
+
+
+目录
+
+ [隐藏] 
+
+  * 1 基础数值 <#.E5.9F.BA.E7.A1.80.E6.95.B0.E5.80.BC>
+  * 2 宝具 <#.E5.AE.9D.E5.85.B7>
+  * 3 技能 <#.E6.8A.80.E8.83.BD>
+      o 3.1 持有技能 <#.E6.8C.81.E6.9C.89.E6.8A.80.E8.83.BD>
+      o 3.2 职阶技能 <#.E8.81.8C.E9.98.B6.E6.8A.80.E8.83.BD>
+  * 4 素材需求 <#.E7.B4.A0.E6.9D.90.E9.9C.80.E6.B1.82>
+      o 4.1 灵基再临（从者进化）
+        <#.E7.81.B5.E5.9F.BA.E5.86.8D.E4.B8.B4.EF.BC.88.E4.BB.8E.E8.80.85.E8.BF.9B.E5.8C.96.EF.BC.89>
+      o 4.2 技能强化 <#.E6.8A.80.E8.83.BD.E5.BC.BA.E5.8C.96>
+      o 4.3 再临与技能总计
+        <#.E5.86.8D.E4.B8.B4.E4.B8.8E.E6.8A.80.E8.83.BD.E6.80.BB.E8.AE.A1>
+  * 5 资料 <#.E8.B5.84.E6.96.99>
+  * 6 羁绊点数 <#.E7.BE.81.E7.BB.8A.E7.82.B9.E6.95.B0>
+  * 7 相关礼装 <#.E7.9B.B8.E5.85.B3.E7.A4.BC.E8.A3.85>
+  * 8 语音 <#.E8.AF.AD.E9.9F.B3>
+      o 8.1 语音关联从者
+        <#.E8.AF.AD.E9.9F.B3.E5.85.B3.E8.81.94.E4.BB.8E.E8.80.85>
+  * 9 各阶段头像与战斗形象
+    <#.E5.90.84.E9.98.B6.E6.AE.B5.E5.A4.B4.E5.83.8F.E4.B8.8E.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1>
+
+      o 9.1 头像 <#.E5.A4.B4.E5.83.8F>
+      o 9.2 战斗形象 <#.E6.88.98.E6.96.97.E5.BD.A2.E8.B1.A1>
+  * 10 成长曲线 <#.E6.88.90.E9.95.BF.E6.9B.B2.E7.BA.BF>
+  * 11 注释和链接 <#.E6.B3.A8.E9.87.8A.E5.92.8C.E9.93.BE.E6.8E.A5>
+
+
+    基础数值
+
+葛饰北斋 	No.264活动赠送
+葛飾北斎
+Katsushika Hokusai 	4星.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:4%E6%98%9F.png>
+金卡Saber.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E9%87%91%E5%8D%A1Saber.png>
+画师 	声优
+黑星红白
+<https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E9.BB.91.E6.98.9F.E7.BA.A2.E7.99.BD>
+	Yukana <https://fgo.wiki/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#Yukana>
+职阶 	
+性别 //
+	身高 	体重 	属性 	隐藏属性 	
+
+  * 初始状态~灵基再临Ⅲ <javascript:void(0)>
+  * 灵基再临Ⅳ <javascript:void(0)>
+
+葛饰北斋(Saber)初始.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)%E5%88%9D%E5%A7%8B.png>
+
+葛饰北斋(Saber)满破.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)%E6%BB%A1%E7%A0%B4.png>
+
+Saber <https://fgo.wiki/w/Saber> 	女性
+<https://fgo.wiki/w/%E6%80%A7%E5%88%AB%EF%BC%9A%E5%A5%B3%E6%80%A7>
+162cm 	51kg 	混沌
+<https://fgo.wiki/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E6%B7%B7%E6%B2%8C>·善
+<https://fgo.wiki/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%96%84> 	人
+<https://fgo.wiki/w/%E9%9A%90%E8%97%8F%E5%B1%9E%E6%80%A7%EF%BC%9A%E4%BA%BA>
+筋力 	耐久 	敏捷 	魔力 	幸运 	
+宝具 //
+C 	C 	B 	C- 	B- 	B
+数值 	基础 	满级 	90级 	100级 	MAX强化
+ATK 	1564 	9389 	10374 	11368 	13368
+职阶补正后 	1564 	9389 	10374 	11368 	13368
+HP 	1899 	11873 	13129 	14396 	16396
+配卡 	Quick.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Quick.png>Quick.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Quick.png>Arts.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>Arts.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>Buster.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Buster.png>
+Hit信息 //
+Quick 	Arts 	Buster
+4 Hits (10,20,30,40) 	4 Hits (10,20,30,40) 	4 Hits (10,20,30,40)
+Extra 	宝具
+5 Hits (6,13,20,26,35) 	8 Hits (2,5,8,11,13,16,19,26)
+NP获得率
+Quick 	Arts 	Buster 	Extra 	宝具 	受击
+0.46% 	0.46% 	0.46% 	0.46% 	0.46% 	3%
+出星率 	被即死率 	暴击星分配权重
+10.0% 	28.8% 	99
+特性 	人型 	被EA特攻 	葛饰北斋
+神性 <https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E7%A5%9E%E6%80
+%A7>、人类的威胁
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A8%81%E8%83%81>
+	是
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E5%9E%8B#.E4.BA.BA.E5.9E.8B.E4.BB.8E.E8.80.85>
+	是
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A2%ABEA%E7%89%B9%E6%94%BB#.E8.A2.AB.E7.89.B9.E6.94.BB.E7.9A.84.E4.BB.8E.E8.80.85>
+	葛飾北斎
+
+葛饰北斋
+葛飾北斎
+Katsushika Hokusai
+No.264 	金卡Saber.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E9%87%91%E5%8D%A1Saber.png>　4
+星.png <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:4%E6%98%9F.png>
+
+  * 初始状态~灵基再临Ⅲ <javascript:void(0)>
+  * 灵基再临Ⅳ <javascript:void(0)>
+
+葛饰北斋(Saber)初始.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)%E5%88%9D%E5%A7%8B.png>
+
+葛饰北斋(Saber)满破.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)%E6%BB%A1%E7%A0%B4.png>
+
+画师 	声优
+黑星红白
+<https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E9.BB.91.E6.98.9F.E7.BA.A2.E7.99.BD>
+	Yukana <https://fgo.wiki/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88#Yukana>
+性别 	职阶 	属性
+女性
+<https://fgo.wiki/w/%E6%80%A7%E5%88%AB%EF%BC%9A%E5%A5%B3%E6%80%A7>
+Saber <https://fgo.wiki/w/Saber> 	混沌
+<https://fgo.wiki/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E6%B7%B7%E6%B2%8C>·善
+<https://fgo.wiki/w/%E5%B1%9E%E6%80%A7%EF%BC%9A%E5%96%84> 	人
+<https://fgo.wiki/w/%E9%9A%90%E8%97%8F%E5%B1%9E%E6%80%A7%EF%BC%9A%E4%BA%BA>
+筋力 	耐久 	敏捷 	魔力 	幸运 	宝具
+C 	C 	B 	C- 	B- 	B
+数值 	基础 	满级 	90级 	100级 	MAX
+ATK 	1564 	9389 	10374 	11368 	13368
+补正 	1564 	9389 	10374 	11368 	13368
+HP 	1899 	11873 	13129 	14396 	16396
+配卡 	Quick.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Quick.png>Quick.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Quick.png>Arts.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>Arts.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>Buster.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Buster.png>
+Hit信息
+Quick 	4 Hits (10,20,30,40)
+Arts 	4 Hits (10,20,30,40)
+Buster 	4 Hits (10,20,30,40)
+Extra 	5 Hits (6,13,20,26,35)
+宝具 	8 Hits (2,5,8,11,13,16,19,26)
+NP获得率
+Quick 	Arts 	Buster 	Extra 	宝具 	受击
+0.46% 	0.46% 	0.46% 	0.46% 	0.46% 	3%
+出星率 	被即死率 	暴击权重
+10.0% 	28.8% 	99
+特性
+神性 <https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E7%A5%9E%E6%80
+%A7>、人类的威胁
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A8%81%E8%83%81>
+
+人型 	被「天地乖离开辟之星」特攻
+是
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E4%BA%BA%E5%9E%8B#.E4.BA.BA.E5.9E.8B.E4.BB.8E.E8.80.85>
+	是
+<https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E8%A2%ABEA%E7%89%B9%E6%94%BB#.E8.A2.AB.E7.89.B9.E6.94.BB.E7.9A.84.E4.BB.8E.E8.80.85>
+
+
+
+    宝具
+
+/
+
+/
+如需了解*该从者的宝具动画*，您也可以查阅葛饰北斋(Saber)/宝具动画
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E5%AE
+%9D%E5%85%B7%E5%8A%A8%E7%94%BB>页面。
+//
+如需了解*该从者的宝具动画*，您也可以查阅葛饰北斋(Saber)/宝具动画
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E5%AE
+%9D%E5%85%B7%E5%8A%A8%E7%94%BB>页面。
+/
+
+/
+如需了解*该从者的宝具背景音乐*，您也可以查阅音乐鉴赏/宝具背景音乐#葛饰北
+斋(Saber)
+<https://fgo.wiki/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F/%E5%AE%9D%E5%85
+%B7%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9
+%90#.E8.91.9B.E9.A5.B0.E5.8C.97.E6.96.8B.28Saber.29>页面。
+//
+如需了解*该从者的宝具背景音乐*，您也可以查阅音乐鉴赏/宝具背景音乐#葛饰北
+斋(Saber)
+<https://fgo.wiki/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F/%E5%AE%9D%E5%85
+%B7%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9
+%90#.E8.91.9B.E9.A5.B0.E5.8C.97.E6.96.8B.28Saber.29>页面。
+
+Arts.png <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>
+
+B
+
+对人宝具
+
+	Shokokutakimeguri
+诸国瀑布揽胜
+しょこくたきめぐり
+諸国瀧廻り
+自身宝具威力提升(1回合)<Over Charge时效果提升>
+30% 	40% 	50% 	60% 	70%
+对敌方单体发动超强大的攻击<宝具升级效果提升>
+900% 	1200% 	1350% 	1425% 	1500%
+
+Arts.png <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:Arts.png>
+	Shokokutakimeguri
+诸国瀑布揽胜
+しょこくたきめぐり
+諸国瀧廻り
+B 	对人宝具
+自身宝具威力提升(1回合)<Over Charge时效果提升>
+30% 	40% 	50% 	60% 	70%
+对敌方单体发动超强大的攻击<宝具升级效果提升>
+900% 	1200% 	1350% 	1425% 	1500%
+
+
+    技能
+
+
+      持有技能
+
+*技能1（初期开放）*
+
+充能.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E5%85%85%E8%83%BD.png> 	神通力
+（墨） C 	充能时间：7→6→5
+神通力（墨） C
+自身NP增加
+10% 	11% 	12% 	13% 	14% 	15% 	16% 	17% 	18% 	20%
+获得暴击星
+10 	11 	12 	13 	14 	15 	16 	17 	18 	20
+
+充能.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E5%85%85%E8%83%BD.png> 	神通力
+（墨） C
+充能时间：7→6→5
+自身NP增加
+10% 	11% 	12% 	13% 	14%
+15% 	16% 	17% 	18% 	20%
+获得暴击星
+10 	11 	12 	13 	14
+15 	16 	17 	18 	20
+
+*技能2（灵基再临第1阶段开放）*
+
+集星.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E9%9B%86%E6%98%9F.png> 	父女之
+缘 B 	充能时间：9→8→7
+父娘の縁 B
+自身暴击星集中度提升(3回合)
+300% 	320% 	340% 	360% 	380% 	400% 	420% 	440% 	460% 	500%
+付与毅力状态(1次·3回合)
+1000 	1100 	1200 	1300 	1400 	1500 	1600 	1700 	1800 	2000
+
+集星.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E9%9B%86%E6%98%9F.png> 	父女之缘 B
+充能时间：9→8→7
+自身暴击星集中度提升(3回合)
+300% 	320% 	340% 	360% 	380%
+400% 	420% 	440% 	460% 	500%
+付与毅力状态(1次·3回合)
+1000 	1100 	1200 	1300 	1400
+1500 	1600 	1700 	1800 	2000
+
+*技能3（灵基再临第3阶段开放）*
+
+蓝放.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%93%9D%E6%94%BE.png> 	雅号·龙
+纹蛸 B 	充能时间：8→7→6
+雅号・竜紋蛸 B
+自身的Arts指令卡性能提升(3回合)
+20% 	21% 	22% 	23% 	24% 	25% 	26% 	27% 	28% 	30%
+付与「攻击暴击时自身的暴击威力提升(3回合)」的状态(3回合)
+10% 	11% 	12% 	13% 	14% 	15% 	16% 	17% 	18% 	20%
+
+蓝放.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%93%9D%E6%94%BE.png> 	雅号·龙
+纹蛸 B
+充能时间：8→7→6
+自身的Arts指令卡性能提升(3回合)
+20% 	21% 	22% 	23% 	24%
+25% 	26% 	27% 	28% 	30%
+付与「攻击暴击时自身的暴击威力提升(3回合)」的状态(3回合)
+10% 	11% 	12% 	13% 	14%
+15% 	16% 	17% 	18% 	20%
+
+
+      职阶技能
+
+对魔力.png
+<https://fgo.wiki/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88/%E8%81%8C%E9%98%B6%E6%8A%80%E8%83%BD#.E5.AF.B9.E9.AD.94.E5.8A.9B>
+	对魔力 C
+自身的弱化状态耐性少量提升(15%)
+神性.png
+<https://fgo.wiki/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88/%E8%81%8C%E9%98%B6%E6%8A%80%E8%83%BD#.E7.A5.9E.E6.80.A7>
+	神性 E
+付与自身伤害附加状态(100)
+
+对魔力.png 	对魔力 C
+自身的弱化状态耐性少量提升(15%)
+神性.png 	神性 E
+付与自身伤害附加状态(100)
+
+
+    素材需求
+
+
+      灵基再临（从者进化）
+
+0→1 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>5万
+	2→3 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>50万
+1→2 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>15万
+	3→4 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>150万
+总计 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>220万
+
+0→1 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>5万
+1→2 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>15万
+2→3 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>50万
+3→4 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>150万
+总计 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>220万
+
+
+      技能强化
+
+1→2 	剑之辉石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>10万
+	4→5 	剑之魔石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>10
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>5
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>80万
+	7→8 	追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>8
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>5
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>500万
+2→3 	剑之辉石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>10
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>20万
+	5→6 	剑之秘石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>4
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>10
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>200万
+	8→9 	枯淡勾玉.jpg
+<https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>15
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>20
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>600万
+3→4 	剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>60万
+	6→7 	剑之秘石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>10
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>250万
+	9→10 	传承结晶.jpg
+<https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>1000万
+总计 	剑之辉石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>14
+剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>14
+剑之秘石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>14
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>15
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>12
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>20
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>20
+传承结晶.jpg <https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>2720万
+
+1→2 	剑之辉石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>10万
+2→3 	剑之辉石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>10
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>20万
+3→4 	剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>60万
+4→5 	剑之魔石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>10
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>5
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>80万
+5→6 	剑之秘石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>4
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>10
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>200万
+6→7 	剑之秘石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>10
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>4
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>250万
+7→8 	追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>8
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>5
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>500万
+8→9 	枯淡勾玉.jpg
+<https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>15
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>20
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>600万
+9→10 	传承结晶.jpg
+<https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>1000万
+总计 	剑之辉石.jpg
+<https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>14
+剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>14
+剑之秘石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>14
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>15
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>12
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>20
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>20
+传承结晶.jpg <https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>1
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>2720万
+
+
+      再临与技能总计
+
+总计 	富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>4
+剑之辉石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>42
+剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>42
+剑之秘石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>42
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>45
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>36
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>60
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>60
+传承结晶.jpg <https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>3
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>8380万
+
+富岳三十六冰.jpg
+<https://fgo.wiki/w/%E5%AF%8C%E5%B2%B3%E4%B8%89%E5%8D%81%E5%85%AD%E5%86%B0>4
+剑之辉石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E8%BE%89%E7%9F%B3>42
+剑之魔石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E9%AD%94%E7%9F%B3>42
+剑之秘石.jpg <https://fgo.wiki/w/%E5%89%91%E4%B9%8B%E7%A7%98%E7%9F%B3>42
+世界树之种.jpg
+<https://fgo.wiki/w/%E4%B8%96%E7%95%8C%E6%A0%91%E4%B9%8B%E7%A7%8D>45
+追忆的贝壳.jpg
+<https://fgo.wiki/w/%E8%BF%BD%E5%BF%86%E7%9A%84%E8%B4%9D%E5%A3%B3>36
+枯淡勾玉.jpg <https://fgo.wiki/w/%E6%9E%AF%E6%B7%A1%E5%8B%BE%E7%8E%89>60
+闲古铃.jpg <https://fgo.wiki/w/%E9%97%B2%E5%8F%A4%E9%93%83>60
+传承结晶.jpg <https://fgo.wiki/w/%E4%BC%A0%E6%89%BF%E7%BB%93%E6%99%B6>3
+QP.jpg <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:QP.jpg>8380万
+
+
+    资料
+
+日文
+中文
+对照
+
+  * 角色详情 <javascript:void(0)>
+  * 个人资料1 <javascript:void(0)>
+  * 个人资料2 <javascript:void(0)>
+  * 个人资料3 <javascript:void(0)>
+  * 个人资料4 <javascript:void(0)>
+  * 个人资料5 <javascript:void(0)>
+  * 个人资料6 <javascript:void(0)>
+
+角色详情
+
+三岁看大，七岁看老！
+超沉迷于小说的幼年“葛饰应为”，
+对“仙女”产生了憧憬！
+
+「超级强大又头脑灵活的，稀世的女浮世绘画师！
+　顺便再来身华丽的衣服就无可挑剔啦！」
+
+……夸张过头了点吧阿荣小姐？（爹爹也在）
+
+三つ子の魂百までも！
+読本にどハマリした幼き頃の“葛飾応為”は、
+“仙女”に憧れるようになったのだ！
+
+「めっぽう強くて頭も切れる、稀代の女浮世絵師！
+　ついでに艶やかな着物もありゃァ文句無しサァ！」
+
+……盛りすぎではお栄さん？（とと様もいます）
+
+解锁条件：羁绊达到Lv.1后开放
+
+身高／体重：162cm·51kg
+出处：史实
+地域：日本
+属性：混沌·善　　性别：女性
+捎带着的黏答答的是“爹爹”。不知为何附上身了。
+
+身長／体重：162cm・51kg
+出典：史実
+地域：日本
+属性：混沌・善　　性別：女性
+オマケのぬらぬらしいのが“とと様”。なぜか憑いてきた。
+
+解锁条件：羁绊达到Lv.2后开放
+
+这是比起浮世绘画师更梦想成为“仙女”的，少女时代的应为维持这一状态长大后的
+样子。
+尚未经历过身为画师的挫折和出嫁后的离婚，对绘画技术也有着鲁莽的自信，自大
+地觉得自己总有一天会比父亲·北斋更加优秀。
+
+她一心想超越父亲，便任性地继承父名
+以“葛饰北斋”自居，但还只是个生手。即便如此，她身上也暗藏着长大后的应为所
+没有的东西。
+
+浮世絵師よりも“仙女”になりたい、と夢見た少女時代の応為がそのまま成長した姿。
+絵師としての挫折も、嫁入り後の離縁もまだ経験しておらず、絵の技量にも向こ
+う見ずな自信を持ち、いずれ父・北斎よりも上手くなる！　とうぬぼれている。
+
+父を超えたい一心で、勝手に襲名を決め込み
+“葛飾北斎”を名乗るが、まだまだ未熟者。それでも、大人になった応為には無い
+ものを秘めている。
+
+解锁条件：羁绊达到Lv.3后开放
+
+她相信了北斋的信口胡言，认定自己有着『忠臣藏』中吉良家家臣的武士血统，完
+全摆出了一副「剑客」的架势。再加上她博览了曲亭马琴的通俗小说和中国的水浒
+传等资料书，尽情地妄想，结果就变成这样了。
+
+传说，葛饰北斋是被忠臣藏所杀的吉良家家臣，剑客·小林平八郎的曾孙。不过，
+这一传闻不明真伪。假设传说是真的，那么应为就是小林平八郎的玄孙了。
+
+自分の血筋は『忠臣蔵』の吉良家家臣の武士につながるものだと、北斎から語り
+聞かされた眉唾話を真に受けて、すっかり「剣客」気取りに。さらに曲亭馬琴の
+戯作や、中国の水滸伝などの資料本を読みあさり、ひたすら妄想をたくましくし
+た結果がこれである。
+
+葛飾北斎は、忠臣蔵の討ち入りで倒れた吉良家家臣の剣客・小林平八郎の曾孫で
+ある、という伝説があるがその真偽は不明。仮に真実ならば、応為は曾々孫にな
+る。
+
+解锁条件：羁绊达到Lv.4后开放
+
+神通力（墨）：C
+她自称进行仙女修行，沉迷于喝煎茯苓和看相。那是谁都会有的忘我时期。
+
+父女之缘：B
+照顾青涩女儿的父亲，和渴望超越父亲、被父亲认可的女儿之间稍不搭调的感情。
+
+雅号·龙纹蛸：B
+将女儿的灵体化为自己的触手并加以侵蚀，深渊邪神的疯狂。
+旅行和搬家的爱好加剧，终于变成了另一种职阶……？
+
+○神通力（墨）：Ｃ
+仙女修行と称して茯苓（サルノコシカケ）を煎じて飲み、人相占いにハマってい
+た。それは誰にでもある、熱に浮かされ夢中になるシーズン。
+
+○父娘の縁：Ｂ
+青臭い娘を見守る父と、父を超えて認められたいと望む娘の少しちぐはぐな想い。
+
+○雅号・竜紋蛸：Ｂ
+娘の霊体をおのれの触手と化して侵蝕する、深淵なる邪神の狂気。
+旅好き引っ越し好きが高じてついに別クラスまで……？
+
+解锁条件：羁绊达到Lv.5后开放
+
+『诸国瀑布揽胜』
+阶级：B　种类：对人宝具
+有效范围：1～？　最大捕捉：8人
+
+Shokokutakimeguri。
+从众多名瀑布的样子中获得构思，
+应用无边天界飞翔的大剑技。
+邀请踏上能爽快地斩退夏日暑气的瀑布揽胜之旅。
+这是在『富岳三十六景』后期绘制的，全八图成套名所绘。瀑布名为
+『下野黑发山雾降瀑布』
+『东海道坂之下清泷观音』
+『东都葵冈瀑布』
+『相州大山良辨瀑布』
+『和州吉野义经马洗瀑布』
+『美浓国养老瀑布』
+『木曾海道小野瀑布』
+『木曾路之奥阿弥陀瀑布』。
+
+『諸国瀧廻り』
+ランク：Ｂ　種別：対人宝具
+レンジ：１～？　最大捕捉：８人
+
+しょこくたきめぐり。
+数々の名瀑の姿に着想を得た、
+応用無辺天界飛翔の大剣技。
+夏の暑気を爽快に斬り払う滝巡りの旅へとご招待する。
+『冨嶽三十六景』の後年に描かれた、全八図からなる名所絵揃物。滝名は
+『下野黒髪山きりふりの滝』
+『東海道坂ノ下清滝くわんおん』
+『東都葵ケ岡の滝』
+『相州大山ろうべんの滝』
+『和州吉野義経馬洗滝』
+『美濃国養老の滝』
+『木曾海道小野ノ瀑布』
+『木曽路ノ奥阿弥陀ケ瀧』。
+
+解锁条件：羁绊达到Lv.5后开放
+
+她希望并非由其他弟子，而是由自己来继承父亲葛饰北斋的雅号，使其声名远播。
+同时，她也希望父亲能见证自己的成功。
+尽管知道自己的技艺尚不成熟，但她坚信自己的想象力不输于人。好奇心旺盛的她
+认为，既然身为从者，接受会比给予更方便。
+应为仍然是那副女汉子江户人性情。不过，若是她在面对突发情况时的天真反应被
+人看到，她也是会害羞的。
+
+父、葛飾北斎の雅号を、他の門下生ではなく自分が継いで、その名声をより一層
+高めたい。そしてその成功を父に見守ってほしいと願う。
+技術が未熟であるとは解っているが、発想力では負けていないと自負する。サー
+ヴァントならば、アウトプットよりインプットが都合良い、と好奇心旺盛。
+男勝りな江戸っ子気質は応為そのままなれど、ふとした拍子にうぶな反応をみせ
+て恥ずかしがることも。
+
+
+    羁绊点数
+
+等级 	Lv.1 	Lv.2 	Lv.3 	Lv.4 	Lv.5
+点数 	2000 	3000 	4000 	5000 	6000
+累计 	2000 	5000 	9000 	14000 	20000
+等级 	Lv.6 	Lv.7 	Lv.8 	Lv.9 	Lv.10
+点数 	210000 	230000 	270000 	350000 	400000
+累计 	230000 	460000 	730000 	1080000 	1480000
+奖励 	圣晶石.png2
+	圣晶石.png2
+	圣晶石.png2
+	圣晶石.png2
+	礼装1100.jpg
+<https://fgo.wiki/w/%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88>
+等级 	Lv.11 	Lv.12 	Lv.13 	Lv.14 	Lv.15
+点数 	1090000 	1230000 	1360000 	1500000 	1640000
+累计 	2570000 	3800000 	5160000 	6660000 	8300000
+奖励 	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+
+等级 	Lv.1 	Lv.2 	Lv.3 	Lv.4 	Lv.5
+点数 	2000 	3000 	4000 	5000 	6000
+累计 	2000 	5000 	9000 	14000 	20000
+等级 	Lv.6 	Lv.7 	Lv.8 	Lv.9 	Lv.10
+点数 	21万 	23万 	27万 	35万 	40万
+累计 	23万 	46万 	73万 	108万 	148万
+奖励 	圣晶石.png2
+	圣晶石.png2
+	圣晶石.png2
+	圣晶石.png2
+	礼装1100.jpg
+<https://fgo.wiki/w/%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88>
+等级 	Lv.11 	Lv.12 	Lv.13 	Lv.14 	Lv.15
+点数 	109万 	123万 	136万 	150万 	164万
+累计 	257万 	380万 	516万 	666万 	830万
+奖励 	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+	圣晶石.png30
+
+
+    相关礼装
+
+/
+
+/
+如需了解*该从者的其他礼装*，您也可以查阅葛饰北斋(Saber)/相关礼装
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E7%9B
+%B8%E5%85%B3%E7%A4%BC%E8%A3%85>页面。
+//
+如需了解*该从者的其他礼装*，您也可以查阅葛饰北斋(Saber)/相关礼装
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E7%9B
+%B8%E5%85%B3%E7%A4%BC%E8%A3%85>页面。
+展开羁绊礼装
+
+No.1100
+椿说弓张月
+<https://fgo.wiki/w/%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88>
+椿説弓張月
+
+	画师 	东山雄势
+<https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E4.B8.9C.E5.B1.B1.E9.9B.84.E5.8A.BF>
+
+稀有度 	4星.png <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:4%E6%98%9F.png>
+Cost 	9
+椿说弓张月.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88.png>
+	初始/满级HP 	100 	初始/满级ATK 	100
+持有技能
+宝具威力提升.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E5%85%B7%E5%A8%81%E5%8A%9B%E6%8F%90%E5%8D%87.png>
+	
+
+葛饰北斋(Saber)装备时，自身的宝具威力提升30% ＋ 自身战败退场时，除自身以
+外的己方全体的宝具威力提升15%(3回合)
+
+解说
+
+『椿说弓张月』
+
+Chinsetsuyumiharizuki。
+以『南总里见八犬传』闻名的曲亭马琴所著的通俗小说。
+葛饰北斋负责了其中的插图，在当时的江户读者中获得了极大的人气。
+
+据说，北斋之女“阿荣（应为）”心灵手巧，她给木雕人偶穿上衣服做成的“芥子人
+偶（又叫豆人偶）”十分畅销。
+幼时的阿荣沉迷于通俗小说，她非常喜欢椿说弓张月中的主角源为朝，以及北斋的
+弟子·葛饰北嵩绘制了插画的画本『金花夕映』中的龙宫仙女，或许她曾将这两者
+作为芥子人偶的原型吧。
+
+展开羁绊礼装
+
+No.1100
+椿说弓张月
+<https://fgo.wiki/w/%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88>
+椿説弓張月
+
+椿说弓张月.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E6%A4%BF%E8%AF%B4%E5%BC%93%E5%BC%A0%E6%9C%88.png>
+
+画师 	东山雄势
+<https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88#.E4.B8.9C.E5.B1.B1.E9.9B.84.E5.8A.BF>
+
+稀有度 	4星.png <https://fgo.wiki/w/%E6%96%87%E4%BB%B6:4%E6%98%9F.png>
+Cost 	9
+HP 	100 	ATK 	100
+持有技能
+宝具威力提升.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E5%AE%9D%E5%85%B7%E5%A8%81%E5%8A%9B%E6%8F%90%E5%8D%87.png>
+	
+
+葛饰北斋(Saber)装备时，自身的宝具威力提升30% ＋ 自身战败退场时，除自身以
+外的己方全体的宝具威力提升15%(3回合)
+
+解说
+
+『椿说弓张月』
+
+Chinsetsuyumiharizuki。
+以『南总里见八犬传』闻名的曲亭马琴所著的通俗小说。
+葛饰北斋负责了其中的插图，在当时的江户读者中获得了极大的人气。
+
+据说，北斋之女“阿荣（应为）”心灵手巧，她给木雕人偶穿上衣服做成的“芥子人
+偶（又叫豆人偶）”十分畅销。
+幼时的阿荣沉迷于通俗小说，她非常喜欢椿说弓张月中的主角源为朝，以及北斋的
+弟子·葛饰北嵩绘制了插画的画本『金花夕映』中的龙宫仙女，或许她曾将这两者
+作为芥子人偶的原型吧。
+
+
+    语音
+
+/
+
+/
+如需下载*葛饰北斋(Saber)*的语音或查看日文文本，您也可以查阅葛饰北斋
+(Saber)/语音
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E8%AF
+%AD%E9%9F%B3>条目。
+//
+如需下载*葛饰北斋(Saber)*的语音或查看日文文本，您也可以查阅葛饰北斋
+(Saber)/语音
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)/%E8%AF
+%AD%E9%9F%B3>条目。
+
+展开*战斗*
+*开始 1* 	
+
+哦，这可是修罗场啊爹爹。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0b/SV264_0_%E5%BC%80%E5%A7%8B1.mp3>
+*开始 2* 	
+
+承蒙关照啦。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/07/SV264_0_%E5%BC%80%E5%A7%8B2.mp3>
+*开始 3* 	
+
+章鱼造孽报应女儿，是吧。啊哈~
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f5/SV264_0_%E5%BC%80%E5%A7%8B3.mp3>
+*开始 4* 	
+
+哦~？这是为松之走廊那事报仇吗。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f7/SV264_0_%E5%BC%80%E5%A7%8B4.mp3>
+*技能 1* 	
+
+万万岁啦！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/a1/SV264_0_%E6%8A%80%E8%83%BD1.mp3>
+*技能 2* 	
+
+真不识好歹。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/2e/SV264_0_%E6%8A%80%E8%83%BD2.mp3>
+*技能 3* 	
+
+挺有本事嘛。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c4/SV264_0_%E6%8A%80%E8%83%BD3.mp3>
+*技能 4* 	
+
+哈！被迷住了吗！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/15/SV264_0_%E6%8A%80%E8%83%BD4.mp3>
+*指令卡 1* 	
+
+我来做！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/cd/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A11.mp3>
+*指令卡 2* 	
+
+小菜一碟啦。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/5/57/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A12.mp3>
+*指令卡 3* 	
+
+轻快地攻过去吧。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/27/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A13.mp3>
+*宝具卡 1* 	
+
+好嘞~
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c5/SV264_0_%E5%AE%9D%E5%85%B7%E5%8D%A11.mp3>
+*宝具卡 2* 	
+
+好冷好冷！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f5/SV264_0_%E5%AE%9D%E5%85%B7%E5%8D%A12.mp3>
+*攻击 1* 	
+
+嘿！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c9/SV264_0_%E6%94%BB%E5%87%BB1.mp3>
+*攻击 2* 	
+
+哈啊！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c9/SV264_0_%E6%94%BB%E5%87%BB2.mp3>
+*攻击 3* 	
+
+你这蠢货！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/15/SV264_0_%E6%94%BB%E5%87%BB3.mp3>
+*攻击 4* 	
+
+哎呀呀好吓人哦！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/cb/SV264_0_%E6%94%BB%E5%87%BB4.mp3>
+*攻击 5* 	
+
+气势汹汹大旋转！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/23/SV264_0_%E6%94%BB%E5%87%BB5.mp3>
+*攻击 6* 	
+
+画龙点睛！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/28/SV264_0_%E6%94%BB%E5%87%BB6.mp3>
+*Extra 1* 	
+
+额外附送的可是很多的！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fb/SV264_0_Extra1.mp3>
+*Extra 2* 	
+
+爹爹，上墨！握起毛笔就像庄子那样！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/46/SV264_0_Extra2.mp3>
+*宝具 1* 	
+
+江户人向来心直口快——。那么，只要一看到它，它就会恢复原状^[注 1]
+<#cite_note-1> ！雾降！观音！葵！良辨！义经！养老！小野！阿弥陀！^[注 2]
+<#cite_note-2> ──『诸国瀑布揽胜』！！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4c/SV264_0_%E5%AE%9D%E5%85%B71.mp3>
+*宝具 2* 	
+
+江户人向来心直口快——。遵从升天之白龙的领航！下野！东海道！东都！相州！和
+州！美浓！木曾海道！木曾路！^[注 3] <#cite_note-3> ──『诸国瀑布揽胜』！！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/14/SV264_0_%E5%AE%9D%E5%85%B72.mp3>
+*受击 1* 	
+
+呜呜，爹爹……！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9d/SV264_0_%E5%8F%97%E5%87%BB1.mp3>
+*受击 2* 	
+
+呀！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/07/SV264_0_%E5%8F%97%E5%87%BB2.mp3>
+*无法战斗 1* 	
+
+我还是太不成熟了……
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/8/82/SV264_0_%E6%97%A0%E6%B3%95%E6%88%98%E6%96%971.mp3>
+
+*无法战斗 2* 	
+
+啊，输掉了……潜心修炼，重新来过吧……
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fb/SV264_0_%E6%97%A0%E6%B3%95%E6%88%98%E6%96%972.mp3>
+
+*胜利 1* 	
+
+呼~想喝冰凉的甜酒啦！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/2e/SV264_0_%E8%83%9C%E5%88%A91.mp3>
+*胜利 2* 	
+
+朦胧的梦中，画师的挣扎啊……
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/91/SV264_0_%E8%83%9C%E5%88%A92.mp3>
+
+展开*战斗*
+*开始 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0b/SV264_0_%E5%BC%80%E5%A7%8B1.mp3>
+
+哦，这可是修罗场啊爹爹。
+
+*开始 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/07/SV264_0_%E5%BC%80%E5%A7%8B2.mp3>
+
+承蒙关照啦。
+
+*开始 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f5/SV264_0_%E5%BC%80%E5%A7%8B3.mp3>
+
+章鱼造孽报应女儿，是吧。啊哈~
+
+*开始 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f7/SV264_0_%E5%BC%80%E5%A7%8B4.mp3>
+
+哦~？这是为松之走廊那事报仇吗。
+
+*技能 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/a1/SV264_0_%E6%8A%80%E8%83%BD1.mp3>
+
+万万岁啦！
+
+*技能 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/2e/SV264_0_%E6%8A%80%E8%83%BD2.mp3>
+
+真不识好歹。
+
+*技能 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c4/SV264_0_%E6%8A%80%E8%83%BD3.mp3>
+
+挺有本事嘛。
+
+*技能 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/15/SV264_0_%E6%8A%80%E8%83%BD4.mp3>
+
+哈！被迷住了吗！
+
+*指令卡 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/cd/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A11.mp3>
+
+我来做！
+
+*指令卡 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/5/57/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A12.mp3>
+
+小菜一碟啦。
+
+*指令卡 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/27/SV264_0_%E6%8C%87%E4%BB%A4%E5%8D%A13.mp3>
+
+轻快地攻过去吧。
+
+*宝具卡 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c5/SV264_0_%E5%AE%9D%E5%85%B7%E5%8D%A11.mp3>
+
+好嘞~
+
+*宝具卡 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/f5/SV264_0_%E5%AE%9D%E5%85%B7%E5%8D%A12.mp3>
+
+好冷好冷！
+
+*攻击 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c9/SV264_0_%E6%94%BB%E5%87%BB1.mp3>
+
+嘿！
+
+*攻击 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c9/SV264_0_%E6%94%BB%E5%87%BB2.mp3>
+
+哈啊！
+
+*攻击 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/15/SV264_0_%E6%94%BB%E5%87%BB3.mp3>
+
+你这蠢货！
+
+*攻击 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/cb/SV264_0_%E6%94%BB%E5%87%BB4.mp3>
+
+哎呀呀好吓人哦！
+
+*攻击 5* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/23/SV264_0_%E6%94%BB%E5%87%BB5.mp3>
+
+气势汹汹大旋转！
+
+*攻击 6* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/28/SV264_0_%E6%94%BB%E5%87%BB6.mp3>
+
+画龙点睛！
+
+*Extra 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fb/SV264_0_Extra1.mp3>
+
+额外附送的可是很多的！
+
+*Extra 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/46/SV264_0_Extra2.mp3>
+
+爹爹，上墨！握起毛笔就像庄子那样！
+
+*宝具 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4c/SV264_0_%E5%AE%9D%E5%85%B71.mp3>
+
+江户人向来心直口快——。那么，只要一看到它，它就会恢复原状^[注 1]
+<#cite_note-1> ！雾降！观音！葵！良辨！义经！养老！小野！阿弥陀！^[注 2]
+<#cite_note-2> ──『诸国瀑布揽胜』！！
+
+*宝具 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/14/SV264_0_%E5%AE%9D%E5%85%B72.mp3>
+
+江户人向来心直口快——。遵从升天之白龙的领航！下野！东海道！东都！相州！和
+州！美浓！木曾海道！木曾路！^[注 3] <#cite_note-3> ──『诸国瀑布揽胜』！！
+
+*受击 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9d/SV264_0_%E5%8F%97%E5%87%BB1.mp3>
+
+呜呜，爹爹……！
+
+*受击 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/07/SV264_0_%E5%8F%97%E5%87%BB2.mp3>
+
+呀！
+
+*无法战斗 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/8/82/SV264_0_%E6%97%A0%E6%B3%95%E6%88%98%E6%96%971.mp3>
+
+
+我还是太不成熟了……
+
+*无法战斗 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fb/SV264_0_%E6%97%A0%E6%B3%95%E6%88%98%E6%96%972.mp3>
+
+
+啊，输掉了……潜心修炼，重新来过吧……
+
+*胜利 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/2e/SV264_0_%E8%83%9C%E5%88%A91.mp3>
+
+呼~想喝冰凉的甜酒啦！
+
+*胜利 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/91/SV264_0_%E8%83%9C%E5%88%A92.mp3>
+
+朦胧的梦中，画师的挣扎啊……
+
+展开*召唤和强化*
+*期间限定加入* 	
+
+Saber葛饰应为……呃不对，是「葛饰北斋」！喏，爹爹的彩色版画里不是有『忠臣
+藏的袭击』吗。我就实话实说了吧，高家总领·吉良上野介的家臣之一、技艺高超
+的剑客，其实是爹爹的曾祖父。也就是说，我体内也流着剑豪的血呢。呼~真是不
+得了啊！没错，我可不是个平凡的浮世绘画师！一笔两斩！画啊画啊不停地斩
+击！……嗯？怎么啦爹爹？那是你用墨涂掉的黑历史……？啊哈哈，你说啥呢。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/eb/SV264_0_%E6%9C%9F%E9%97%B4%E9%99%90%E5%AE%9A%E5%8A%A0%E5%85%A5.mp3>
+
+*召唤* 	
+
+哟，御主！该说是初次见面吗？不，已经我们很熟了吧？绘画便是首屈一指，游乐
+即为仙女，挥剑则是对抗四十七人^[注 4] <#cite_note-4> 的武打场面！稀世的
+女浮世绘画师“葛饰北斋”，说的就是我啦！啊哈哈！……什么？和监护人同行辛苦你
+了……这话太失礼了吧！我会尽早让爹爹安心退休隐居的！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4f/SV264_0_%E5%8F%AC%E5%94%A4.mp3>
+*升级* 	
+
+谢谢啦。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/a3/SV264_0_%E5%8D%87%E7%BA%A7.mp3>
+*灵基再临 1* 	
+
+哎呀抱歉，遗憾的是我是不换衣服的。这可是我仅有的一件好衣服了。怎么样啊御
+主，现在的我，看起来像是江户的仙女还是武士呀？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9f/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B41.mp3>
+
+*灵基再临 2* 	
+
+这身泳装我也相当喜欢哦。就像是澡堂的汤文字一样合身又舒服。反正爹爹从之前
+就一直是全裸啦。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c1/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B42.mp3>
+
+*灵基再临 3* 	
+
+心思一转，改变了灵基，就是这样了。嗯？喂喂御主，干嘛那么紧盯着我看，我的
+外表可是一点都没变啦。……哦，不是在看泳装，是在看我……笨蛋。笨蛋！御主你这
+个笨蛋……
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0b/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B43.mp3>
+
+*灵基再临 4* 	
+
+真是不胜惶恐，太让人钦佩了！我这临时赶工出来的剑也还不赖吧？今后也请多照
+顾啦，御主。……嗯？爹爹怎么又嘟哝起来了……你说“你的剑术只是街头卖艺水平”？
+烦死了！是武艺的艺啦！我就这样把百般武艺全都掌握给你看！啊哈哈哈……不过，
+炊事、扫除之类的各种家务就别找我啦！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/8/83/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B44.mp3>
+
+
+展开*召唤和强化*
+*期间限定加入* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/eb/SV264_0_%E6%9C%9F%E9%97%B4%E9%99%90%E5%AE%9A%E5%8A%A0%E5%85%A5.mp3>
+
+
+Saber葛饰应为……呃不对，是「葛饰北斋」！喏，爹爹的彩色版画里不是有『忠臣
+藏的袭击』吗。我就实话实说了吧，高家总领·吉良上野介的家臣之一、技艺高超
+的剑客，其实是爹爹的曾祖父。也就是说，我体内也流着剑豪的血呢。呼~真是不
+得了啊！没错，我可不是个平凡的浮世绘画师！一笔两斩！画啊画啊不停地斩
+击！……嗯？怎么啦爹爹？那是你用墨涂掉的黑历史……？啊哈哈，你说啥呢。
+
+*召唤* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4f/SV264_0_%E5%8F%AC%E5%94%A4.mp3>
+
+哟，御主！该说是初次见面吗？不，已经我们很熟了吧？绘画便是首屈一指，游乐
+即为仙女，挥剑则是对抗四十七人^[注 4] <#cite_note-4> 的武打场面！稀世的
+女浮世绘画师“葛饰北斋”，说的就是我啦！啊哈哈！……什么？和监护人同行辛苦你
+了……这话太失礼了吧！我会尽早让爹爹安心退休隐居的！
+
+*升级* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/a3/SV264_0_%E5%8D%87%E7%BA%A7.mp3>
+
+谢谢啦。
+
+*灵基再临 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9f/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B41.mp3>
+
+
+哎呀抱歉，遗憾的是我是不换衣服的。这可是我仅有的一件好衣服了。怎么样啊御
+主，现在的我，看起来像是江户的仙女还是武士呀？
+
+*灵基再临 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c1/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B42.mp3>
+
+
+这身泳装我也相当喜欢哦。就像是澡堂的汤文字一样合身又舒服。反正爹爹从之前
+就一直是全裸啦。
+
+*灵基再临 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0b/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B43.mp3>
+
+
+心思一转，改变了灵基，就是这样了。嗯？喂喂御主，干嘛那么紧盯着我看，我的
+外表可是一点都没变啦。……哦，不是在看泳装，是在看我……笨蛋。笨蛋！御主你这
+个笨蛋……
+
+*灵基再临 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/8/83/SV264_0_%E7%81%B5%E5%9F%BA%E5%86%8D%E4%B8%B44.mp3>
+
+
+真是不胜惶恐，太让人钦佩了！我这临时赶工出来的剑也还不赖吧？今后也请多照
+顾啦，御主。……嗯？爹爹怎么又嘟哝起来了……你说“你的剑术只是街头卖艺水平”？
+烦死了！是武艺的艺啦！我就这样把百般武艺全都掌握给你看！啊哈哈哈……不过，
+炊事、扫除之类的各种家务就别找我啦！
+
+展开*个人空间*
+*羁绊 Lv.1* 	
+
+想杀掉画师无需刀具，只要三个截稿日就行了……。哦哦真可怕真可怕，可怕的金团
+整个吞下！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/06/SV264_0_%E7%BE%81%E7%BB%8ALv1.mp3>
+*羁绊 Lv.2* 	
+
+哦，来得正好，御主。要不要来抽一次这个签啊？把这个扭曲的煎饼哦……啊啊！咽
+下去了！^[注 5] <#cite_note-5>
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4e/SV264_0_%E7%BE%81%E7%BB%8ALv2.mp3>
+*羁绊 Lv.3* 	
+
+哈，下流话吗？没关系哦，我一点都不介意，仙女就是这样啦。反正我已经在爹爹
+的工作室里看惯春画了。……噗！你问我，实战经验如何！？御、御、御、御主你又
+如何啊！哦，太纠缠不休的话，我就拔了你的毛，做成描金画的笔！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/3/31/SV264_0_%E7%BE%81%E7%BB%8ALv3.mp3>
+*羁绊 Lv.4* 	
+
+唔……总觉得好奇怪啊。挥着剑也会有些不知所措呢……呃、不，没事啦！我没发烧！
+稍、稍微离我远点御主。啊，不是不是。你就这么呆在屋子里也、没关系啦……
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/5/5c/SV264_0_%E7%BE%81%E7%BB%8ALv4.mp3>
+*羁绊 Lv.5* 	
+
+如果说从者是大家所描绘的梦，那么，我就是梦中的梦吧……是飘渺无常的存在啊。
+但是，这样就够了。我和爹爹不同，紧抓不放这种事可不够潇洒。……但是啊，御
+主。要是你能不忘记一个淳朴的小姑娘做的这些荒唐事……我会很感激你的。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/7/7c/SV264_0_%E7%BE%81%E7%BB%8ALv5.mp3>
+*对话 1* 	
+
+是时候干活了，御主！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/18/SV264_0_%E5%AF%B9%E8%AF%9D1.mp3>
+*对话 2* 	
+
+要是我这拙劣的本事能派上用场就再好不过了。给猫抓虱子掏耳朵，我什么都能做
+哦。正所谓『比起信州信浓的新荞麦面，我更想待在御主你身边』嘛。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/b/bf/SV264_0_%E5%AF%B9%E8%AF%9D2.mp3>
+*对话 3* 	
+
+问我不擅长什么……是、是那个啦。我对情感话题这种东西实在是不擅长……。别、别
+这样哦？就算你是御主我也会毫不犹豫砍过去的啊！？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E5%AF%B9%E8%AF%9D3.mp3>
+*对话 4* 	
+
+唔唔唔……真让我讨厌。那女的还嘲笑说我是她封印的黑历史什么的。看到她的脸我
+都想吐。不过本来我俩是同一张脸就是了。我说，御主你是站我这边的吧？……嗯？
+你让我尽量和她友好相处？哼……等以后我乐意的时候再说吧！*(持有葛饰北斋
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/eb/SV264_0_%E5%AF%B9%E8%AF%9D4.mp3>
+*对话 5* 	
+
+Foreigner的阿比盖尔。虽说在战场上是难以捉摸，正可谓妖异之少女……不过在这
+里还只是个幼稚的小姑娘，真让我松一口气啊。以后似乎会长成个大美人呢。嗯？
+对从者来说那才是怪事？啊哈哈哈哈！……美人啊。偶尔试着画一画也不错呢~*(持
+有阿比盖尔·威廉姆斯
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF>)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9f/SV264_0_%E5%AF%B9%E8%AF%9D5.mp3>
+*对话 6* 	
+
+那个南蛮女孩阿比盖尔，不知为何很亲近我啊。所以，怎么了？团体『铁棒滑滑』
+什么的，突然说出来害得我甜酒都喷了。啊？原本是爹爹起的雅号？这也太过了
+吧，爹爹！？*(同时持有阿比盖尔·威廉姆斯
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81
+%E5%BB%89%E5%A7%86%E6%96%AF>与葛饰北斋
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0e/SV264_0_%E5%AF%B9%E8%AF%9D6.mp3>
+*对话 7* 	
+
+对了对了御主，之前跟你说的那件事你考虑了吗？请务必让我拜仙女、天女、玉藻
+前大人为师啊。……哎？比起仙术，她那边严格教育的都是婚嫁修习？呜哇！那还是
+算了！*(持有玉藻前(Lancer)
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D(Lancer)>、玉藻前
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D>)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/d/dd/SV264_0_%E5%AF%B9%E8%AF%9D7.mp3>
+*对话 8* 	
+
+天魔公主，铃鹿御前啊……。嗝，同是Saber，从外表来看我俩的年龄似乎也差不多
+啊。我也想尽可能接近她，从她那里分点神通力来！不过啊……那个，『JK』还真是
+不熟啊……我是不是也该模仿一下试试……？『哟、哟！ 公主殿下！那个炒、炒鸡种
+草的珍珠甜点，巨适合发Ins的，真的炒鸡炒鸡赞啦……』完全讲不下去嘛！？*(持
+有铃鹿御前 <https://fgo.wiki/w/%E9%93%83%E9%B9%BF%E5%BE%A1%E5%89%8D>)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/20/SV264_0_%E5%AF%B9%E8%AF%9D8.mp3>
+*对话 9* 	
+
+说起虞美人，那可是我也知道的苦命的美女啊。没想到她居然是迦勒底的旧人，还
+是个长生不老的仙女，真让人震惊。那我就稍微想办法恳求她一下，希望能像御主
+这样成为她的后辈……！*(持有虞美人
+<https://fgo.wiki/w/%E8%99%9E%E7%BE%8E%E4%BA%BA>&通关Lostbelt No.3)*
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/e2/SV264_0_%E5%AF%B9%E8%AF%9D9.mp3>
+*喜欢的东西* 	
+
+哼哼，说到我的最爱，那就是通俗小说啦！按现在的说话应该是叫『轻小说』来
+着？哦，御主对此也有兴趣的话我可太开心了。说起这个，都怪爹爹和马琴老板大
+吵一架，结果小说的工作一下子少了一堆，该说是遗憾呢还是手头紧了呢——哎呀！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/14/SV264_0_%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%9C%E8%A5%BF.mp3>
+
+*讨厌的东西* 	
+
+啊啊……我可是个粗野又不懂礼貌的人，最不会的就是照顾和服侍别人了。握着剑或
+是画笔，随心所欲地玩耍才合我心意。……御主也要注意保重身体啊。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/41/SV264_0_%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%B8%9C%E8%A5%BF.mp3>
+
+*关于圣杯* 	
+
+虽然也想说剑术修行，不过我的梦想还是成为仙女！我说的仙女就是不输给在『水
+浒传』和『西游记』之类的唐国传记里出场的男人又足智多谋、格外厉害的、像花
+一样艳丽又能使用千变万化的仙术的那种啦。……哦？这愿望不是基本上已经实现了
+吗？是吧，御主？嘻嘻。……什么啊爹爹，你说我的愿望一个都没达成！？……嘁，我
+早就知道了。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/16/SV264_0_%E5%85%B3%E4%BA%8E%E5%9C%A3%E6%9D%AF.mp3>
+
+*活动举行中* 	
+
+快点快点，御主，火灾和吵架可是江户的一道风景啊！那么慢吞吞的真的好吗？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/6/69/SV264_0_%E6%B4%BB%E5%8A%A8%E4%B8%BE%E8%A1%8C%E4%B8%AD.mp3>
+
+*生日* 	
+
+哈？生日？年龄不就是一到元旦就唰地长一岁的吗？不然，互相聚聚散散也太奇怪
+了吧？……啊哈，抱歉啊御主，别露出那么郁闷的表情嘛！ ——这时候还是要说出祝
+福，祝你生日快乐。虽说我已经是已经不会再长岁数的从者了，不过你还正一点点
+长大嘛。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9b/SV264_0_%E7%94%9F%E6%97%A5.mp3>
+
+展开*个人空间*
+*羁绊 Lv.1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/06/SV264_0_%E7%BE%81%E7%BB%8ALv1.mp3>
+
+想杀掉画师无需刀具，只要三个截稿日就行了……。哦哦真可怕真可怕，可怕的金团
+整个吞下！
+
+*羁绊 Lv.2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/4e/SV264_0_%E7%BE%81%E7%BB%8ALv2.mp3>
+
+哦，来得正好，御主。要不要来抽一次这个签啊？把这个扭曲的煎饼哦……啊啊！咽
+下去了！^[注 5] <#cite_note-5>
+
+*羁绊 Lv.3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/3/31/SV264_0_%E7%BE%81%E7%BB%8ALv3.mp3>
+
+哈，下流话吗？没关系哦，我一点都不介意，仙女就是这样啦。反正我已经在爹爹
+的工作室里看惯春画了。……噗！你问我，实战经验如何！？御、御、御、御主你又
+如何啊！哦，太纠缠不休的话，我就拔了你的毛，做成描金画的笔！
+
+*羁绊 Lv.4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/5/5c/SV264_0_%E7%BE%81%E7%BB%8ALv4.mp3>
+
+唔……总觉得好奇怪啊。挥着剑也会有些不知所措呢……呃、不，没事啦！我没发烧！
+稍、稍微离我远点御主。啊，不是不是。你就这么呆在屋子里也、没关系啦……
+
+*羁绊 Lv.5* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/7/7c/SV264_0_%E7%BE%81%E7%BB%8ALv5.mp3>
+
+如果说从者是大家所描绘的梦，那么，我就是梦中的梦吧……是飘渺无常的存在啊。
+但是，这样就够了。我和爹爹不同，紧抓不放这种事可不够潇洒。……但是啊，御
+主。要是你能不忘记一个淳朴的小姑娘做的这些荒唐事……我会很感激你的。
+
+*对话 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/18/SV264_0_%E5%AF%B9%E8%AF%9D1.mp3>
+
+是时候干活了，御主！
+
+*对话 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/b/bf/SV264_0_%E5%AF%B9%E8%AF%9D2.mp3>
+
+要是我这拙劣的本事能派上用场就再好不过了。给猫抓虱子掏耳朵，我什么都能做
+哦。正所谓『比起信州信浓的新荞麦面，我更想待在御主你身边』嘛。
+
+*对话 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E5%AF%B9%E8%AF%9D3.mp3>
+
+问我不擅长什么……是、是那个啦。我对情感话题这种东西实在是不擅长……。别、别
+这样哦？就算你是御主我也会毫不犹豫砍过去的啊！？
+
+*对话 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/eb/SV264_0_%E5%AF%B9%E8%AF%9D4.mp3>
+
+唔唔唔……真让我讨厌。那女的还嘲笑说我是她封印的黑历史什么的。看到她的脸我
+都想吐。不过本来我俩是同一张脸就是了。我说，御主你是站我这边的吧？……嗯？
+你让我尽量和她友好相处？哼……等以后我乐意的时候再说吧！*(持有葛饰北斋
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>)*
+
+*对话 5* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9f/SV264_0_%E5%AF%B9%E8%AF%9D5.mp3>
+
+Foreigner的阿比盖尔。虽说在战场上是难以捉摸，正可谓妖异之少女……不过在这
+里还只是个幼稚的小姑娘，真让我松一口气啊。以后似乎会长成个大美人呢。嗯？
+对从者来说那才是怪事？啊哈哈哈哈！……美人啊。偶尔试着画一画也不错呢~*(持
+有阿比盖尔·威廉姆斯
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF>)*
+
+*对话 6* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/0/0e/SV264_0_%E5%AF%B9%E8%AF%9D6.mp3>
+
+那个南蛮女孩阿比盖尔，不知为何很亲近我啊。所以，怎么了？团体『铁棒滑滑』
+什么的，突然说出来害得我甜酒都喷了。啊？原本是爹爹起的雅号？这也太过了
+吧，爹爹！？*(同时持有阿比盖尔·威廉姆斯
+<https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81
+%E5%BB%89%E5%A7%86%E6%96%AF>与葛饰北斋
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>)*
+
+*对话 7* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/d/dd/SV264_0_%E5%AF%B9%E8%AF%9D7.mp3>
+
+对了对了御主，之前跟你说的那件事你考虑了吗？请务必让我拜仙女、天女、玉藻
+前大人为师啊。……哎？比起仙术，她那边严格教育的都是婚嫁修习？呜哇！那还是
+算了！*(持有玉藻前(Lancer)
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D(Lancer)>、玉藻前
+<https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D>)*
+
+*对话 8* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/2/20/SV264_0_%E5%AF%B9%E8%AF%9D8.mp3>
+
+天魔公主，铃鹿御前啊……。嗝，同是Saber，从外表来看我俩的年龄似乎也差不多
+啊。我也想尽可能接近她，从她那里分点神通力来！不过啊……那个，『JK』还真是
+不熟啊……我是不是也该模仿一下试试……？『哟、哟！ 公主殿下！那个炒、炒鸡种
+草的珍珠甜点，巨适合发Ins的，真的炒鸡炒鸡赞啦……』完全讲不下去嘛！？*(持
+有铃鹿御前 <https://fgo.wiki/w/%E9%93%83%E9%B9%BF%E5%BE%A1%E5%89%8D>)*
+
+*对话 9* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/e/e2/SV264_0_%E5%AF%B9%E8%AF%9D9.mp3>
+
+说起虞美人，那可是我也知道的苦命的美女啊。没想到她居然是迦勒底的旧人，还
+是个长生不老的仙女，真让人震惊。那我就稍微想办法恳求她一下，希望能像御主
+这样成为她的后辈……！*(持有虞美人
+<https://fgo.wiki/w/%E8%99%9E%E7%BE%8E%E4%BA%BA>&通关Lostbelt No.3)*
+
+*喜欢的东西* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/14/SV264_0_%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%9C%E8%A5%BF.mp3>
+
+
+哼哼，说到我的最爱，那就是通俗小说啦！按现在的说话应该是叫『轻小说』来
+着？哦，御主对此也有兴趣的话我可太开心了。说起这个，都怪爹爹和马琴老板大
+吵一架，结果小说的工作一下子少了一堆，该说是遗憾呢还是手头紧了呢——哎呀！
+
+*讨厌的东西* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/41/SV264_0_%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%B8%9C%E8%A5%BF.mp3>
+
+
+啊啊……我可是个粗野又不懂礼貌的人，最不会的就是照顾和服侍别人了。握着剑或
+是画笔，随心所欲地玩耍才合我心意。……御主也要注意保重身体啊。
+
+*关于圣杯* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/1/16/SV264_0_%E5%85%B3%E4%BA%8E%E5%9C%A3%E6%9D%AF.mp3>
+
+
+虽然也想说剑术修行，不过我的梦想还是成为仙女！我说的仙女就是不输给在『水
+浒传』和『西游记』之类的唐国传记里出场的男人又足智多谋、格外厉害的、像花
+一样艳丽又能使用千变万化的仙术的那种啦。……哦？这愿望不是基本上已经实现了
+吗？是吧，御主？嘻嘻。……什么啊爹爹，你说我的愿望一个都没达成！？……嘁，我
+早就知道了。
+
+*活动举行中* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/6/69/SV264_0_%E6%B4%BB%E5%8A%A8%E4%B8%BE%E8%A1%8C%E4%B8%AD.mp3>
+
+
+快点快点，御主，火灾和吵架可是江户的一道风景啊！那么慢吞吞的真的好吗？
+
+*生日* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/9b/SV264_0_%E7%94%9F%E6%97%A5.mp3>
+
+哈？生日？年龄不就是一到元旦就唰地长一岁的吗？不然，互相聚聚散散也太奇怪
+了吧？……啊哈，抱歉啊御主，别露出那么郁闷的表情嘛！ ——这时候还是要说出祝
+福，祝你生日快乐。虽说我已经是已经不会再长岁数的从者了，不过你还正一点点
+长大嘛。
+
+展开*拜见！拉斯维加斯御前比试～泳装剑豪七色决胜！*
+*对话 1* 	
+
+御主，午饭吃什么？难得来拉斯维加斯，我打算吃点养生餐……嗯？爹爹要吃海鲜？
+把切好的鱼肉块放在米饭上……那不就是寿司嘛！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/92/SV264_0_%E6%B4%BB%E5%8A%A81.mp3>
+*对话 2* 	
+
+要不要一起去看一圈把戏啊御主？不是据说拉斯维加斯是发源地嘛！就那个！那个
+脸色发青的男的玩的剑玉就不错！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c3/SV264_0_%E6%B4%BB%E5%8A%A82.mp3>
+*对话 3* 	
+
+你看过告示了吗？可别小看了未雨绸缪哦？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/ae/SV264_0_%E6%B4%BB%E5%8A%A83.mp3>
+*对话 4* 	
+
+玩的开心吗，御主？虽然很不舍，但也是时候告辞了。赖着不走可不是什么好行为啊。
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fd/SV264_0_%E6%B4%BB%E5%8A%A84.mp3>
+*对话 5* 	
+
+啊、哦哦，你还在啊。……说起来，御、御主？你觉得，我的泳装……怎么……样？虽说
+事到如今再问这个是有点迟，不过……这身泳装会不会有点擦边啊？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/43/SV264_0_%E6%B4%BB%E5%8A%A85.mp3>
+*对话 6* 	
+
+一日之计在明天！要讲究一点，整装前去堂堂正正地一决胜负嘛！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E6%B4%BB%E5%8A%A86.mp3>
+*对话 7* 	
+
+来下注了下注了！成败在此一举，要见到孤注一掷的大爆冷啦！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/7/73/SV264_0_%E6%B4%BB%E5%8A%A87.mp3>
+*对话 8* 	
+
+迅速果断身经百战，想庆祝就要来碗红豆饭！这里可是一展身手的精彩场面！
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E6%B4%BB%E5%8A%A88.mp3>
+*对话 9* 	
+
+好了，再去下一个赌场试试本事、试试运气顺便单纯吃个饭吧？
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/d/d4/SV264_0_%E6%B4%BB%E5%8A%A89.mp3>
+*报幕* 	
+
+
+武藏·北斋「拉斯维加斯·泳装剑豪七色决胜！」
+北斋「眼观八方！画狂剑青 葛饰北斋」
+武藏「流浪剑豪 天魔武藏」
+
+武藏·北斋「堂堂正正—— 一决胜负！！」
+
+	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/6/66/%E6%B3%B3%E8%A3%852019%E6%8A%A5%E5%B9%95S261.mp3>
+
+
+展开*拜见！拉斯维加斯御前比试～泳装剑豪七色决胜！*
+*对话 1* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/9/92/SV264_0_%E6%B4%BB%E5%8A%A81.mp3>
+
+御主，午饭吃什么？难得来拉斯维加斯，我打算吃点养生餐……嗯？爹爹要吃海鲜？
+把切好的鱼肉块放在米饭上……那不就是寿司嘛！
+
+*对话 2* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/c/c3/SV264_0_%E6%B4%BB%E5%8A%A82.mp3>
+
+要不要一起去看一圈把戏啊御主？不是据说拉斯维加斯是发源地嘛！就那个！那个
+脸色发青的男的玩的剑玉就不错！
+
+*对话 3* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/a/ae/SV264_0_%E6%B4%BB%E5%8A%A83.mp3>
+
+你看过告示了吗？可别小看了未雨绸缪哦？
+
+*对话 4* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/f/fd/SV264_0_%E6%B4%BB%E5%8A%A84.mp3>
+
+玩的开心吗，御主？虽然很不舍，但也是时候告辞了。赖着不走可不是什么好行为啊。
+
+*对话 5* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/43/SV264_0_%E6%B4%BB%E5%8A%A85.mp3>
+
+啊、哦哦，你还在啊。……说起来，御、御主？你觉得，我的泳装……怎么……样？虽说
+事到如今再问这个是有点迟，不过……这身泳装会不会有点擦边啊？
+
+*对话 6* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E6%B4%BB%E5%8A%A86.mp3>
+
+一日之计在明天！要讲究一点，整装前去堂堂正正地一决胜负嘛！
+
+*对话 7* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/7/73/SV264_0_%E6%B4%BB%E5%8A%A87.mp3>
+
+来下注了下注了！成败在此一举，要见到孤注一掷的大爆冷啦！
+
+*对话 8* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/4/42/SV264_0_%E6%B4%BB%E5%8A%A88.mp3>
+
+迅速果断身经百战，想庆祝就要来碗红豆饭！这里可是一展身手的精彩场面！
+
+*对话 9* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/d/d4/SV264_0_%E6%B4%BB%E5%8A%A89.mp3>
+
+好了，再去下一个赌场试试本事、试试运气顺便单纯吃个饭吧？
+
+*报幕* 	请升级
+浏览器。 [播放] <javascript:void(0);> [下载]
+<https://fgo.wiki/images/6/66/%E6%B3%B3%E8%A3%852019%E6%8A%A5%E5%B9%95S261.mp3>
+
+
+
+武藏·北斋「拉斯维加斯·泳装剑豪七色决胜！」
+北斋「眼观八方！画狂剑青 葛饰北斋」
+武藏「流浪剑豪 天魔武藏」
+
+武藏·北斋「堂堂正正—— 一决胜负！！」
+
+展开语音注释
+
+ 1. 跳转 ↑ <#cite_ref-1> 这一句是南京玉帘（南京玉すだれ）的表演者在表演
+    时说唱的部分歌词。
+ 2. 跳转 ↑ <#cite_ref-2> 此处取自葛饰北斋的《诸国瀑布揽胜》中，八幅图各自
+    名称的一部分。
+ 3. 跳转 ↑ <#cite_ref-3> 此处取自葛饰北斋的《诸国瀑布揽胜》中，八幅图各自
+    名称中的地名部分。
+ 4. 跳转 ↑ <#cite_ref-4> 指“忠臣藏”的元禄赤穗事件中，为主君报仇的赤穗藩
+    47名家臣。
+ 5. 跳转 ↑ <#cite_ref-5> 这里说的是日本的一种煎饼，“おみくじせんべい”。
+    这种煎饼由普通形状的煎饼折叠两次而成，里面放有纸质签文。
+
+
+      语音关联从者
+
+以下从者具有葛饰北斋(Saber)相关的语音。
+
+Servant135.jpg
+<https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE(Ruler)/%E8%AF%AD%E9%9F%B3>Servant181.jpg
+<https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)/%E8%AF%AD%E9%9F%B3>Servant184.jpg
+<https://fgo.wiki/w/Archer_Inferno/%E8%AF%AD%E9%9F%B3>Servant198.jpg
+<https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B/%E8%AF%AD%E9%9F%B3>Servant262.jpg
+<https://fgo.wiki/w/%E5%88%91%E9%83%A8%E5%A7%AC(Archer)/%E8%AF%AD%E9%9F%B3>Servant265.jpg
+<https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Ruler)/%E8%AF%AD%E9%9F%B3>
+
+
+
+    各阶段头像与战斗形象
+
+
+      头像
+
+葛饰北斋(Saber) status 1.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)_status_1.png>
+
+全阶段共通
+
+
+      战斗形象
+
+葛饰北斋(Saber) model 1.png
+<https://fgo.wiki/w/%E6%96%87%E4%BB%B6:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)_model_1.png>
+
+全阶段共通
+
+
+    成长曲线
+
+
+    注释和链接
+
+[隐藏▲ <#>]
+英灵图鉴
+Saber <https://fgo.wiki/w/Saber>	
+
+  * 阿尔托莉雅·潘德拉贡
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1>
+  * 阿尔托莉雅·潘德拉贡〔Alter〕
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94Alter%E3%80%95>
+  * 阿尔托莉雅·潘德拉贡〔Lily〕
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94Lily%E3%80%95>
+  * 尼禄·克劳狄乌斯
+    <https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF>
+  * 齐格飞 <https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%A3%9E>
+  * 盖乌斯·尤利乌斯·恺撒
+    <https://fgo.wiki/w/%E7%9B%96%E4%B9%8C%E6%96%AF%C2%B7%E5%B0%A4%E5%88%A9%E4%B9%8C%E6%96%AF%C2%B7%E6%81%BA%E6%92%92>
+  * 阿蒂拉 <https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89>
+  * 吉尔·德·雷
+    <https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7>
+  * 骑士迪昂 <https://fgo.wiki/w/%E9%AA%91%E5%A3%AB%E8%BF%AA%E6%98%82>
+  * 冲田总司 <https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8>
+  * 弗格斯·马克·罗伊
+    <https://fgo.wiki/w/%E5%BC%97%E6%A0%BC%E6%96%AF%C2%B7%E9%A9%AC%E5%85%8B%C2%B7%E7%BD%97%E4%BC%8A>
+  * 莫德雷德 <https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7>
+  * 尼禄·克劳狄乌斯〔新娘〕
+    <https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF%E3%80%94%E6%96%B0%E5%A8%98%E3%80%95>
+  * 两仪式 <https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F>
+  * 罗摩 <https://fgo.wiki/w/%E7%BD%97%E6%91%A9>
+  * 兰斯洛特(Saber)
+    <https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9(Saber)>
+  * 高文 <https://fgo.wiki/w/%E9%AB%98%E6%96%87>
+  * 贝德维尔 <https://fgo.wiki/w/%E8%B4%9D%E5%BE%B7%E7%BB%B4%E5%B0%94>
+  * 伊丽莎白·巴托里〔勇者〕
+    <https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C%E3%80%94%E5%8B%87%E8%80%85%E3%80%95>
+  * 宫本武藏 <https://fgo.wiki/w/%E5%AE%AB%E6%9C%AC%E6%AD%A6%E8%97%8F>
+  * 亚瑟·潘德拉贡〔Prototype〕
+    <https://fgo.wiki/w/%E4%BA%9A%E7%91%9F%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94Prototype%E3%80%95>
+  * 铃鹿御前 <https://fgo.wiki/w/%E9%93%83%E9%B9%BF%E5%BE%A1%E5%89%8D>
+  * 弗兰肯斯坦(Saber)
+    <https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6(Saber)>
+  * 柳生但马守宗矩
+    <https://fgo.wiki/w/%E6%9F%B3%E7%94%9F%E4%BD%86%E9%A9%AC%E5%AE%88%E5%AE%97%E7%9F%A9>
+  * 齐格鲁德 <https://fgo.wiki/w/%E9%BD%90%E6%A0%BC%E9%B2%81%E5%BE%B7>
+  * 女王梅芙(Saber)
+    <https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99(Saber)>
+  * 迪尔姆德·奥迪那(Saber)
+    <https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3(Saber)>
+  * 兰陵王 <https://fgo.wiki/w/%E5%85%B0%E9%99%B5%E7%8E%8B>
+  * 红阎魔 <https://fgo.wiki/w/%E7%BA%A2%E9%98%8E%E9%AD%94>
+  * 拉克西米·巴伊
+    <https://fgo.wiki/w/%E6%8B%89%E5%85%8B%E8%A5%BF%E7%B1%B3%C2%B7%E5%B7%B4%E4%BC%8A>
+  * 伊阿宋 <https://fgo.wiki/w/%E4%BC%8A%E9%98%BF%E5%AE%8B>
+  * 葛饰北斋(Saber)
+
+Archer <https://fgo.wiki/w/Archer>	
+
+  * 卫宫 <https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB>
+  * 吉尔伽美什
+    <https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80>
+  * 罗宾汉 <https://fgo.wiki/w/%E7%BD%97%E5%AE%BE%E6%B1%89>
+  * 阿塔兰忒 <https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92>
+  * 尤瑞艾莉 <https://fgo.wiki/w/%E5%B0%A4%E7%91%9E%E8%89%BE%E8%8E%89>
+  * 阿拉什 <https://fgo.wiki/w/%E9%98%BF%E6%8B%89%E4%BB%80>
+  * 俄里翁 <https://fgo.wiki/w/%E4%BF%84%E9%87%8C%E7%BF%81>
+  * 大卫 <https://fgo.wiki/w/%E5%A4%A7%E5%8D%AB>
+  * 织田信长 <https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF>
+  * 尼古拉·特斯拉
+    <https://fgo.wiki/w/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E7%89%B9%E6%96%AF%E6%8B%89>
+  * 阿周那 <https://fgo.wiki/w/%E9%98%BF%E5%91%A8%E9%82%A3>
+  * 幼吉尔 <https://fgo.wiki/w/%E5%B9%BC%E5%90%89%E5%B0%94>
+  * 比利小子 <https://fgo.wiki/w/%E6%AF%94%E5%88%A9%E5%B0%8F%E5%AD%90>
+  * 崔斯坦 <https://fgo.wiki/w/%E5%B4%94%E6%96%AF%E5%9D%A6>
+  * 俵藤太 <https://fgo.wiki/w/%E4%BF%B5%E8%97%A4%E5%A4%AA>
+  * 阿尔托莉雅·潘德拉贡(Archer)
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Archer)>
+  * 安妮·伯妮＆玛莉·瑞德(Archer)
+    <https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7(Archer)>
+  * 克洛伊·冯·爱因兹贝伦
+    <https://fgo.wiki/w/%E5%85%8B%E6%B4%9B%E4%BC%8A%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+  * 伊什塔尔 <https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94>
+  * 新宿的Archer <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Archer>
+  * 卫宫〔Alter〕
+    <https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB%E3%80%94Alter%E3%80%95>
+  * 海伦娜·布拉瓦茨基(Archer)
+    <https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA(Archer)>
+  * Archer Inferno <https://fgo.wiki/w/Archer_Inferno>
+  * 阿蒂拉·the·San〔ta〕
+    <https://fgo.wiki/w/%E9%98%BF%E8%92%82%E6%8B%89%C2%B7the%C2%B7San%E3%80%94ta%E3%80%95>
+  * 浅上藤乃 <https://fgo.wiki/w/%E6%B5%85%E4%B8%8A%E8%97%A4%E4%B9%83>
+  * 喀戎 <https://fgo.wiki/w/%E5%96%80%E6%88%8E>
+  * 拿破仑 <https://fgo.wiki/w/%E6%8B%BF%E7%A0%B4%E4%BB%91>
+  * 贞德(Archer) <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7(Archer)>
+  * 威廉·退尔
+    <https://fgo.wiki/w/%E5%A8%81%E5%BB%89%C2%B7%E9%80%80%E5%B0%94>
+  * 马嘶 <https://fgo.wiki/w/%E9%A9%AC%E5%98%B6>
+  * 帕里斯 <https://fgo.wiki/w/%E5%B8%95%E9%87%8C%E6%96%AF>
+  * 刑部姬(Archer) <https://fgo.wiki/w/%E5%88%91%E9%83%A8%E5%A7%AC(Archer)>
+
+Lancer <https://fgo.wiki/w/Lancer>	
+
+  * 库·丘林 <https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97>
+  * 伊丽莎白·巴托里
+    <https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C>
+  * 武藏坊弁庆
+    <https://fgo.wiki/w/%E6%AD%A6%E8%97%8F%E5%9D%8A%E5%BC%81%E5%BA%86>
+  * 库·丘林〔Prototype〕
+    <https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%E3%80%94Prototype%E3%80%95>
+  * 列奥尼达一世
+    <https://fgo.wiki/w/%E5%88%97%E5%A5%A5%E5%B0%BC%E8%BE%BE%E4%B8%80%E4%B8%96>
+  * 罗穆路斯 <https://fgo.wiki/w/%E7%BD%97%E7%A9%86%E8%B7%AF%E6%96%AF>
+  * 赫克托耳 <https://fgo.wiki/w/%E8%B5%AB%E5%85%8B%E6%89%98%E8%80%B3>
+  * 斯卡哈 <https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88>
+  * 迪尔姆德·奥迪那
+    <https://fgo.wiki/w/%E8%BF%AA%E5%B0%94%E5%A7%86%E5%BE%B7%C2%B7%E5%A5%A5%E8%BF%AA%E9%82%A3>
+  * 阿尔托莉雅·潘德拉贡〔Alter〕(Lancer)
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94Alter%E3%80%95(Lancer)>
+  * 迦尔纳 <https://fgo.wiki/w/%E8%BF%A6%E5%B0%94%E7%BA%B3>
+  * 芬恩·麦克库尔
+    <https://fgo.wiki/w/%E8%8A%AC%E6%81%A9%C2%B7%E9%BA%A6%E5%85%8B%E5%BA%93%E5%B0%94>
+  * 布伦希尔德
+    <https://fgo.wiki/w/%E5%B8%83%E4%BC%A6%E5%B8%8C%E5%B0%94%E5%BE%B7>
+  * 李书文 <https://fgo.wiki/w/%E6%9D%8E%E4%B9%A6%E6%96%87>
+  * 阿尔托莉雅·潘德拉贡(Lancer)
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Lancer)>
+  * 玉藻前(Lancer) <https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D(Lancer)>
+  * 清姬(Lancer) <https://fgo.wiki/w/%E6%B8%85%E5%A7%AC(Lancer)>
+  * 弗拉德三世〔EXTRA〕
+    <https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96%E3%80%94EXTRA%E3%80%95>
+  * 贞德·Alter·Santa·Lily
+    <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7%C2%B7Alter%C2%B7Santa%C2%B7Lily>
+  * 恩奇都 <https://fgo.wiki/w/%E6%81%A9%E5%A5%87%E9%83%BD>
+  * 美杜莎(Lancer) <https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E(Lancer)>
+  * 豹人 <https://fgo.wiki/w/%E8%B1%B9%E4%BA%BA>
+  * 源赖光(Lancer) <https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89(Lancer)>
+  * 帕尔瓦蒂 <https://fgo.wiki/w/%E5%B8%95%E5%B0%94%E7%93%A6%E8%92%82>
+  * 宝藏院胤舜
+    <https://fgo.wiki/w/%E5%AE%9D%E8%97%8F%E9%99%A2%E8%83%A4%E8%88%9C>
+  * 哪吒 <https://fgo.wiki/w/%E5%93%AA%E5%90%92>
+  * 埃列什基伽勒
+    <https://fgo.wiki/w/%E5%9F%83%E5%88%97%E4%BB%80%E5%9F%BA%E4%BC%BD%E5%8B%92>
+  * 瓦尔基里 <https://fgo.wiki/w/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C>
+  * 茨木童子(Lancer)
+    <https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90(Lancer)>
+  * 秦良玉 <https://fgo.wiki/w/%E7%A7%A6%E8%89%AF%E7%8E%89>
+  * 布拉达曼特
+    <https://fgo.wiki/w/%E5%B8%83%E6%8B%89%E8%BE%BE%E6%9B%BC%E7%89%B9>
+  * 长尾景虎 <https://fgo.wiki/w/%E9%95%BF%E5%B0%BE%E6%99%AF%E8%99%8E>
+  * 加雷斯 <https://fgo.wiki/w/%E5%8A%A0%E9%9B%B7%E6%96%AF>
+  * 谜之Alterego Λ <https://fgo.wiki/w/%E8%B0%9C%E4%B9%8BAlterego_%CE%9B>
+
+Rider <https://fgo.wiki/w/Rider>	
+
+  * 美杜莎 <https://fgo.wiki/w/%E7%BE%8E%E6%9D%9C%E8%8E%8E>
+  * 乔尔乔斯 <https://fgo.wiki/w/%E4%B9%94%E5%B0%94%E4%B9%94%E6%96%AF>
+  * 爱德华·蒂奇
+    <https://fgo.wiki/w/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%92%82%E5%A5%87>
+  * 布狄卡 <https://fgo.wiki/w/%E5%B8%83%E7%8B%84%E5%8D%A1>
+  * 牛若丸 <https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8>
+  * 亚历山大 <https://fgo.wiki/w/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7>
+  * 玛丽·安托瓦内特
+    <https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9>
+  * 玛尔达 <https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE>
+  * 弗朗西斯·德雷克
+    <https://fgo.wiki/w/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%C2%B7%E5%BE%B7%E9%9B%B7%E5%85%8B>
+  * 安妮·伯妮＆玛莉·瑞德
+    <https://fgo.wiki/w/%E5%AE%89%E5%A6%AE%C2%B7%E4%BC%AF%E5%A6%AE%EF%BC%86%E7%8E%9B%E8%8E%89%C2%B7%E7%91%9E%E5%BE%B7>
+  * 阿尔托莉雅·潘德拉贡〔圣诞Alter〕
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94%E5%9C%A3%E8%AF%9EAlter%E3%80%95>
+  * 阿斯托尔福
+    <https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E6%89%98%E5%B0%94%E7%A6%8F>
+  * 女王梅芙 <https://fgo.wiki/w/%E5%A5%B3%E7%8E%8B%E6%A2%85%E8%8A%99>
+  * 伊斯坎达尔
+    <https://fgo.wiki/w/%E4%BC%8A%E6%96%AF%E5%9D%8E%E8%BE%BE%E5%B0%94>
+  * 坂田金时(Rider)
+    <https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6(Rider)>
+  * 奥斯曼狄斯
+    <https://fgo.wiki/w/%E5%A5%A5%E6%96%AF%E6%9B%BC%E7%8B%84%E6%96%AF>
+  * 莫德雷德(Rider)
+    <https://fgo.wiki/w/%E8%8E%AB%E5%BE%B7%E9%9B%B7%E5%BE%B7(Rider)>
+  * 魁札尔·科亚特尔
+    <https://fgo.wiki/w/%E9%AD%81%E6%9C%AD%E5%B0%94%C2%B7%E7%A7%91%E4%BA%9A%E7%89%B9%E5%B0%94>
+  * 反抗军的Rider
+    <https://fgo.wiki/w/%E5%8F%8D%E6%8A%97%E5%86%9B%E7%9A%84Rider>
+  * 阿尔托莉雅·潘德拉贡〔Alter〕(Rider)
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1%E3%80%94Alter%E3%80%95(Rider)>
+  * 伊什塔尔(Rider)
+    <https://fgo.wiki/w/%E4%BC%8A%E4%BB%80%E5%A1%94%E5%B0%94(Rider)>
+  * 伊凡雷帝 <https://fgo.wiki/w/%E4%BC%8A%E5%87%A1%E9%9B%B7%E5%B8%9D>
+  * 阿喀琉斯 <https://fgo.wiki/w/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF>
+  * 坂本龙马 <https://fgo.wiki/w/%E5%9D%82%E6%9C%AC%E9%BE%99%E9%A9%AC>
+  * 赤兔马 <https://fgo.wiki/w/%E8%B5%A4%E5%85%94%E9%A9%AC>
+  * 司马懿〔莱妮丝〕
+    <https://fgo.wiki/w/%E5%8F%B8%E9%A9%AC%E6%87%BF%E3%80%94%E8%8E%B1%E5%A6%AE%E4%B8%9D%E3%80%95>
+  * 莱昂纳多·达·芬奇(Rider)
+    <https://fgo.wiki/w/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87(Rider)>
+  * 巴沙洛缪·罗伯茨
+    <https://fgo.wiki/w/%E5%B7%B4%E6%B2%99%E6%B4%9B%E7%BC%AA%C2%B7%E7%BD%97%E4%BC%AF%E8%8C%A8>
+  * 卡米拉(Rider) <https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89(Rider)>
+
+Caster <https://fgo.wiki/w/Caster>	
+
+  * 美狄亚 <https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A>
+  * 吉尔·德·雷(Caster)
+    <https://fgo.wiki/w/%E5%90%89%E5%B0%94%C2%B7%E5%BE%B7%C2%B7%E9%9B%B7(Caster)>
+  * 汉斯·克里斯蒂安·安徒生
+    <https://fgo.wiki/w/%E6%B1%89%E6%96%AF%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89%C2%B7%E5%AE%89%E5%BE%92%E7%94%9F>
+  * 威廉·莎士比亚
+    <https://fgo.wiki/w/%E5%A8%81%E5%BB%89%C2%B7%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A>
+  * 梅菲斯托费勒斯
+    <https://fgo.wiki/w/%E6%A2%85%E8%8F%B2%E6%96%AF%E6%89%98%E8%B4%B9%E5%8B%92%E6%96%AF>
+  * 沃尔夫冈·阿马德乌斯·莫扎特
+    <https://fgo.wiki/w/%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88%C2%B7%E9%98%BF%E9%A9%AC%E5%BE%B7%E4%B9%8C%E6%96%AF%C2%B7%E8%8E%AB%E6%89%8E%E7%89%B9>
+  * 诸葛孔明〔埃尔梅罗Ⅱ世〕
+    <https://fgo.wiki/w/%E8%AF%B8%E8%91%9B%E5%AD%94%E6%98%8E%E3%80%94%E5%9F%83%E5%B0%94%E6%A2%85%E7%BD%97%E2%85%A1%E4%B8%96%E3%80%95>
+  * 库·丘林(Caster)
+    <https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97(Caster)>
+  * 伊丽莎白·巴托里〔万圣节〕
+    <https://fgo.wiki/w/%E4%BC%8A%E4%B8%BD%E8%8E%8E%E7%99%BD%C2%B7%E5%B7%B4%E6%89%98%E9%87%8C%E3%80%94%E4%B8%87%E5%9C%A3%E8%8A%82%E3%80%95>
+  * 玉藻前 <https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E5%89%8D>
+  * 美狄亚〔Lily〕
+    <https://fgo.wiki/w/%E7%BE%8E%E7%8B%84%E4%BA%9A%E3%80%94Lily%E3%80%95>
+  * 童谣 <https://fgo.wiki/w/%E7%AB%A5%E8%B0%A3>
+  * 冯·霍恩海姆·帕拉塞尔苏斯
+    <https://fgo.wiki/w/%E5%86%AF%C2%B7%E9%9C%8D%E6%81%A9%E6%B5%B7%E5%A7%86%C2%B7%E5%B8%95%E6%8B%89%E5%A1%9E%E5%B0%94%E8%8B%8F%E6%96%AF>
+  * 查尔斯·巴贝奇
+    <https://fgo.wiki/w/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E5%B7%B4%E8%B4%9D%E5%A5%87>
+  * 海伦娜·布拉瓦茨基
+    <https://fgo.wiki/w/%E6%B5%B7%E4%BC%A6%E5%A8%9C%C2%B7%E5%B8%83%E6%8B%89%E7%93%A6%E8%8C%A8%E5%9F%BA>
+  * 托马斯·爱迪生
+    <https://fgo.wiki/w/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E7%88%B1%E8%BF%AA%E7%94%9F>
+  * 杰罗尼莫 <https://fgo.wiki/w/%E6%9D%B0%E7%BD%97%E5%B0%BC%E8%8E%AB>
+  * 爱丽丝菲尔〔天之衣〕
+    <https://fgo.wiki/w/%E7%88%B1%E4%B8%BD%E4%B8%9D%E8%8F%B2%E5%B0%94%E3%80%94%E5%A4%A9%E4%B9%8B%E8%A1%A3%E3%80%95>
+  * 玄奘三藏 <https://fgo.wiki/w/%E7%8E%84%E5%A5%98%E4%B8%89%E8%97%8F>
+  * 尼托克丽丝
+    <https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D>
+  * 莱昂纳多·达·芬奇
+    <https://fgo.wiki/w/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87>
+  * 玛丽·安托瓦内特(Caster)
+    <https://fgo.wiki/w/%E7%8E%9B%E4%B8%BD%C2%B7%E5%AE%89%E6%89%98%E7%93%A6%E5%86%85%E7%89%B9(Caster)>
+  * 伊莉雅丝菲尔·冯·爱因兹贝伦
+    <https://fgo.wiki/w/%E4%BC%8A%E8%8E%89%E9%9B%85%E4%B8%9D%E8%8F%B2%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E7%88%B1%E5%9B%A0%E5%85%B9%E8%B4%9D%E4%BC%A6>
+  * 吉尔伽美什(Caster)
+    <https://fgo.wiki/w/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80(Caster)>
+  * 梅林 <https://fgo.wiki/w/%E6%A2%85%E6%9E%97>
+  * 不夜城的Caster
+    <https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Caster>
+  * 尼禄·克劳狄乌斯(Caster)
+    <https://fgo.wiki/w/%E5%B0%BC%E7%A6%84%C2%B7%E5%85%8B%E5%8A%B3%E7%8B%84%E4%B9%8C%E6%96%AF(Caster)>
+  * 俄刻阿诺斯的Caster
+    <https://fgo.wiki/w/%E4%BF%84%E5%88%BB%E9%98%BF%E8%AF%BA%E6%96%AF%E7%9A%84Caster>
+  * 米德拉什的Caster
+    <https://fgo.wiki/w/%E7%B1%B3%E5%BE%B7%E6%8B%89%E4%BB%80%E7%9A%84Caster>
+  * 阿纳斯塔西娅
+    <https://fgo.wiki/w/%E9%98%BF%E7%BA%B3%E6%96%AF%E5%A1%94%E8%A5%BF%E5%A8%85>
+  * 阿维斯布隆
+    <https://fgo.wiki/w/%E9%98%BF%E7%BB%B4%E6%96%AF%E5%B8%83%E9%9A%86>
+  * 齐格 <https://fgo.wiki/w/%E9%BD%90%E6%A0%BC>
+  * 斯卡哈·斯卡蒂
+    <https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88%C2%B7%E6%96%AF%E5%8D%A1%E8%92%82>
+  * 酒吞童子(Caster)
+    <https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90(Caster)>
+  * 美游·艾德费尔特
+    <https://fgo.wiki/w/%E7%BE%8E%E6%B8%B8%C2%B7%E8%89%BE%E5%BE%B7%E8%B4%B9%E5%B0%94%E7%89%B9>
+  * 紫式部 <https://fgo.wiki/w/%E7%B4%AB%E5%BC%8F%E9%83%A8>
+  * 阿斯克勒庇俄斯
+    <https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E5%85%8B%E5%8B%92%E5%BA%87%E4%BF%84%E6%96%AF>
+  * 陈宫 <https://fgo.wiki/w/%E9%99%88%E5%AE%AB>
+
+Assassin <https://fgo.wiki/w/Assassin>	
+
+  * 佐佐木小次郎
+    <https://fgo.wiki/w/%E4%BD%90%E4%BD%90%E6%9C%A8%E5%B0%8F%E6%AC%A1%E9%83%8E>
+  * 咒腕哈桑 <https://fgo.wiki/w/%E5%92%92%E8%85%95%E5%93%88%E6%A1%91>
+  * 斯忒诺 <https://fgo.wiki/w/%E6%96%AF%E5%BF%92%E8%AF%BA>
+  * 荆轲 <https://fgo.wiki/w/%E8%8D%86%E8%BD%B2>
+  * 夏尔·亨利·桑松
+    <https://fgo.wiki/w/%E5%A4%8F%E5%B0%94%C2%B7%E4%BA%A8%E5%88%A9%C2%B7%E6%A1%91%E6%9D%BE>
+  * 剧院魅影 <https://fgo.wiki/w/%E5%89%A7%E9%99%A2%E9%AD%85%E5%BD%B1>
+  * 玛塔·哈丽
+    <https://fgo.wiki/w/%E7%8E%9B%E5%A1%94%C2%B7%E5%93%88%E4%B8%BD>
+  * 卡米拉 <https://fgo.wiki/w/%E5%8D%A1%E7%B1%B3%E6%8B%89>
+  * 开膛手杰克
+    <https://fgo.wiki/w/%E5%BC%80%E8%86%9B%E6%89%8B%E6%9D%B0%E5%85%8B>
+  * 亨利·杰基尔＆海德
+    <https://fgo.wiki/w/%E4%BA%A8%E5%88%A9%C2%B7%E6%9D%B0%E5%9F%BA%E5%B0%94%EF%BC%86%E6%B5%B7%E5%BE%B7>
+  * 谜之女主角X
+    <https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X>
+  * 两仪式(Assassin)
+    <https://fgo.wiki/w/%E4%B8%A4%E4%BB%AA%E5%BC%8F(Assassin)>
+  * 卫宫〔Assassin〕
+    <https://fgo.wiki/w/%E5%8D%AB%E5%AE%AB%E3%80%94Assassin%E3%80%95>
+  * 百貌哈桑 <https://fgo.wiki/w/%E7%99%BE%E8%B2%8C%E5%93%88%E6%A1%91>
+  * 酒吞童子 <https://fgo.wiki/w/%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90>
+  * 风魔小太郎
+    <https://fgo.wiki/w/%E9%A3%8E%E9%AD%94%E5%B0%8F%E5%A4%AA%E9%83%8E>
+  * 静谧哈桑 <https://fgo.wiki/w/%E9%9D%99%E8%B0%A7%E5%93%88%E6%A1%91>
+  * 斯卡哈(Assassin)
+    <https://fgo.wiki/w/%E6%96%AF%E5%8D%A1%E5%93%88(Assassin)>
+  * 克娄巴特拉
+    <https://fgo.wiki/w/%E5%85%8B%E5%A8%84%E5%B7%B4%E7%89%B9%E6%8B%89>
+  * “山中老人”
+    <https://fgo.wiki/w/%E2%80%9C%E5%B1%B1%E4%B8%AD%E8%80%81%E4%BA%BA%E2%80%9D>
+  * 新宿的Assassin <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Assassin>
+  * 不夜城的Assassin
+    <https://fgo.wiki/w/%E4%B8%8D%E5%A4%9C%E5%9F%8E%E7%9A%84Assassin>
+  * 尼托克丽丝(Assassin)
+    <https://fgo.wiki/w/%E5%B0%BC%E6%89%98%E5%85%8B%E4%B8%BD%E4%B8%9D(Assassin)>
+  * Assassin Paraiso <https://fgo.wiki/w/Assassin_Paraiso>
+  * 加藤段藏 <https://fgo.wiki/w/%E5%8A%A0%E8%97%A4%E6%AE%B5%E8%97%8F>
+  * 刑部姬 <https://fgo.wiki/w/%E5%88%91%E9%83%A8%E5%A7%AC>
+  * 塞弥拉弥斯
+    <https://fgo.wiki/w/%E5%A1%9E%E5%BC%A5%E6%8B%89%E5%BC%A5%E6%96%AF>
+  * 冈田以藏 <https://fgo.wiki/w/%E5%86%88%E7%94%B0%E4%BB%A5%E8%97%8F>
+  * 牛若丸(Assassin)
+    <https://fgo.wiki/w/%E7%89%9B%E8%8B%A5%E4%B8%B8(Assassin)>
+  * 虞美人 <https://fgo.wiki/w/%E8%99%9E%E7%BE%8E%E4%BA%BA>
+  * 李书文(Assassin)
+    <https://fgo.wiki/w/%E6%9D%8E%E4%B9%A6%E6%96%87(Assassin)>
+  * 迦摩 <https://fgo.wiki/w/%E8%BF%A6%E6%91%A9>
+  * 格蕾 <https://fgo.wiki/w/%E6%A0%BC%E8%95%BE>
+  * 夏绿蒂·科黛
+    <https://fgo.wiki/w/%E5%A4%8F%E7%BB%BF%E8%92%82%C2%B7%E7%A7%91%E9%BB%9B>
+  * 冲田·J·总司
+    <https://fgo.wiki/w/%E5%86%B2%E7%94%B0%C2%B7J%C2%B7%E6%80%BB%E5%8F%B8>
+
+Berserker <https://fgo.wiki/w/Berserker>	
+
+  * 赫拉克勒斯
+    <https://fgo.wiki/w/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF>
+  * 兰斯洛特 <https://fgo.wiki/w/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B9>
+  * 吕布奉先 <https://fgo.wiki/w/%E5%90%95%E5%B8%83%E5%A5%89%E5%85%88>
+  * 斯巴达克斯
+    <https://fgo.wiki/w/%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%85%8B%E6%96%AF>
+  * 坂田金时 <https://fgo.wiki/w/%E5%9D%82%E7%94%B0%E9%87%91%E6%97%B6>
+  * 弗拉德三世
+    <https://fgo.wiki/w/%E5%BC%97%E6%8B%89%E5%BE%B7%E4%B8%89%E4%B8%96>
+  * 阿斯忒里俄斯
+    <https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E5%BF%92%E9%87%8C%E4%BF%84%E6%96%AF>
+  * 卡利古拉 <https://fgo.wiki/w/%E5%8D%A1%E5%88%A9%E5%8F%A4%E6%8B%89>
+  * 大流士三世
+    <https://fgo.wiki/w/%E5%A4%A7%E6%B5%81%E5%A3%AB%E4%B8%89%E4%B8%96>
+  * 清姬 <https://fgo.wiki/w/%E6%B8%85%E5%A7%AC>
+  * 血斧埃里克
+    <https://fgo.wiki/w/%E8%A1%80%E6%96%A7%E5%9F%83%E9%87%8C%E5%85%8B>
+  * 玉藻猫 <https://fgo.wiki/w/%E7%8E%89%E8%97%BB%E7%8C%AB>
+  * 弗兰肯斯坦
+    <https://fgo.wiki/w/%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6>
+  * 贝奥武夫 <https://fgo.wiki/w/%E8%B4%9D%E5%A5%A5%E6%AD%A6%E5%A4%AB>
+  * 南丁格尔 <https://fgo.wiki/w/%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94>
+  * 库·丘林〔Alter〕
+    <https://fgo.wiki/w/%E5%BA%93%C2%B7%E4%B8%98%E6%9E%97%E3%80%94Alter%E3%80%95>
+  * 源赖光 <https://fgo.wiki/w/%E6%BA%90%E8%B5%96%E5%85%89>
+  * 茨木童子 <https://fgo.wiki/w/%E8%8C%A8%E6%9C%A8%E7%AB%A5%E5%AD%90>
+  * 谜之女主角X〔Alter〕
+    <https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92X%E3%80%94Alter%E3%80%95>
+  * 土方岁三 <https://fgo.wiki/w/%E5%9C%9F%E6%96%B9%E5%B2%81%E4%B8%89>
+  * 茶茶 <https://fgo.wiki/w/%E8%8C%B6%E8%8C%B6>
+  * 黄金国的Berserker
+    <https://fgo.wiki/w/%E9%BB%84%E9%87%91%E5%9B%BD%E7%9A%84Berserker>
+  * 保罗·班扬
+    <https://fgo.wiki/w/%E4%BF%9D%E7%BD%97%C2%B7%E7%8F%AD%E6%89%AC>
+  * 织田信长(Berserker)
+    <https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Berserker)>
+  * 阿塔兰忒〔Alter〕
+    <https://fgo.wiki/w/%E9%98%BF%E5%A1%94%E5%85%B0%E5%BF%92%E3%80%94Alter%E3%80%95>
+  * 贞德〔Alter〕(Berserker)
+    <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7%E3%80%94Alter%E3%80%95(Berserker)>
+  * 项羽 <https://fgo.wiki/w/%E9%A1%B9%E7%BE%BD>
+  * 阿周那〔Alter〕
+    <https://fgo.wiki/w/%E9%98%BF%E5%91%A8%E9%82%A3%E3%80%94Alter%E3%80%95>
+  * 森长可 <https://fgo.wiki/w/%E6%A3%AE%E9%95%BF%E5%8F%AF>
+  * 莎乐美 <https://fgo.wiki/w/%E8%8E%8E%E4%B9%90%E7%BE%8E>
+  * 宫本武藏(Berserker)
+    <https://fgo.wiki/w/%E5%AE%AB%E6%9C%AC%E6%AD%A6%E8%97%8F(Berserker)>
+
+Ruler <https://fgo.wiki/w/Ruler>	
+
+  * 贞德 <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7>
+  * 天草四郎 <https://fgo.wiki/w/%E5%A4%A9%E8%8D%89%E5%9B%9B%E9%83%8E>
+  * 玛尔达(Ruler) <https://fgo.wiki/w/%E7%8E%9B%E5%B0%94%E8%BE%BE(Ruler)>
+  * 夏洛克·福尔摩斯
+    <https://fgo.wiki/w/%E5%A4%8F%E6%B4%9B%E5%85%8B%C2%B7%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF>
+  * 始皇帝 <https://fgo.wiki/w/%E5%A7%8B%E7%9A%87%E5%B8%9D>
+  * 魁札尔·科亚特尔〔桑巴／圣诞〕
+    <https://fgo.wiki/w/%E9%AD%81%E6%9C%AD%E5%B0%94%C2%B7%E7%A7%91%E4%BA%9A%E7%89%B9%E5%B0%94%E3%80%94%E6%A1%91%E5%B7%B4%EF%BC%8F%E5%9C%A3%E8%AF%9E%E3%80%95>
+  * 阿斯特赖亚
+    <https://fgo.wiki/w/%E9%98%BF%E6%96%AF%E7%89%B9%E8%B5%96%E4%BA%9A>
+  * 阿尔托莉雅·潘德拉贡(Ruler)
+    <https://fgo.wiki/w/%E9%98%BF%E5%B0%94%E6%89%98%E8%8E%89%E9%9B%85%C2%B7%E6%BD%98%E5%BE%B7%E6%8B%89%E8%B4%A1(Ruler)>
+
+Avenger <https://fgo.wiki/w/Avenger>	
+
+  * 岩窟王 <https://fgo.wiki/w/%E5%B2%A9%E7%AA%9F%E7%8E%8B>
+  * 贞德〔Alter〕
+    <https://fgo.wiki/w/%E8%B4%9E%E5%BE%B7%E3%80%94Alter%E3%80%95>
+  * 安哥拉曼纽
+    <https://fgo.wiki/w/%E5%AE%89%E5%93%A5%E6%8B%89%E6%9B%BC%E7%BA%BD>
+  * 戈耳工 <https://fgo.wiki/w/%E6%88%88%E8%80%B3%E5%B7%A5>
+  * 新宿的Avenger <https://fgo.wiki/w/%E6%96%B0%E5%AE%BF%E7%9A%84Avenger>
+  * 安东尼奥·萨列里
+    <https://fgo.wiki/w/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%90%A8%E5%88%97%E9%87%8C>
+  * 织田信长(Avenger)
+    <https://fgo.wiki/w/%E7%BB%87%E7%94%B0%E4%BF%A1%E9%95%BF(Avenger)>
+
+Alterego <https://fgo.wiki/w/Alterego>	
+
+  * Meltryllis <https://fgo.wiki/w/Meltryllis>
+  * Passionlip <https://fgo.wiki/w/Passionlip>
+  * 杀生院祈荒
+    <https://fgo.wiki/w/%E6%9D%80%E7%94%9F%E9%99%A2%E7%A5%88%E8%8D%92>
+  * 机械伊丽亲
+    <https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E4%BC%8A%E4%B8%BD%E4%BA%B2>
+  * 机械伊丽亲Ⅱ号机
+    <https://fgo.wiki/w/%E6%9C%BA%E6%A2%B0%E4%BC%8A%E4%B8%BD%E4%BA%B2%E2%85%A1%E5%8F%B7%E6%9C%BA>
+  * 冲田总司〔Alter〕
+    <https://fgo.wiki/w/%E5%86%B2%E7%94%B0%E6%80%BB%E5%8F%B8%E3%80%94Alter%E3%80%95>
+  * 志度内 <https://fgo.wiki/w/%E5%BF%97%E5%BA%A6%E5%86%85>
+  * Kingprotea <https://fgo.wiki/w/Kingprotea>
+
+MoonCancer <https://fgo.wiki/w/MoonCancer>	
+
+  * BB <https://fgo.wiki/w/BB>
+  * BB(SSR) <https://fgo.wiki/w/BB(SSR)>
+  * 伟大的石像神
+    <https://fgo.wiki/w/%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%9F%B3%E5%83%8F%E7%A5%9E>
+
+Foreigner <https://fgo.wiki/w/Foreigner>	
+
+  * 阿比盖尔·威廉姆斯
+    <https://fgo.wiki/w/%E9%98%BF%E6%AF%94%E7%9B%96%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF>
+  * 葛饰北斋 <https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B>
+  * 谜之女主角XX
+    <https://fgo.wiki/w/%E8%B0%9C%E4%B9%8B%E5%A5%B3%E4%B8%BB%E8%A7%92XX>
+
+Shielder <https://fgo.wiki/w/Shielder>	
+
+  * 玛修·基列莱特
+    <https://fgo.wiki/w/%E7%8E%9B%E4%BF%AE%C2%B7%E5%9F%BA%E5%88%97%E8%8E%B1%E7%89%B9>
+
+无法召唤	
+
+  * 所罗门 <https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8>
+  * 提亚马特 <https://fgo.wiki/w/%E6%8F%90%E4%BA%9A%E9%A9%AC%E7%89%B9>
+  * 盖提亚 <https://fgo.wiki/w/%E7%9B%96%E6%8F%90%E4%BA%9A>
+  * 所罗门(Caster) <https://fgo.wiki/w/%E6%89%80%E7%BD%97%E9%97%A8(Caster)>
+  * BeastⅢ／R <https://fgo.wiki/w/Beast%E2%85%A2%EF%BC%8FR>
+  * BeastⅢ／L <https://fgo.wiki/w/Beast%E2%85%A2%EF%BC%8FL>
+
+取自“http://fgo.wiki/index.php?title=葛饰北斋(Saber)&oldid=231264
+<http://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&oldid=231264>”
+
+分类
+<https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1
+%BB>：
+
+  * 从者 <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E4%BB%8E%E8%80%85>
+  * 国服尚未实装的从者
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E5%9B%BD%E6%9C%8D%E5%B0%9A%E6%9C%AA%E5%AE%9E%E8%A3%85%E7%9A%84%E4%BB%8E%E8%80%85>
+  * 混沌属性
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%B7%B7%E6%B2%8C%E5%B1%9E%E6%80%A7>
+  * 善属性
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E5%96%84%E5%B1%9E%E6%80%A7>
+  * 人属性
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E4%BA%BA%E5%B1%9E%E6%80%A7>
+  * Saber <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:Saber>
+  * 女性 <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E5%A5%B3%E6%80%A7>
+  * 4星 <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:4%E6%98%9F>
+  * 黑星红白
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E9%BB%91%E6%98%9F%E7%BA%A2%E7%99%BD>
+  * Yukana <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:Yukana>
+  * Arts宝具从者
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:Arts%E5%AE%9D%E5%85%B7%E4%BB%8E%E8%80%85>
+  * 有图表的页面
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%9C%89%E5%9B%BE%E8%A1%A8%E7%9A%84%E9%A1%B5%E9%9D%A2>
+
+隐藏分类：
+
+  * 未复查的从者条目
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%9C%AA%E5%A4%8D%E6%9F%A5%E7%9A%84%E4%BB%8E%E8%80%85%E6%9D%A1%E7%9B%AE>
+  * 英灵图鉴
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+
+热门评论
+咕哒咕哒nobu子
+<https://fgo.wiki/w/User:%E5%92%95%E5%93%92%E5%92%95%E5%93%92nobu%E5%AD%90>
+以后人人都有北斋舔了，还不谢谢叶葛格！
+2019年8月14日, 20:16:19赞(44)
+Anastasia <https://fgo.wiki/w/User:Anastasia>
+第一次看到就觉得泳装北斋的初始立绘有种似曾相识的感觉，但又不知道在哪里看
+过，直到那天我无意瞥到高中生物书上蛋白质女王那一页……
+2019年8月23日, 22:25:20赞(35)
+石動美緒 <https://fgo.wiki/w/User:%E7%9F%B3%E5%8B%95%E7%BE%8E%E7%B7%92>
+鬼知道战斗语音的受击1我听了几遍)
+2019年8月19日, 01:01:19赞(16)
+迷你迷你迷你信
+<https://fgo.wiki/w/User:%E8%BF%B7%E4%BD%A0%E8%BF%B7%E4%BD%A0%E8%BF%B7%E4%BD%A0%E4%BF%A1>
+北斋使用了攀瀑术！
+2019年9月4日, 19:51:19赞(5)
+神尊惊破天
+<https://fgo.wiki/w/User:%E7%A5%9E%E5%B0%8A%E6%83%8A%E7%A0%B4%E5%A4%A9>
+这个技能组，岳父欣慰的表示后继有人
+2019年9月2日, 19:17:39
+RG0093 <https://fgo.wiki/w/User:RG0093>
+日服新人 现在活动从者 都无法满宝具了？通了主线一共只拿到了4张（1主线+3任
+务）？ 还是我手滑...facepalm
+2019年8月27日, 08:21:42
+Sora <https://fgo.wiki/w/User:Sora>
+主线剧情打完了以后，好像新开了一张图拿一张...
+2019年9月5日, 13:02:12
+Lifeboat <https://fgo.wiki/w/User:Lifeboat>
+哟！画狂剑青！葛饰北斋！
+2019年8月26日, 19:01:06赞(3)
+KoLo <https://fgo.wiki/w/User:KoLo>
+庄子卫星升天？！？！
+2019年8月26日, 13:56:43
+Anastasia <https://fgo.wiki/w/User:Anastasia>
+第一次看到就觉得泳装北斋的初始立绘有种似曾相识的感觉，但又不知道在哪里看
+过，直到那天我无意瞥到高中生物书上蛋白质女王那一页……
+2019年8月23日, 22:25:20赞(35)
+菈琪旭 <https://fgo.wiki/w/User:%E8%8F%88%E7%90%AA%E6%97%AD>
+nmd 再也没法直视了
+2019年8月28日, 17:35:45
+Poryz <https://fgo.wiki/w/User:Poryz>
+我可以举报你吗···这还让人怎么舔···
+2019年8月30日, 22:31:08赞(1)
+御子神前 <https://fgo.wiki/w/User:%E5%BE%A1%E5%AD%90%E7%A5%9E%E5%89%8D>
+北斋是这次唯一1个单体呢
+2019年8月21日, 20:21:17赞(1)
+银魂中毒患者
+<https://fgo.wiki/w/User:%E9%93%B6%E9%AD%82%E4%B8%AD%E6%AF%92%E6%82%A3%E8%80%85>
+三破语音好卡哇伊啊
+2019年8月21日, 08:09:59
+AndyXi <https://fgo.wiki/w/User:AndyXi>
+第一个没有两红的saber出现了（？！）
+2019年8月21日, 03:32:29赞(1)
+Ddphan <https://fgo.wiki/w/User:Ddphan>
+剑兰地位要跌了啊
+2019年8月19日, 22:06:24
+12345...9
+您没有权限发表评论，这可能是因为您尚未登录
+<https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD
+%95>或您已被封禁。
+在发表评论前，请先阅读评论须知
+<https://fgo.wiki/w/Mooncell:%E8%AF%84%E8%AE%BA%E9%A1%BB%E7%9F%A5>。
+
+
+    导航菜单
+
+
+个人工具
+
+  * 创建账户
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&returnto=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%28Saber%29>
+  * 登录
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&returnto=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%28Saber%29>
+
+
+名字空间
+
+  * 页面 <https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)>
+  * 讨论
+    <https://fgo.wiki/index.php?title=%E8%AE%A8%E8%AE%BA:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&action=edit&redlink=1>
+
+
+      变种
+
+
+视图
+
+  * 阅读 <https://fgo.wiki/w/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)>
+  * 查看源代码
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&action=edit>
+  * 查看历史
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&action=history>
+
+
+      更多
+
+
+      搜索
+
+<https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+
+  * 首页 <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+  * 复制短链接https://fgo.wiki/id/45694 <javascript:void(0);>
+  * 支持我们
+    <https://fgo.wiki/w/Mooncell:%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E5%AE%8C%E5%96%84%E7%BD%91%E7%AB%99#.E8.B5.84.E5.8A.A9.E6.88.91.E4.BB.AC.E6.94.B9.E5.96.84.E8.AE.BF.E9.97.AE.E8.B4.A8.E9.87.8F>
+  * 求助与建议
+    <https://fgo.wiki/w/Mooncell:%E6%B1%82%E5%8A%A9%E4%B8%8E%E5%BB%BA%E8%AE%AE>
+
+热门页面
+
+  *
+  *
+    *当前活动
+
+    *
+      o 日服：Battle in New York 2019
+        <https://fgo.wiki/w/Battle_in_New_York_2019(%E6%97%A5%E6%9C%8D)>
+      o 国服：从者·夏日·庆典！
+        <https://fgo.wiki/w/%E4%BB%8E%E8%80%85%C2%B7%E5%A4%8F%E6%97%A5%C2%B7%E5%BA%86%E5%85%B8%EF%BC%81>
+  *
+  * 英灵图鉴 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+  * 概念礼装图鉴 <https://fgo.wiki/w/%E7%A4%BC%E8%A3%85%E5%9B%BE%E9%89%B4>
+  * 指令纹章图鉴
+    <https://fgo.wiki/w/%E6%8C%87%E4%BB%A4%E7%BA%B9%E7%AB%A0%E5%9B%BE%E9%89%B4>
+  * 抽卡模拟器
+    <https://fgo.wiki/w/%E6%8A%BD%E5%8D%A1%E6%A8%A1%E6%8B%9F%E5%99%A8>
+      o
+      o
+        *国服
+
+        *
+          + Serva★Fes推荐召唤3
+            <https://fgo.wiki/w/%E4%BB%8E%E8%80%85%C2%B7%E5%A4%8F%E6%97%A5%C2%B7%E5%BA%86%E5%85%B8%EF%BC%81/%E5%8D%A1%E6%B1%A03%E8%AF%A6%E6%83%85/%E6%A8%A1%E6%8B%9F%E5%99%A8>
+          + Serva★Fes推荐召唤1
+            <https://fgo.wiki/w/%E4%BB%8E%E8%80%85%C2%B7%E5%A4%8F%E6%97%A5%C2%B7%E5%BA%86%E5%85%B8%EF%BC%81/%E5%8D%A1%E6%B1%A01%E8%AF%A6%E6%83%85/%E6%A8%A1%E6%8B%9F%E5%99%A8>
+          + Serva★Fes推荐召唤2
+            <https://fgo.wiki/w/%E4%BB%8E%E8%80%85%C2%B7%E5%A4%8F%E6%97%A5%C2%B7%E5%BA%86%E5%85%B8%EF%BC%81/%E5%8D%A1%E6%B1%A02%E8%AF%A6%E6%83%85/%E6%A8%A1%E6%8B%9F%E5%99%A8>
+      o
+      o
+        *日服
+
+        *
+          + 闪闪祭2019推荐召唤
+            <https://fgo.wiki/w/Battle_in_New_York_2019(%E6%97%A5%E6%9C%8D)/%E5%8D%A1%E6%B1%A0%E8%AF%A6%E6%83%85/%E6%A8%A1%E6%8B%9F%E5%99%A8>
+          + 职阶区别推荐召唤(第六次)
+            <https://fgo.wiki/w/%E8%81%8C%E9%98%B6%E5%8C%BA%E5%88%AB%E6%8E%A8%E8%8D%90%E5%8F%AC%E5%94%A4(%E7%AC%AC%E5%85%AD%E6%AC%A1)/%E6%A8%A1%E6%8B%9F%E5%99%A8>
+  * 周常规划
+    <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5/%E5%91%A8%E5%B8%B8%E8%A7%84%E5%88%92>
+
+菜单
+
+  *
+    *通用
+
+    *
+      o 英灵图鉴 <https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4>
+      o 礼装图鉴 <https://fgo.wiki/w/%E7%A4%BC%E8%A3%85%E5%9B%BE%E9%89%B4>
+      o 基础数据
+        <https://fgo.wiki/w/%E6%B8%B8%E6%88%8F%E6%95%B0%E6%8D%AE%E5%9F%BA%E7%A1%80>
+      o 技能一览 <https://fgo.wiki/w/%E6%8A%80%E8%83%BD%E4%B8%80%E8%A7%88>
+      o 活动一览 <https://fgo.wiki/w/%E6%B4%BB%E5%8A%A8%E4%B8%80%E8%A7%88>
+      o 卡池一览 <https://fgo.wiki/w/%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88>
+      o 魔术礼装 <https://fgo.wiki/w/%E5%BE%A1%E4%B8%BB%E8%A3%85%E5%A4%87>
+      o 新人入门 <https://fgo.wiki/w/%E6%96%B0%E4%BA%BA%E5%85%A5%E9%97%A8>
+      o 关卡配置 <https://fgo.wiki/w/%E5%85%B3%E5%8D%A1%E9%85%8D%E7%BD%AE>
+      o 道具一览 <https://fgo.wiki/w/%E9%81%93%E5%85%B7%E4%B8%80%E8%A7%88>
+      o 特攻一览 <https://fgo.wiki/w/%E7%89%B9%E6%94%BB%E4%B8%80%E8%A7%88>
+      o 敌人一览 <https://fgo.wiki/w/%E6%95%8C%E4%BA%BA%E4%B8%80%E8%A7%88>
+  *
+    *扩展
+
+    *
+      o 灵衣一览 <https://fgo.wiki/w/%E7%81%B5%E8%A1%A3%E4%B8%80%E8%A7%88>
+      o 状态一览 <https://fgo.wiki/w/%E7%8A%B6%E6%80%81%E4%B8%80%E8%A7%88>
+      o 御主任务 <https://fgo.wiki/w/%E5%BE%A1%E4%B8%BB%E4%BB%BB%E5%8A%A1>
+      o 音乐鉴赏 <https://fgo.wiki/w/%E9%9F%B3%E4%B9%90%E9%89%B4%E8%B5%8F>
+      o 声优一览 <https://fgo.wiki/w/%E5%A3%B0%E4%BC%98%E4%B8%80%E8%A7%88>
+      o 画师一览 <https://fgo.wiki/w/%E7%94%BB%E5%B8%88%E4%B8%80%E8%A7%88>
+      o 登场人物 <https://fgo.wiki/w/%E7%99%BB%E5%9C%BA%E4%BA%BA%E7%89%A9>
+      o 关卡特性
+        <https://fgo.wiki/w/%E5%85%B3%E5%8D%A1%E7%89%B9%E6%80%A7%E4%B8%80%E8%A7%88>
+      o 数据计算 <https://fgo.wiki/w/%E8%AE%A1%E7%AE%97%E5%99%A8>
+      o 宝具效果一览
+        <https://fgo.wiki/w/%E5%AE%9D%E5%85%B7%E6%95%88%E6%9E%9C%E4%B8%80%E8%A7%88>
+      o 各类信息汇总
+        <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E6%B1%87%E6%80%BB>
+  *
+    *趣味
+
+    *
+      o FGO相关表情包
+        <https://fgo.wiki/w/FGO%E7%9B%B8%E5%85%B3%E8%A1%A8%E6%83%85%E5%8C%85>
+      o FGO名人录 <https://fgo.wiki/w/FGO%E5%90%8D%E4%BA%BA%E5%BD%95>
+      o FGO黑话·梗·成句
+        <https://fgo.wiki/w/FGO%E9%BB%91%E8%AF%9D%C2%B7%E6%A2%97%C2%B7%E6%88%90%E5%8F%A5>
+      o 游戏卫星一览
+        <https://fgo.wiki/w/%E6%B8%B8%E6%88%8F%E5%8D%AB%E6%98%9F%E4%B8%80%E8%A7%88>
+      o 月之背面 <https://fgo.wiki/w/%E6%9C%88%E4%B9%8B%E8%83%8C%E9%9D%A2>
+      o 趣味游戏
+        <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:%E8%B6%A3%E5%91%B3%E6%B8%B8%E6%88%8F>
+      o 站娘 <https://fgo.wiki/w/Mooncell:%E7%AB%99%E5%A8%98>
+
+  * 随机页面 <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E9%9A%8F%E6%9C%BA>
+  *
+*
+
+探索
+
+  * PRTS-明日方舟wiki <http://ak.mooncell.wiki/>
+
+  *
+    *官方网站
+
+    *
+      o Fate/Grand Order简中服官网 <https://fgo.biligame.com/>
+      o Fate/Grand Order日服官网 <https://www.fate-go.jp/>
+      o Fate/Grand Order繁中服官网 <https://www.fate-go.com.tw/>
+      o Fate/Grand Order美服官网 <https://fate-go.us/>
+      o Fate/Grand Order韩服官网 <http://fgo.netmarble.com/>
+      o Fate/Grand Order VR <https://vr.fate-go.jp/>
+      o Fate/Grand Order Arcade <https://arcade.fate-go.jp/>
+      o TYPE-MOON <http://typemoon.com/>
+      o 竹箒日記 <http://www.typemoon.org/bbb/diary>
+  *
+    *友情链接
+
+    *
+      o
+        *中文
+
+        *
+          + NGA论坛Fate/Grand Order版块
+            <http://bbs.nga.cn/thread.php?fid=540>
+          + 茹西教王的理想乡 <http://kazemai.github.io/fgo-vz>
+          + 少前百科GFwiki <http://www.gfwiki.org/>
+          + 维基百科 <https://www.wikipedia.org/>
+          + 萌娘百科 <https://zh.moegirl.org/>
+      o
+        *日文
+
+        *
+          + appmedia的fategrandorder频道
+            <https://appmedia.jp/fategrandorder>
+          + FGO素材效率剧场 <https://sites.google.com/view/fgo-domus-aurea>
+          + FGO攻略まとめwiki <https://grand_order.wicurio.com/>
+          + Fate/Grand Order @wiki <https://www9.atwiki.jp/f_go>
+      o
+        *英文
+
+        *
+          + Grand Order wiki <https://grandorder.wiki/>
+          + Cirnopedia <http://fate-go.cirnopedia.org/>
+          + FGO Items <https://johnsmith2017.github.io/fgo/item.html>
+          + Fandom的fategrandorder频道 <https://fategrandorder.fandom.com/>
+          + Fandom的TYPE-MOON频道
+            <https://typemoon.fandom.com/wiki/TYPE-MOON_Wiki>
+
+管理与编辑
+
+  * 最近更改
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9>
+  * SE.RA.PH <https://fgo.wiki/w/Mooncell:SE.RA.PH>
+  * 编辑指南
+    <https://fgo.wiki/w/Mooncell:%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97>
+  * 常用代码
+    <https://fgo.wiki/w/Mooncell:%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81>
+  * 模板一览
+    <https://fgo.wiki/w/%E5%88%86%E7%B1%BB:Mooncell%E6%A8%A1%E6%9D%BF>
+  * 贡献分数
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E8%B4%A1%E7%8C%AE%E5%BE%97%E5%88%86>
+  * 收支一览
+    <https://fgo.wiki/w/Mooncell:%E6%94%B6%E6%94%AF%E4%B8%80%E8%A7%88>
+
+工具
+
+  * 链入页面
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)>
+  *
+  * 相关更改
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%9C%80%E8%BF%91%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)>
+  *
+  * 特殊页面
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2>
+  *
+  * 可打印版本
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&printable=yes>
+  *
+  * 固定链接
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&oldid=231264>
+  *
+  * 页面信息
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&action=info>
+  *
+  * 引用本页
+    <https://fgo.wiki/index.php?title=%E7%89%B9%E6%AE%8A:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&page=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B%28Saber%29&id=231264>
+  *
+  * 浏览属性
+    <https://fgo.wiki/w/%E7%89%B9%E6%AE%8A:%E6%B5%8F%E8%A7%88/:%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)>
+*
+
+  * 本页面最后编辑于2019年9月17日 (星期二) 23:46。
+  * 本网站是由 Fate/Grand Order 游戏爱好者，使用免费开源的 MediaWiki 程
+    序制作。网站所涉及的公司名称、商标、产品等均为其各自所有者的资产，仅
+    供识别。
+    网站内使用的游戏图片、动画、音频、文本原文，仅用于更好地表现游戏资
+    料，其版权属于 TYPE-MOON/FGO PROJECT。
+    除非另有声明，网站其他内容采用知识共享署名-非商业性使用-相同方式共享
+    <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>授权。
+
+  * 隐私政策
+    <https://fgo.wiki/w/Mooncell:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96>
+  * 关于Mooncell <https://fgo.wiki/w/Mooncell:%E5%85%B3%E4%BA%8E>
+  * 免责声明
+    <https://fgo.wiki/w/Mooncell:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E>
+  * 粤ICP备18102655号-1 <https://fgo.wiki/w/%E9%A6%96%E9%A1%B5>
+  * 下载安卓客户端 <https://fgo.wiki/w/Mooncell:Appclient>
+  * 广告投放
+    <https://fgo.wiki/w/Mooncell:%E5%B9%BF%E5%91%8A%E6%8A%95%E6%94%BE>
+  * 评论须知
+    <https://fgo.wiki/w/Mooncell:%E8%AF%84%E8%AE%BA%E9%A1%BB%E7%9F%A5>
+  * 手机版视图
+    <https://fgo.wiki/index.php?title=%E8%91%9B%E9%A5%B0%E5%8C%97%E6%96%8B(Saber)&mobileaction=toggle_view_mobile>
+
+  * 知识共享署名-非商业性使用-相同方式共享
+    <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh>	
+  * Powered by MediaWiki <https://www.mediawiki.org/>a Mooncell project
+    <http://project.mooncell.wiki/>Powered by Semantic MediaWiki
+    <https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki>	
+

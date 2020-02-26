@@ -1715,15 +1715,15 @@ void MainWindow::CalculatePlan2()
 void MainWindow::ReadConfig()
 {
     int lRed, lGreen, lBlue;
-    QString sConfigFilPath;
+    QString sConfigFilePath;
     QFile *fConfigFile;
     QSettings *stConfigFile;
 
-    sConfigFilPath=QDir::currentPath()+"/config.ini";
-    fConfigFile= new QFile(sConfigFilPath);
+    sConfigFilePath=QDir::currentPath()+"/config.ini";
+    fConfigFile= new QFile(sConfigFilePath);
     if (fConfigFile->exists())
     {
-        stConfigFile=new QSettings(sConfigFilPath,QSettings::IniFormat);
+        stConfigFile=new QSettings(sConfigFilePath,QSettings::IniFormat);
         ui->actionRF1->setText(stConfigFile->value("File/Path1").toString()); //read path
         ui->actionRF2->setText(stConfigFile->value("File/Path2").toString());
         ui->actionRF3->setText(stConfigFile->value("File/Path3").toString());
