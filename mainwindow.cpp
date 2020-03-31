@@ -1262,7 +1262,8 @@ void MainWindow::CalculateRequirement3()
 {
     int i=0;
     int j=0;
-    unsigned long long int lRequirementCounter;
+    //unsigned long long int lRequirementCounter;
+    qint64 lRequirementCounter;
     int lPlanCounter;
     int lPRI=0;
     bool bEnable=false;
@@ -1305,7 +1306,7 @@ void MainWindow::CalculateRequirement3()
         ui->tRequirementData_2->item(i,3)->setText(s); //set requirement
         lPlanCounter=ui->tRequirementData_1->item(i,5)->text().toInt(); //get plan
         s=ui->tRequirementData_2->item(i,2)->text(); //get user data
-        s.setNum(lRequirementCounter-s.toULongLong());
+        s.setNum(lRequirementCounter-static_cast<qint64>(s.toULongLong()));
         if (s.toInt()>0)
         {
             if (s.toInt()>lPlanCounter)
